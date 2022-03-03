@@ -1,0 +1,2017 @@
+;Preco;Marca;Nome;Modelo;Km;Ano;Estado;Regiao;Loja
+0;87.220;Chevrolet;Spin;1.8 Activ 8v Flex 4p Aut;20.747;2019;PR;Curitiba;Hyundai Veiculos
+1;89.900;Ford;Ecosport;1.5 Tivct Flex Freestyle Manual;19.799;2020;PR;Curitiba;Hyundai Veiculos
+2;65.900;Chevrolet;Prisma;Lt 1.4 Mecanico _4p_;64.472;2019;PR;Capão da Imbuia - Curitiba;Vazio
+3;57.900;Chevrolet;Onix;1.0 Mt Lt;44.000;2019;PR;Capão Raso - Curitiba;Vazio
+4;72.900;Jeep;Renegade;Sport 1.8 Flex Manual;74.000;2016;PR;Centro - Londrina;Vazio
+5;74.990;Hyundai;Hb20;Hb20 Premium 1.6;62.000;2018;PR;Centro - Londrina;Vazio
+6;58.900;Hyundai;Hb20;Hb20 Comfort Plus 1.0 Flex 12v Mec.;56.000;2019;PR;Capão Raso - Curitiba;Vazio
+7;79.600;Honda;Civic;Sedan Lxs C-at 1.8 16v 4p;92.000;2016;PR;Boa Vista - Curitiba;Vazio
+8;74.000;Chevrolet;Tracker;Chev Ltz At;94.800;2015;PR;Jardim Carvalho - Ponta Grossa;Vazio
+9;86.900;Volkswagen;Polo;Highline 200 Tsi 1.0 Flex 12v Aut;90.000;2019;PR;Centro - Londrina;Vazio
+10;76.700;Jeep;Renegade;1.8 16v Flex Sport 4p Automático;20.000;2016;PR;Boa Vista - Curitiba;Vazio
+11;89.900;Renault;Duster;Oroch Dyna 2.0 16v Aut;17.948;2019;PR;Seminário - Curitiba;Vazio
+12;89.900;Fiat;Strada;Adventure Cabine Dupla;90.000;2019;PR;Conradinho - Guarapuava;Vazio
+13;80.900;Fiat;Strada;Freedom Cd1.4 Flex 8v;36.000;2019;PR;Centro - Londrina;Vazio
+14;84.500;Hyundai;Hb20s;Hb20s Premium 1.6 Flex 16v Aut. 4p;10.559;2019;PR;Rodocentro - Londrina;Vazio
+15;56.500;Fiat;Idea;Adventure 1.8 16v(flex) 4p;36.777;2016;PR;Rodocentro - Londrina;Vazio
+16;55.000;Chevrolet;Prisma;1.0 Sed. Joy Ls;73.000;2019;PR;Centro - Londrina;Vazio
+17;55.990;Fiat;Strada;Working Hard 1.4 Fire Flex 8v Cs;115.000;2018;PR;Centro - Londrina;Vazio
+18;83.000;Jeep;Renegade;1.8 Limited Edition Flex Aut. 5p;96.000;2016;PR;São Cristóvão - União da Vitória;Vazio
+19;64.900;Renault;Kwid;Outsider 1.0 Flex 12v 5p Mec;7.862;2022;PR;Rebouças - Curitiba;Vazio
+20;63.900;Volkswagen;Voyage;1.6 8v Flex 4p Manual;47.029;2020;PR;Rebouças - Curitiba;Vazio
+21;56.000;Volkswagen;Saveiro;1.6 Trendline Cab. Dupla Total Flex 2p;110.000;2015;PR;Pinheirinho - Curitiba;Vazio
+22;80.000;Volkswagen;Golf;Volkswagen Golf Comfortline 1.6 Msi Total Flex Mec;52.035;2016;PR;Bacacheri - Curitiba;Vazio
+23;58.900;Volkswagen;Saveiro;1.6 Robust Cab. Simples Total Flex 2p;99.000;2019;PR;Bacacheri - Curitiba;Vazio
+24;88.900;Renault;Sandero;Rs Racing Spirit Flex 2.0 16v 5p;11.400;2021;PR;Parolin - Curitiba;Vazio
+25;78.900;Hyundai;Hb20;Hb20 Evolution 1.0 Flex 12v Mec;20.240;2021;PR;Curitiba;Hyundai Veiculos
+26;76.000;Fiat;Strada;1.4 Hard Working Cab. Dupla Flex 3p;42.000;2019;PR;Parigot de Souza 2 - Londrina;Vazio
+27;65.900;Nissan;Versa;1.6 16v Sl Unique Aut. 4p;102.000;2017;PR;Parigot de Souza 2 - Londrina;Vazio
+28;55.900;Chevrolet;Onix;1.4 Ltz 5p;124.000;2016;PR;Parigot de Souza 1 - Londrina;Vazio
+29;79.900;Ford;Ecosport;1.5 Tivct Flex Se Automático;62.923;2018;PR;Londrina;Vazio
+30;83.990;Volkswagen;Virtus;1.0 200 Tsi Comfortline Automático;64.000;2020;PR;São Cristovão - Cascavel;Vazio
+31;84.900;Fiat;Fiorino;1.4 Mpi Furgão Hard Working 8v Flex 2p Manual;53.269;2021;PR;Londrina;Vazio
+32;86.900;Ford;Ecosport;1.5 Tivct Flex Freestyle Manual;38.747;2019;PR;Londrina;Vazio
+33;89.900;Honda;Fit;1.5 Lx 16v Flex 4p Automático;60.482;2019;PR;Londrina;Vazio
+34;60.490;Chevrolet;Onix;1.0 Mpfi Lt 8v Flex 4p Manual;45.702;2019;PR;Oficinas - Ponta Grossa;Vazio
+35;82.260;Citroën;C4;Cactus 1.6 Vti 120 Flex Feel Eat6;51.403;2020;PR;Rodocentro - Londrina;Localiza Seminovos
+36;75.900;Honda;Civic;2.0 Lxr Flex Aut. 4p;100.000;2015;PR;Bacacheri - Curitiba;Vazio
+37;65.670;Renault;Sandero;1.6 16v Sce Flex Stepway Zen Manual;53.985;2020;PR;Rodocentro - Londrina;Localiza Seminovos
+38;77.460;Fiat;Fiorino;1.4 Mpi Furgão Hard Working 8v Flex 2p Manual;55.203;2020;PR;Rodocentro - Londrina;Localiza Seminovos
+39;82.260;Citroën;C4;Cactus 1.6 Vti 120 Flex Feel Eat6;51.054;2020;PR;Rodocentro - Londrina;Localiza Seminovos
+40;55.370;Renault;Logan;1.0 12v Sce Flex Life Manual;69.475;2021;PR;Rodocentro - Londrina;Localiza Seminovos
+41;70.810;Fiat;Cronos;1.3 Firefly Flex Drive Manual;60.385;2020;PR;Oficinas - Ponta Grossa;Vazio
+42;60.290;Fiat;Argo;1.0 Firefly Flex Drive Manual;58.500;2020;PR;São Cristovão - Cascavel;Vazio
+43;81.590;Fiat;Fiorino;1.4 Mpi Furgão Hard Working 8v Flex 2p Manual;50.819;2021;PR;Seminário - Curitiba;Localiza Seminovos
+44;65.110;Fiat;Strada;1.4 Mpi Hard Working Cs 8v Flex 2p Manual;54.858;2020;PR;Seminário - Curitiba;Localiza Seminovos
+45;83.760;Ford;Ecosport;1.5 Ti-vct Flex Se Automático;38.022;2020;PR;Rodocentro - Londrina;Localiza Seminovos
+46;89.950;Jeep;Renegade;1.8 16v Flex Longitude 4p Automático;57.668;2019;PR;Seminário - Curitiba;Localiza Seminovos
+47;81.340;Fiat;Fiorino;1.4 Mpi Furgão Hard Working 8v Flex 2p Manual;54.240;2021;PR;Oficinas - Ponta Grossa;Vazio
+48;70.650;Toyota;Etios;1.5 X Plus Sedan 16v Flex 4p Automático;57.532;2020;PR;Seminário - Curitiba;Localiza Seminovos
+49;70.650;Toyota;Etios;1.5 X Plus Sedan 16v Flex 4p Automático;57.337;2020;PR;Seminário - Curitiba;Localiza Seminovos
+50;57.744;Hyundai;Tucson;2.0 Gls Flex 4p Aut;99.068;2015;PR;Centro - Campo Largo;Vazio
+51;59.900;Chevrolet;Onix;1.4 Mt Lt;75.737;2018;PR;Centro - Campo Largo;Vazio
+52;63.900;Fiat;Strada;Wk Cc E;58.894;2018;PR;Centro - Campo Largo;Vazio
+53;64.900;Fiat;Strada;Hd Wk Cc E;76.308;2018;PR;Centro - Campo Largo;Vazio
+54;62.900;Fiat;Argo;Drive 1.0;49.410;2020;PR;Centro - Campo Largo;Vazio
+55;58.400;Chevrolet;Onix;1.0 Mpfi Lt 8v Flex 4p Manual;73.818;2019;PR;Seminário - Curitiba;Localiza Seminovos
+56;82.650;Ford;Ecosport;1.5 Ti-vct Flex Se Automático;55.650;2020;PR;Oficinas - Ponta Grossa;Vazio
+57;58.910;Ford;Ka;1.5 Ti-vct Flex Se Manual;60.132;2020;PR;Rodocentro - Londrina;Localiza Seminovos
+58;59.000;Ford;Ka;1.5 Ti-vct Flex Se Manual;59.235;2020;PR;Oficinas - Ponta Grossa;Vazio
+59;84.520;Renault;Duster;1.6 16v Sce Flex Dynamique X-tronic;56.193;2020;PR;Oficinas - Ponta Grossa;Vazio
+60;59.710;Ford;Ka;1.5 Ti-vct Flex Se Manual;60.378;2020;PR;Rodocentro - Londrina;Localiza Seminovos
+61;57.810;Chevrolet;Onix;1.0 Mpfi Joy 8v Flex 4p Manual;50.133;2020;PR;Rodocentro - Londrina;Localiza Seminovos
+62;59.990;Chevrolet;Onix;1.0 Mpfi Lt 8v Flex 4p Manual;49.981;2019;PR;Rodocentro - Londrina;Localiza Seminovos
+63;56.790;Chevrolet;Onix;1.0 Mpfi Joy 8v Flex 4p Manual;75.043;2020;PR;Rodocentro - Londrina;Localiza Seminovos
+64;59.340;Ford;Ka;1.5 Ti-vct Flex Se Manual;68.597;2020;PR;Rodocentro - Londrina;Localiza Seminovos
+65;67.130;Chevrolet;Prisma;1.4 Mpfi Lt 8v Flex 4p Manual;65.597;2019;PR;Rodocentro - Londrina;Localiza Seminovos
+66;73.560;Renault;Duster;2.0 16v Hi-flex Dynamique Automático;78.896;2018;PR;Oficinas - Ponta Grossa;Vazio
+67;64.210;Fiat;Strada;1.4 Mpi Hard Working Cs 8v Flex 2p Manual;62.492;2020;PR;Oficinas - Ponta Grossa;Vazio
+68;84.490;Renault;Duster;1.6 16v Sce Flex Dynamique X-tronic;51.000;2020;PR;São Cristovão - Cascavel;Vazio
+69;80.900;Fiat;Fiorino;1.4 Mpi Furgão Hard Working 8v Flex 2p Manual;50.600;2021;PR;Jardim das Américas - Curitiba;Localiza Seminovos
+70;69.990;Hyundai;Hb20s;1.6 Comfort Plus 16v Flex 4p Automático;50.157;2019;PR;Jardim das Américas - Curitiba;Localiza Seminovos
+71;82.650;Ford;Ecosport;1.5 Ti-vct Flex Se Automático;55.650;2020;PR;Seminário - Curitiba;Localiza Seminovos
+72;66.990;Renault;Sandero;1.6 16v Sce Flex Zen Manual;51.000;2021;PR;São Cristovão - Cascavel;Vazio
+73;58.110;Ford;Ka;1.5 Ti-vct Flex Se Manual;59.235;2020;PR;Seminário - Curitiba;Localiza Seminovos
+74;78.500;Fiat;Fiorino;1.4 Mpi Furgão Hard Working 8v Flex 2p Manual;51.326;2020;PR;Rodocentro - Londrina;Localiza Seminovos
+75;63.140;Nissan;Versa;1.6 16v Flexstart S 4p Manual;51.383;2020;PR;Seminário - Curitiba;Localiza Seminovos
+76;55.300;Volkswagen;Gol;1.6 Msi Totalflex 4p Manual;50.355;2020;PR;Rodocentro - Londrina;Localiza Seminovos
+77;65.240;Renault;Sandero;1.6 16v Sce Flex Stepway Zen Manual;75.401;2020;PR;Seminário - Curitiba;Localiza Seminovos
+78;61.940;Volkswagen;Voyage;1.6 Msi Totalflex 4p Manual;51.743;2021;PR;Seminário - Curitiba;Localiza Seminovos
+79;88.990;Chevrolet;Spin;1.8 Activ7 8v Flex 4p Automático;50.064;2020;PR;Seminário - Curitiba;Localiza Seminovos
+80;68.550;Hyundai;Hb20s;1.6 Comfort Plus 16v Flex 4p Automático;55.846;2019;PR;Seminário - Curitiba;Localiza Seminovos
+81;88.990;Chevrolet;Spin;1.8 Activ7 8v Flex 4p Automático;51.240;2020;PR;Seminário - Curitiba;Localiza Seminovos
+82;63.160;Volkswagen;Voyage;1.6 Msi Totalflex 4p Manual;51.483;2021;PR;Rodocentro - Londrina;Localiza Seminovos
+83;67.750;Chevrolet;Prisma;1.4 Mpfi Lt 8v Flex 4p Manual;52.446;2019;PR;Oficinas - Ponta Grossa;Vazio
+84;61.890;Ford;Ka;1.5 Ti-vct Flex Se Sedan Automático;49.000;2019;PR;São Cristovão - Cascavel;Vazio
+85;66.880;Renault;Logan;1.6 16v Sce Flex Zen Manual;51.110;2021;PR;Seminário - Curitiba;Localiza Seminovos
+86;76.970;Chevrolet;Cobalt;1.8 Mpfi Ltz 8v Flex 4p Automático;55.027;2020;PR;Seminário - Curitiba;Localiza Seminovos
+87;65.790;Renault;Sandero;1.6 16v Sce Flex Stepway Zen Manual;50.777;2020;PR;Seminário - Curitiba;Localiza Seminovos
+88;66.880;Renault;Logan;1.6 16v Sce Flex Zen Manual;50.222;2021;PR;Seminário - Curitiba;Localiza Seminovos
+89;65.770;Renault;Sandero;1.6 16v Sce Flex Stepway Zen Manual;51.202;2020;PR;Rodocentro - Londrina;Localiza Seminovos
+90;67.620;Volkswagen;Saveiro;1.6 Msi Trendline Cs 8v Flex 2p Manual;72.086;2020;PR;Oficinas - Ponta Grossa;Vazio
+91;62.000;Volkswagen;Golf;1.4 Tsi Comfortline 5p Automática;78.000;2015;PR;Araucária;Vazio
+92;59.800;Ford;Ka;1.5 Ti-vct Flex Se Manual;59.363;2020;PR;Rodocentro - Londrina;Localiza Seminovos
+93;57.300;Chevrolet;Onix;1.0 Mpfi Joy 8v Flex 4p Manual;62.996;2020;PR;Rodocentro - Londrina;Localiza Seminovos
+94;57.680;Renault;Sandero;1.0 12v Sce Flex Zen Manual;70.000;2021;PR;São Cristovão - Cascavel;Vazio
+95;62.670;Volkswagen;Voyage;1.6 Msi Totalflex 4p Manual;50.043;2021;PR;Rodocentro - Londrina;Localiza Seminovos
+96;88.990;Chevrolet;Spin;1.8 Activ7 8v Flex 4p Automático;52.354;2020;PR;Seminário - Curitiba;Localiza Seminovos
+97;56.890;Hyundai;Hb20;1.0 Unique 12v Flex 4p Manual;50.000;2019;PR;São Cristovão - Cascavel;Vazio
+98;67.010;Renault;Sandero;1.6 16v Sce Flex Zen Manual;51.180;2021;PR;Seminário - Curitiba;Localiza Seminovos
+99;55.350;Volkswagen;Gol;1.6 Msi Totalflex 4p Manual;53.003;2020;PR;Seminário - Curitiba;Localiza Seminovos
+100;84.930;Renault;Duster;1.6 16v Sce Flex Dynamique X-tronic;51.060;2020;PR;Rodocentro - Londrina;Localiza Seminovos
+101;84.930;Renault;Duster;1.6 16v Sce Flex Dynamique X-tronic;51.129;2020;PR;Rodocentro - Londrina;Localiza Seminovos
+102;58.290;Ford;Ka;1.5 Ti-vct Flex Se Manual;51.000;2020;PR;São Cristovão - Cascavel;Vazio
+103;65.620;Renault;Sandero;1.6 16v Sce Flex Stepway Zen Manual;60.028;2020;PR;Rodocentro - Londrina;Localiza Seminovos
+104;88.990;Chevrolet;Spin;1.8 Activ7 8v Flex 4p Automático;50.772;2020;PR;Seminário - Curitiba;Localiza Seminovos
+105;69.990;Toyota;Etios;1.5 X Plus Sedan 16v Flex 4p Automático;50.196;2020;PR;Seminário - Curitiba;Localiza Seminovos
+106;61.940;Volkswagen;Voyage;1.6 Msi Totalflex 4p Manual;50.623;2021;PR;Seminário - Curitiba;Localiza Seminovos
+107;58.390;Volkswagen;Voyage;1.6 Msi Totalflex 4p Manual;50.211;2020;PR;Seminário - Curitiba;Localiza Seminovos
+108;59.890;Renault;Logan;1.6 16v Sce Flex Zen Manual;50.000;2020;PR;São Cristovão - Cascavel;Vazio
+109;84.990;Ford;Ecosport;1.5 Ti-vct Flex Se Automático;35.000;2020;PR;São Cristovão - Cascavel;Vazio
+110;69.490;Chevrolet;Onix;1.0 Flex Lt Manual;54.000;2020;PR;São Cristovão - Cascavel;Vazio
+111;55.990;Renault;Logan;1.0 12v Sce Flex Zen Manual;69.000;2020;PR;São Cristovão - Cascavel;Vazio
+112;67.990;Hyundai;Hb20s;1.6 Comfort Plus 16v Flex 4p Manual;50.000;2019;PR;São Cristovão - Cascavel;Vazio
+113;63.490;Volkswagen;Voyage;1.6 Msi Totalflex 4p Manual;22.000;2021;PR;São Cristovão - Cascavel;Vazio
+114;69.490;Chevrolet;Onix;1.0 Flex Lt Manual;56.000;2020;PR;São Cristovão - Cascavel;Vazio
+115;88.690;Renault;Captur;2.0 16v Hi-flex Intense Automático;52.000;2020;PR;São Cristovão - Cascavel;Vazio
+116;84.490;Renault;Duster;1.6 16v Sce Flex Dynamique X-tronic;51.358;2020;PR;São Cristovão - Cascavel;Vazio
+117;55.790;Hyundai;Hb20;1.0 Unique 12v Flex 4p Manual;47.088;2019;PR;São Cristovão - Cascavel;Vazio
+118;70.890;Toyota;Etios;1.5 X Plus Sedan 16v Flex 4p Automático;50.868;2020;PR;São Cristovão - Cascavel;Vazio
+119;65.790;Renault;Sandero;1.6 16v Sce Flex Stepway Zen Manual;50.559;2020;PR;São Cristovão - Cascavel;Vazio
+120;55.360;Volkswagen;Gol;1.6 Msi Totalflex 4p Manual;54.467;2020;PR;Seminário - Curitiba;Localiza Seminovos
+121;84.490;Renault;Duster;1.6 16v Sce Flex Dynamique X-tronic;50.508;2020;PR;Seminário - Curitiba;Localiza Seminovos
+122;69.790;Hyundai;Hb20s;1.6 Comfort Plus 16v Flex 4p Automático;50.751;2019;PR;Seminário - Curitiba;Localiza Seminovos
+123;56.100;Volkswagen;Gol;1.6 Msi Totalflex 4p Manual;50.644;2020;PR;Rodocentro - Londrina;Localiza Seminovos
+124;69.790;Hyundai;Hb20s;1.6 Comfort Plus 16v Flex 4p Automático;52.613;2019;PR;Seminário - Curitiba;Localiza Seminovos
+125;60.290;Fiat;Argo;1.0 Firefly Flex Drive Manual;65.727;2020;PR;Seminário - Curitiba;Localiza Seminovos
+126;88.690;Renault;Captur;2.0 16v Hi-flex Intense Automático;50.900;2020;PR;Seminário - Curitiba;Localiza Seminovos
+127;55.790;Hyundai;Hb20;1.0 Unique 12v Flex 4p Manual;53.126;2019;PR;São Cristovão - Cascavel;Vazio
+128;58.390;Volkswagen;Voyage;1.6 Msi Totalflex 4p Manual;50.353;2020;PR;Jardim das Américas - Curitiba;Localiza Seminovos
+129;67.690;Chevrolet;Prisma;1.4 Mpfi Lt 8v Flex 4p Manual;50.593;2019;PR;Jardim das Américas - Curitiba;Localiza Seminovos
+130;67.690;Chevrolet;Prisma;1.4 Mpfi Lt 8v Flex 4p Manual;51.608;2019;PR;Jardim das Américas - Curitiba;Localiza Seminovos
+131;55.900;Volkswagen;Gol;1.6 Msi Totalflex 4p Manual;51.090;2020;PR;Jardim das Américas - Curitiba;Localiza Seminovos
+132;70.900;Chevrolet;Cobalt;1.8 Mpfi Ltz 8v Flex 4p Automático;50.226;2019;PR;Jardim das Américas - Curitiba;Localiza Seminovos
+133;84.490;Renault;Duster;1.6 16v Sce Flex Dynamique X-tronic;50.184;2020;PR;Seminário - Curitiba;Localiza Seminovos
+134;65.290;Renault;Sandero;1.6 16v Sce Flex Stepway Zen Manual;53.026;2020;PR;Jardim das Américas - Curitiba;Localiza Seminovos
+135;88.690;Renault;Captur;2.0 16v Hi-flex Intense Automático;51.618;2020;PR;Jardim das Américas - Curitiba;Localiza Seminovos
+136;81.900;Fiat;Doblo;1.8 Mpi Essence 7l 16v Flex 4p Manual;45.644;2020;PR;Jardim das Américas - Curitiba;Localiza Seminovos
+137;84.490;Renault;Duster;1.6 16v Sce Flex Dynamique X-tronic;50.431;2020;PR;Jardim das Américas - Curitiba;Localiza Seminovos
+138;69.990;Hyundai;Hb20s;1.6 Comfort Plus 16v Flex 4p Automático;50.351;2019;PR;Jardim das Américas - Curitiba;Localiza Seminovos
+139;69.990;Hyundai;Hb20s;1.6 Comfort Plus 16v Flex 4p Automático;50.779;2019;PR;Jardim das Américas - Curitiba;Localiza Seminovos
+140;70.900;Toyota;Etios;1.5 X Plus Sedan 16v Flex 4p Automático;52.108;2020;PR;Jardim das Américas - Curitiba;Localiza Seminovos
+141;67.690;Chevrolet;Prisma;1.4 Mpfi Lt 8v Flex 4p Manual;51.351;2019;PR;Jardim das Américas - Curitiba;Localiza Seminovos
+142;88.690;Renault;Captur;2.0 16v Hi-flex Intense Automático;50.434;2020;PR;Jardim das Américas - Curitiba;Localiza Seminovos
+143;60.290;Fiat;Argo;1.0 Firefly Flex Drive Manual;69.393;2020;PR;Jardim das Américas - Curitiba;Localiza Seminovos
+144;67.690;Chevrolet;Prisma;1.4 Mpfi Lt 8v Flex 4p Manual;50.194;2019;PR;Seminário - Curitiba;Localiza Seminovos
+145;84.490;Renault;Duster;1.6 16v Sce Flex Dynamique X-tronic;52.468;2020;PR;Seminário - Curitiba;Localiza Seminovos
+146;55.100;Chevrolet;Joy;1.0 Spe4 Flex Manual;77.506;2020;PR;Seminário - Curitiba;Localiza Seminovos
+147;84.490;Renault;Duster;1.6 16v Sce Flex Dynamique X-tronic;51.176;2020;PR;Seminário - Curitiba;Localiza Seminovos
+148;76.200;Fiat;Fiorino;1.4 Mpi Furgão Hard Working 8v Flex 2p Manual;59.645;2020;PR;Rodocentro - Londrina;Localiza Seminovos
+149;61.930;Hyundai;Hb20;1.0 Sense (flex);37.222;2021;PR;Seminário - Curitiba;Seminovos Movida
+150;65.900;Fiat;Strada;Hard Working 1.4 (flex) (cabine Simples);56.350;2020;PR;Vila Nova - Maringá;Vazio
+151;75.650;Chevrolet;Cobalt;1.8 Mpfi Ltz 8v Flex 4p Automático;50.536;2020;PR;Rodocentro - Londrina;Localiza Seminovos
+152;74.990;Jeep;Renegade;Sport 1.8 Flex Aut;97.650;2016;PR;Rebouças - Curitiba;Vazio
+153;84.990;Jeep;Renegade;Longitude 1.8 Flex Automatico;34.650;2016;PR;Rebouças - Curitiba;Vazio
+154;86.990;Jeep;Renegade;Longitude 1.8 Flex Automatico;29.650;2016;PR;Rebouças - Curitiba;Vazio
+155;69.990;Honda;Fit;1.5 Lx 16v Flex 4p Manual;29.650;2017;PR;Rebouças - Curitiba;Vazio
+156;79.990;Jeep;Renegade;Sport 1.8 Flex Aut;49.650;2018;PR;Rebouças - Curitiba;Vazio
+157;89.000;Volkswagen;Polo;Hl Ad;52.397;2019;PR;Jardim Carvalho - Ponta Grossa;Vazio
+158;74.900;Mitsubishi;Lancer;Gt 2.0 Aut;84.917;2017;PR;São José dos Pinhais;Vazio
+159;58.900;Ford;Focus;Sedan Focus 1.6 S Flex Aut;37.156;2015;PR;São José dos Pinhais;Vazio
+160;67.900;Ford;Focus;Sedan Focus 2.0 Se 16v Flex 4p Powershift;78.906;2018;PR;São José dos Pinhais;Vazio
+161;75.000;Hyundai;Tucson;2.0 16v Flex Aut;48.323;2017;PR;Seminário - Curitiba;Vazio
+162;78.900;Peugeot;208;Like;12.296;2021;PR;Conradinho - Guarapuava;Vazio
+163;85.900;Renault;Duster;1.6 Dynamique 4x2 16v Flex 4p Aut;39.860;2020;PR;Curitiba;Vazio
+164;78.700;Honda;City;Sedan Ex-at 1.5 16v;87.000;2017;PR;Boa Vista - Curitiba;Vazio
+165;57.500;Chevrolet;Onix;Joy _4p_;60.115;2020;PR;Jardim Carvalho - Ponta Grossa;Vazio
+166;87.500;Renault;Captur;Inten 16a;29.891;2019;PR;Jardim Carvalho - Ponta Grossa;Vazio
+167;57.900;Volkswagen;Gol;1.6 Msi Total Flex 5p;70.721;2019;PR;Centro - São José dos Pinhais;Vazio
+168;84.900;Honda;Fit;1.5 Ex Flex Aut. 5p;57.381;2018;PR;Centro - São José dos Pinhais;Vazio
+169;73.500;Hyundai;Hb20;Hb20 Evolution 1.0 Flex 12v Mec;29.000;2020;PR;Boa Vista - Curitiba;Vazio
+170;64.900;Toyota;Etios;1.5 16v X 4p;77.145;2019;PR;Centro - São José dos Pinhais;Vazio
+171;57.900;Volkswagen;Gol;(novo) 1.0mi (geracao 6);20.852;2020;PR;Seminário - Curitiba;Vazio
+172;88.900;Volkswagen;Polo;Comfort 200 Tsi 1.0 Flex 12v Aut;32.743;2020;PR;Rodocentro - Londrina;Vazio
+173;71.900;Hyundai;Hb20;Hb20 Evolution;29.389;2021;PR;Centro - Campo Largo;Vazio
+174;69.900;Renault;Duster;1.6 Dynamique 4x2 16v Flex 4p Manual;42.000;2017;PR;Centro - Londrina;Vazio
+175;80.900;Hyundai;Ix35;Ix35 Gl 2.0 16v 2wd Flex Aut;93.000;2015;PR;Boa Vista - Curitiba;Vazio
+176;87.990;Peugeot;2008;1.6 16v Flex Allure Pack 4p Automático;41.661;2021;PR;Pato Branco;Vazio
+177;63.990;Volkswagen;Voyage;1.0 12v Mpi Totalflex 4p Manual;57.962;2021;PR;Guarapuava;Vazio
+178;55.890;Ford;Ka;1.0 Ti-vct Flex Se Sedan Manual;80.528;2020;PR;Cascavel;Vazio
+179;63.990;Volkswagen;Voyage;1.6 Msi Totalflex 4p Manual;43.480;2021;PR;Cascavel;Vazio
+180;70.990;Volkswagen;Polo;1.6 Msi Total Flex Manual;64.219;2020;PR;Cascavel;Vazio
+181;63.990;Volkswagen;Voyage;1.0 12v Mpi Totalflex 4p Manual;53.441;2021;PR;Cascavel;Vazio
+182;70.990;Volkswagen;Polo;1.6 Msi Total Flex Manual;72.353;2020;PR;Cascavel;Vazio
+183;65.990;Fiat;Argo;1.0 Firefly Flex Drive Manual;61.045;2021;PR;Cascavel;Vazio
+184;59.900;Chevrolet;Onix;1.0 Mpfi Lt 8v Flex 4p Manual;51.283;2019;PR;Oficinas - Ponta Grossa;Vazio
+185;70.900;Toyota;Etios;1.5 X Plus Sedan 16v Flex 4p Automático;50.134;2020;PR;Jardim das Américas - Curitiba;Localiza Seminovos
+186;69.240;Hyundai;Hb20s;1.6 Comfort Plus 16v Flex 4p Automático;50.690;2019;PR;Seminário - Curitiba;Localiza Seminovos
+187;55.490;Renault;Sandero;1.0 12v Sce Flex Life Manual;66.171;2021;PR;Pato Branco;Vazio
+188;57.990;Ford;Ka;1.0 Ti-vct Flex Se Sedan Manual;79.535;2020;PR;Pato Branco;Vazio
+189;65.990;Fiat;Strada;1.4 Mpi Hard Working Cs 8v Flex 2p Manual;66.160;2020;PR;Pato Branco;Vazio
+190;55.990;Renault;Logan;1.0 12v Sce Flex Life Manual;53.784;2021;PR;Pato Branco;Vazio
+191;70.990;Volkswagen;Polo;1.6 Msi Total Flex Manual;55.592;2020;PR;Pato Branco;Vazio
+192;80.490;Volkswagen;Voyage;1.6 Msi Totalflex 4p Manual;31.707;2022;PR;Pato Branco;Vazio
+193;84.990;Chevrolet;Onix;1.0 Turbo Flex Plus Ltz Manual;51.219;2021;PR;Guarapuava;Vazio
+194;63.990;Volkswagen;Voyage;1.0 12v Mpi Totalflex 4p Manual;52.595;2021;PR;Guarapuava;Vazio
+195;63.990;Volkswagen;Voyage;1.0 12v Mpi Totalflex 4p Manual;42.465;2021;PR;Guarapuava;Vazio
+196;56.990;Volkswagen;Gol;1.6 Msi Totalflex 4p Manual;50.067;2020;PR;Guarapuava;Vazio
+197;55.990;Renault;Logan;1.0 12v Sce Flex Life Manual;54.809;2021;PR;Guarapuava;Vazio
+198;65.990;Fiat;Argo;1.0 Firefly Flex Drive Manual;70.751;2021;PR;Guarapuava;Vazio
+199;59.990;Fiat;Argo;1.0 Firefly Flex Drive Manual;79.479;2020;PR;Guarapuava;Vazio
+200;80.490;Volkswagen;Voyage;1.6 Msi Totalflex 4p Manual;37.112;2022;PR;Guarapuava;Vazio
+201;61.990;Volkswagen;Gol;1.6 Msi Totalflex 4p Manual;33.944;2021;PR;Guarapuava;Vazio
+202;66.990;Fiat;Argo;1.3 Firefly Flex Drive Manual;73.864;2020;PR;Guarapuava;Vazio
+203;88.490;Ford;Ecosport;1.5 Ti-vct Flex Se Automático;28.133;2021;PR;Guarapuava;Vazio
+204;63.990;Volkswagen;Voyage;1.0 12v Mpi Totalflex 4p Manual;56.061;2021;PR;Guarapuava;Vazio
+205;65.990;Fiat;Argo;1.0 Firefly Flex Drive Manual;62.892;2021;PR;Pato Branco;Vazio
+206;55.888;Hyundai;Hb20;1.6 Comfort Plus Flex Aut. 5p;141.700;2015;PR;Centro - Arapongas;Vazio
+207;72.990;Chevrolet;Onix;Chevrolet Onix 1.4at Act;19.487;2018;PR;Parolin - Curitiba;Vazio
+208;78.990;Fiat;Argo;Fiat Argo Trekking 1.3 8v Flex;11.424;2021;PR;Parolin - Curitiba;Vazio
+209;63.900;Fiat;Argo;Argo Drive 1.3 8v Flex;31.831;2019;PR;Bacacheri - Curitiba;Vazio
+210;71.900;Jeep;Renegade;Renegade Sport Mt 1.8 16v Flex;47.500;2016;PR;Bacacheri - Curitiba;Vazio
+211;84.900;Hyundai;Creta;Hyundai Creta 1.6;62.275;2017;PR;Nova Rússia - Ponta Grossa;Vazio
+212;72.900;Fiat;Cronos;Fiat Cronos Drive 1.3 8v Flex;41.947;2019;PR;Parolin - Curitiba;Vazio
+213;86.500;Jeep;Renegade;Jeep Renegade Sport 1.8 4x2 Flex 16v Mec.;42.236;2019;PR;Parolin - Curitiba;Vazio
+214;80.000;Volkswagen;Golf;Volkswagen Golf Comfortline 1.6 Msi Total Flex Mec;52.035;2016;PR;Parolin - Curitiba;Vazio
+215;77.900;Fiat;Argo;Fiat Argo Trekking 1.3;27.200;2020;PR;Parolin - Curitiba;Vazio
+216;83.900;Fiat;Cronos;Fiat Cronos 1.8 16v Flex Aut.;37.431;2020;PR;Parolin - Curitiba;Vazio
+217;76.900;Fiat;Cronos;Fiat Cronos Drive 1.3 8v Flex;19.908;2020;PR;Parolin - Curitiba;Vazio
+218;73.900;Fiat;Argo;Fiat Argo Hgt 1.8 16v Flex Aut.;71.656;2018;PR;Parolin - Curitiba;Vazio
+219;74.900;Chevrolet;Prisma;Chevrolet Prisma Sed. Advant. 1.4 8v F.power Aut.;37.271;2019;PR;Parolin - Curitiba;Vazio
+220;62.990;Fiat;Argo;Fiat Argo Drive 1.3 8v Flex;31.819;2019;PR;Parolin - Curitiba;Vazio
+221;55.500;Fiat;Argo;Fiat Argo 1.0 6v Flex;37.654;2019;PR;Parolin - Curitiba;Vazio
+222;55.990;Volkswagen;Gol;1.0 12v Flex;50.451;2021;PR;Maringá;Vazio
+223;87.810;Chevrolet;Onix;Premier 1.0 Turbo (flex) (aut);30.221;2020;PR;Parolin - Curitiba;Seminovos Movida
+224;69.700;Renault;Logan;Zen 1.6 16v Sce (flex);42.224;2021;PR;Parolin - Curitiba;Seminovos Movida
+225;78.210;Volkswagen;Virtus;1.6 Msi Total Flex Manual;52.700;2021;PR;Oficinas - Ponta Grossa;Vazio
+226;84.490;Jeep;Renegade;1.8 16v Flex Sport 4p Automático;64.791;2018;PR;Oficinas - Ponta Grossa;Vazio
+227;59.990;Hyundai;Hb20;1.0 Unique 12v Flex 4p Manual;51.677;2019;PR;Londrina;Vazio
+228;58.900;Chevrolet;Joy;1.0 Spe4 Flex Manual;44.106;2020;PR;Londrina;Vazio
+229;81.140;Chevrolet;Sedan;1.0 Ltz Turbo (flex);73.367;2020;PR;Parolin - Curitiba;Seminovos Movida
+230;75.280;Hyundai;Hb20;1.6 Vision (aut) (flex);49.273;2020;PR;Parolin - Curitiba;Seminovos Movida
+231;83.900;Volkswagen;Virtus;1.0 200 Tsi Comfortline Automático;59.477;2020;PR;Oficinas - Ponta Grossa;Vazio
+232;87.900;Renault;Captur;2.0 16v Hi-flex Intense Automático;60.656;2020;PR;Oficinas - Ponta Grossa;Vazio
+233;88.900;Chevrolet;Spin;1.8 Lt 8v Flex 4p Automático;29.668;2020;PR;Londrina;Vazio
+234;80.880;Chevrolet;Onix;1.0 Turbo Flex Lt Automático;50.225;2020;PR;Rodocentro - Londrina;Localiza Seminovos
+235;78.340;Volkswagen;Virtus;1.6 Msi Total Flex Manual;50.455;2021;PR;Rodocentro - Londrina;Localiza Seminovos
+236;56.590;Chevrolet;Joy;1.0 Spe4 Flex Manual;49.700;2020;PR;São Cristovão - Cascavel;Vazio
+237;56.590;Chevrolet;Joy;1.0 Spe4 Flex Manual;46.900;2020;PR;São Cristovão - Cascavel;Vazio
+238;83.610;Fiat;Strada;Endurance 1.4 Cs (flex);41.915;2021;PR;Seminário - Curitiba;Seminovos Movida
+239;84.570;Chevrolet;Onix;1.0 Turbo Flex Ltz Automático;57.676;2020;PR;Oficinas - Ponta Grossa;Vazio
+240;75.900;Chevrolet;Onix;1.0 Flex Lt Manual;59.640;2020;PR;Londrina;Vazio
+241;58.620;Volkswagen;Gol;1.6 Msi Totalflex 4p Manual;43.245;2021;PR;Seminário - Curitiba;Localiza Seminovos
+242;64.160;Volkswagen;Voyage;1.6 Msi Totalflex 4p Manual;22.280;2021;PR;Oficinas - Ponta Grossa;Vazio
+243;88.990;Chevrolet;Spin;1.8 Activ7 8v Flex 4p Automático;52.502;2020;PR;Seminário - Curitiba;Localiza Seminovos
+244;88.990;Chevrolet;Spin;1.8 Activ7 8v Flex 4p Automático;51.238;2020;PR;Seminário - Curitiba;Localiza Seminovos
+245;82.490;Volkswagen;Virtus;1.0 200 Tsi Comfortline Automático;40.229;2020;PR;Seminário - Curitiba;Localiza Seminovos
+246;64.980;Fiat;Argo;1.0 Firefly Flex Drive Manual;70.725;2021;PR;Seminário - Curitiba;Localiza Seminovos
+247;58.420;Volkswagen;Gol;1.6 Msi Totalflex 4p Manual;46.009;2021;PR;Seminário - Curitiba;Localiza Seminovos
+248;67.090;Volkswagen;Saveiro;1.6 Msi Trendline Cs 8v Flex 2p Manual;79.751;2020;PR;Seminário - Curitiba;Localiza Seminovos
+249;61.490;Volkswagen;Voyage;1.6 Msi Totalflex 4p Manual;50.395;2021;PR;Seminário - Curitiba;Localiza Seminovos
+250;67.090;Volkswagen;Saveiro;1.6 Msi Trendline Cs 8v Flex 2p Manual;79.751;2020;PR;Oficinas - Ponta Grossa;Vazio
+251;60.290;Fiat;Argo;1.0 Firefly Flex Drive Manual;72.186;2020;PR;Jardim das Américas - Curitiba;Localiza Seminovos
+252;58.900;Volkswagen;Gol;1.6 Msi Totalflex 4p Manual;50.061;2021;PR;Jardim das Américas - Curitiba;Localiza Seminovos
+253;73.900;Volkswagen;Virtus;1.6 Msi Total Flex Manual;51.009;2020;PR;Jardim das Américas - Curitiba;Localiza Seminovos
+254;67.900;Fiat;Argo;1.0 Firefly Flex Drive Manual;23.797;2021;PR;Jardim das Américas - Curitiba;Localiza Seminovos
+255;67.730;Fiat;Argo;1.0 Firefly Flex Manual;23.797;2021;PR;Oficinas - Ponta Grossa;Vazio
+256;68.480;Renault;Logan;1.6 16v Sce Flex Zen Manual;51.121;2021;PR;Oficinas - Ponta Grossa;Vazio
+257;56.530;Chevrolet;Onix;1.0 Flex Manual;69.350;2020;PR;Oficinas - Ponta Grossa;Vazio
+258;67.010;Renault;Sandero;1.6 16v Sce Flex Zen Manual;51.180;2021;PR;Oficinas - Ponta Grossa;Vazio
+259;60.190;Fiat;Argo;1.0 Firefly Flex Drive Manual;69.585;2020;PR;Rodocentro - Londrina;Localiza Seminovos
+260;63.230;Volkswagen;Polo;1.0 Mpi Total Flex Manual;50.407;2020;PR;Rodocentro - Londrina;Localiza Seminovos
+261;65.770;Renault;Sandero;1.6 16v Sce Flex Zen Manual;50.992;2020;PR;Oficinas - Ponta Grossa;Vazio
+262;59.890;Volkswagen;Gol;1.6 Msi Totalflex 4p Manual;51.000;2021;PR;São Cristovão - Cascavel;Vazio
+263;85.490;Chevrolet;Onix;1.0 Turbo Flex Plus Ltz Automático;53.000;2020;PR;São Cristovão - Cascavel;Vazio
+264;69.900;Renault;Sandero;1.6 16v Sce Flex Stepway Zen Manual;51.000;2021;PR;São Cristovão - Cascavel;Vazio
+265;63.900;Nissan;Versa;1.6 16v Flexstart S 4p Manual;51.383;2020;PR;Jardim das Américas - Curitiba;Localiza Seminovos
+266;58.390;Volkswagen;Voyage;1.6 Msi Totalflex 4p Manual;51.376;2020;PR;Jardim das Américas - Curitiba;Localiza Seminovos
+267;62.990;Volkswagen;Polo;1.0 Mpi Total Flex Manual;51.167;2020;PR;Jardim das Américas - Curitiba;Localiza Seminovos
+268;65.290;Renault;Sandero;1.6 16v Sce Flex Stepway Zen Manual;50.992;2020;PR;Jardim das Américas - Curitiba;Localiza Seminovos
+269;55.900;Volkswagen;Gol;1.6 Msi Totalflex 4p Manual;58.591;2020;PR;Jardim das Américas - Curitiba;Localiza Seminovos
+270;74.500;Volkswagen;Virtus;1.6 Msi Total Flex Manual;54.721;2020;PR;Seminário - Curitiba;Localiza Seminovos
+271;80.030;Renault;Duster;1.6 16v Sce Flex Expression X-tronic;54.804;2020;PR;Seminário - Curitiba;Localiza Seminovos
+272;62.990;Volkswagen;Polo;1.0 Mpi Total Flex Manual;52.833;2019;PR;Seminário - Curitiba;Localiza Seminovos
+273;63.490;Volkswagen;Polo;1.0 Mpi Total Flex Manual;55.171;2020;PR;Seminário - Curitiba;Localiza Seminovos
+274;63.490;Volkswagen;Polo;1.0 Mpi Total Flex Manual;55.709;2020;PR;Seminário - Curitiba;Localiza Seminovos
+275;63.490;Volkswagen;Polo;1.0 Mpi Total Flex Manual;50.379;2020;PR;Seminário - Curitiba;Localiza Seminovos
+276;57.890;Chevrolet;Joy;1.0 Spe4 Flex Manual;60.000;2020;PR;São Cristovão - Cascavel;Vazio
+277;63.490;Volkswagen;Polo;1.0 Mpi Total Flex Manual;60.355;2020;PR;Seminário - Curitiba;Localiza Seminovos
+278;73.680;Volkswagen;Virtus;1.6 Msi Total Flex Manual;69.835;2020;PR;Seminário - Curitiba;Localiza Seminovos
+279;84.490;Chevrolet;Onix;1.0 Turbo Flex Ltz Automático;50.330;2020;PR;Jardim das Américas - Curitiba;Localiza Seminovos
+280;83.900;Volkswagen;Virtus;1.0 200 Tsi Comfortline Automático;50.385;2020;PR;Seminário - Curitiba;Localiza Seminovos
+281;57.050;Chevrolet;Joy;1.0 Spe4 Flex Manual;69.312;2020;PR;Seminário - Curitiba;Localiza Seminovos
+282;81.020;Renault;Duster;1.6 16v Sce Flex Expression X-tronic;54.656;2020;PR;Rodocentro - Londrina;Localiza Seminovos
+283;74.890;Volkswagen;Virtus;1.6 Msi Total Flex Manual;50.000;2020;PR;São Cristovão - Cascavel;Vazio
+284;56.590;Chevrolet;Joy;1.0 Spe4 Flex Manual;52.000;2020;PR;São Cristovão - Cascavel;Vazio
+285;79.900;Renault;Duster;1.6 16v Sce Flex Expression X-tronic;51.788;2020;PR;São Cristovão - Cascavel;Vazio
+286;85.490;Chevrolet;Onix;1.0 Turbo Flex Ltz Automático;52.683;2020;PR;Seminário - Curitiba;Localiza Seminovos
+287;73.860;Volkswagen;Virtus;1.6 Msi Total Flex Manual;50.832;2020;PR;Oficinas - Ponta Grossa;Vazio
+288;88.549;Chevrolet;Onix;1.0 Turbo Flex Ltz Automático;50.667;2020;PR;Seminário - Curitiba;Localiza Seminovos
+289;83.990;Volkswagen;Virtus;1.0 200 Tsi Comfortline Automático;50.513;2020;PR;Seminário - Curitiba;Localiza Seminovos
+290;56.590;Chevrolet;Joy;1.0 Spe4 Flex Manual;46.852;2020;PR;São Cristovão - Cascavel;Vazio
+291;62.990;Volkswagen;Polo;1.0 Mpi Total Flex Manual;66.797;2020;PR;Jardim das Américas - Curitiba;Localiza Seminovos
+292;82.490;Volkswagen;Virtus;1.0 200 Tsi Comfortline Automático;50.849;2020;PR;Jardim das Américas - Curitiba;Localiza Seminovos
+293;83.990;Volkswagen;Virtus;1.0 200 Tsi Comfortline Automático;50.761;2020;PR;Seminário - Curitiba;Localiza Seminovos
+294;68.090;Peugeot;Partner;1.6 Furgão 800kg 16v Flex 3p Manual;49.305;2020;PR;Seminário - Curitiba;Localiza Seminovos
+295;63.990;Volkswagen;Voyage;1.0 12v Flex;53.441;2021;PR;Cascavel;Vazio
+296;57.530;Chevrolet;Mégane;Hatch Hatch 1.0 8v (flex);42.973;2020;PR;Parolin - Curitiba;Seminovos Movida
+297;58.000;Ford;Ka;Se 1.5 12v (flex);50.349;2020;PR;Rodocentro - Londrina;Seminovos Movida
+298;55.570;Renault;Logan;Life 1.0 12v Sce (flex);49.871;2021;PR;Rodocentro - Londrina;Seminovos Movida
+299;58.888;Renault;Sandero;1.0 Life 12v 5p;27.300;2021;PR;Centro - Arapongas;Vazio
+300;69.490;Chevrolet;Onix;Lt 1.0 (flex);48.844;2020;PR;Rodocentro - Londrina;Seminovos Movida
+301;81.740;Chevrolet;Sedan;1.0 Ltz Turbo (flex);47.803;2020;PR;Vila Nova - Maringá;Vazio
+302;88.040;Renault;Duster;Zen 1.6 16v (flex);32.069;2021;PR;Vila Nova - Maringá;Vazio
+303;56.680;Chevrolet;Golf;Plus Plus 1.0 8v (flex);40.467;2020;PR;Rodocentro - Londrina;Seminovos Movida
+304;57.320;Hyundai;Hb20;1.0 Sense (flex);49.115;2020;PR;Rodocentro - Londrina;Seminovos Movida
+305;58.490;Hyundai;Hb20;1.0 Sense (flex);56.886;2020;PR;Rodocentro - Londrina;Seminovos Movida
+306;59.200;Renault;Logan;Zen 1.0 12v Sce (flex);44.785;2021;PR;Rodocentro - Londrina;Seminovos Movida
+307;69.490;Hyundai;Hb20;1.6 Comfort Plus (aut) (flex);44.274;2019;PR;Vila Nova - Maringá;Vazio
+308;61.770;Volkswagen;Voyage;1.0 Mpi (flex);46.040;2021;PR;Rodocentro - Londrina;Seminovos Movida
+309;55.570;Renault;Logan;Life 1.0 12v Sce (flex);50.099;2021;PR;Rodocentro - Londrina;Seminovos Movida
+310;81.470;Fiat;Fiorino;1.4 Hard Working (flex);43.601;2021;PR;Rodocentro - Londrina;Seminovos Movida
+311;69.450;Hyundai;Hb20s;1.0 Vision (flex);41.540;2021;PR;Rodocentro - Londrina;Seminovos Movida
+312;80.040;Chevrolet;Sedan;1.0 Ltz Turbo (flex);62.707;2021;PR;Rodocentro - Londrina;Seminovos Movida
+313;81.460;Fiat;Doblo;Essence 1.8 16v (flex);42.712;2020;PR;Parolin - Curitiba;Seminovos Movida
+314;73.640;Volkswagen;Polo;1.6 Msi (aut) (flex);48.679;2020;PR;Vila Nova - Maringá;Vazio
+315;58.490;Hyundai;Hb20;1.0 Sense (flex);44.591;2020;PR;Rodocentro - Londrina;Seminovos Movida
+316;80.220;Fiat;Doblo;Essence 1.8 16v (flex);45.008;2020;PR;Seminário - Curitiba;Seminovos Movida
+317;62.080;Ford;Ka;Se 1.5 12v (flex);58.118;2021;PR;Vila Nova - Maringá;Vazio
+318;67.920;Renault;Stepway;Zen 1.6 16v Sce (flex);52.381;2021;PR;Vila Nova - Maringá;Vazio
+319;57.480;Chevrolet;Mégane;Hatch Hatch 1.0 8v (flex);55.060;2020;PR;Rodocentro - Londrina;Seminovos Movida
+320;56.280;Renault;Sandero;1.0 12v Sce Flex Zen Manual;79.084;2021;PR;Seminário - Curitiba;Localiza Seminovos
+321;63.230;Volkswagen;Polo;1.0 Mpi Total Flex Manual;50.407;2020;PR;Oficinas - Ponta Grossa;Vazio
+322;58.720;Volkswagen;Gol;1.6 Msi Totalflex 4p Manual;50.061;2021;PR;Oficinas - Ponta Grossa;Vazio
+323;56.420;Renault;Logan;Life 1.0 12v Sce (flex);43.911;2021;PR;Vila Nova - Maringá;Vazio
+324;89.888;Volkswagen;Virtus;1.0 Comfortline 200 Tsi Aut. 4p;53.650;2019;PR;Centro - Arapongas;Vazio
+325;77.180;Volkswagen;Saveiro;1.6 Msi Trendline Cs 8v Flex 2p Manual;72.811;2021;PR;Seminário - Curitiba;Localiza Seminovos
+326;69.840;Renault;Logan;Zen 1.6 16v Sce (flex);38.510;2021;PR;Seminário - Curitiba;Seminovos Movida
+327;85.900;Toyota;Corolla;Xei 2.0 Flex 16v Aut.;107.000;2015;PR;Centro - Londrina;Vazio
+328;80.900;Fiat;Fiorino;1.4 Mpi Furgão Hard Working 8v Flex 2p Manual;55.685;2020;PR;Londrina;Vazio
+329;77.990;Fiat;Fiorino;1.4 Mpi Furgão Hard Working 8v Flex 2p Manual;67.222;2020;PR;Seminário - Curitiba;Localiza Seminovos
+330;58.220;Chevrolet;Joy;1.0 Spe4 Flex Manual;60.291;2020;PR;Oficinas - Ponta Grossa;Vazio
+331;81.700;Chevrolet;Onix;1.0 Turbo Flex Plus Ltz Automático;62.712;2021;PR;Seminário - Curitiba;Localiza Seminovos
+332;61.880;Chevrolet;Montana;1.4 Mpfi Ls Cs 8v Flex 2p Manual;76.591;2020;PR;Rodocentro - Londrina;Localiza Seminovos
+333;83.990;Volkswagen;Virtus;1.0 200 Tsi Comfortline Automático;57.864;2020;PR;Seminário - Curitiba;Localiza Seminovos
+334;62.550;Hyundai;Hb20;1.0 Sense (flex);43.195;2021;PR;Vila Nova - Maringá;Vazio
+335;56.660;Chevrolet;Mégane;Hatch Hatch 1.0 8v (flex);46.168;2020;PR;Rodocentro - Londrina;Seminovos Movida
+336;59.220;Ford;Ka;Se 1.5 12v (flex);46.997;2020;PR;Parolin - Curitiba;Seminovos Movida
+337;58.910;Renault;Logan;Zen 1.0 12v Sce (flex);40.094;2021;PR;Rodocentro - Londrina;Seminovos Movida
+338;58.910;Renault;Logan;Zen 1.0 12v Sce (flex);40.871;2021;PR;Rodocentro - Londrina;Seminovos Movida
+339;58.830;Fiat;Argo;Drive 1.0 Firefly (flex);54.129;2020;PR;Parolin - Curitiba;Seminovos Movida
+340;70.570;Chevrolet;Onix;Lt 1.0 (flex);40.000;2020;PR;Parolin - Curitiba;Seminovos Movida
+341;82.560;Chevrolet;Sedan;1.0 Ltz Turbo (flex);38.660;2021;PR;Parolin - Curitiba;Seminovos Movida
+342;56.420;Renault;Logan;Life 1.0 12v Sce (flex);41.342;2021;PR;Parolin - Curitiba;Seminovos Movida
+343;69.700;Renault;Logan;Zen 1.6 16v Sce (flex);37.033;2021;PR;Rodocentro - Londrina;Seminovos Movida
+344;56.420;Renault;Logan;Life 1.0 12v Sce (flex);41.088;2021;PR;Vila Nova - Maringá;Vazio
+345;62.870;Volkswagen;Voyage;1.6 Msi 8v (flex);46.852;2021;PR;Rodocentro - Londrina;Seminovos Movida
+346;76.880;Fiat;Fiorino;1.4 Hard Working (flex);48.111;2020;PR;Parolin - Curitiba;Seminovos Movida
+347;72.500;Volkswagen;Polo;1.6 Msi (aut) (flex);64.107;2020;PR;Vila Nova - Maringá;Vazio
+348;68.200;Hyundai;Hb20s;1.0 Vision (flex);47.412;2020;PR;Vila Nova - Maringá;Vazio
+349;59.800;Volkswagen;Gol;1.6 (flex);37.148;2021;PR;Vila Nova - Maringá;Vazio
+350;59.800;Volkswagen;Gol;1.6 Msi (flex);39.224;2021;PR;Vila Nova - Maringá;Vazio
+351;58.490;Hyundai;Hb20;1.0 Sense (flex);46.822;2020;PR;Vila Nova - Maringá;Vazio
+352;67.810;Renault;Sandero;Zen 1.6 16v Sce (flex) (aut);47.114;2020;PR;Rodocentro - Londrina;Seminovos Movida
+353;62.830;Volkswagen;Voyage;1.6 Msi 8v (flex);49.114;2021;PR;Seminário - Curitiba;Seminovos Movida
+354;86.900;Renault;Captur;Intense 1.6 16v Flex 5p Aut;36.175;2018;PR;Centro - Campo Largo;Vazio
+355;55.900;Hyundai;Hb20s;Hb20s 1.0 M Comfort;70.420;2015;PR;Seminário - Curitiba;Vazio
+356;74.900;Chevrolet;Captiva;Sport 2.4;127.000;2015;PR;Xaxim - Curitiba;Vazio
+357;59.990;Fiat;Argo;Drive 1.3 Gsr;49.271;2018;PR;Portão - Curitiba;Vazio
+358;77.999;Fiat;Cronos;1.8 E.torq Flex Precision At6;88.998;2019;PR;Jardim Social - Curitiba;Vazio
+359;70.900;Chevrolet;Prisma;1.4 At Ltz;61.000;2018;PR;Boa Vista - Curitiba;Vazio
+360;70.990;Fiat;Strada;1.4 Mpi Hard Working Cd 8v Flex 3p Manual;51.258;2019;PR;Guarapuava;Vazio
+361;72.900;Fiat;Cronos;1.3 Drive Flex 4p;39.000;2020;PR;Jardim Shangrila - Londrina;Vazio
+362;89.900;Hyundai;Ix35;2.0 Gls 2wd Flex Aut. 5p 169 Hp;98.000;2016;PR;Jardim Shangrila - Londrina;Vazio
+363;85.900;Jeep;Renegade;1.8 Sport Flex 5p;39.000;2019;PR;Jardim Shangrila - Londrina;Vazio
+364;86.900;Nissan;Kicks;1.6 16v Sv Limited Aut. 5p;83.000;2017;PR;Jardim Shangrila - Londrina;Vazio
+365;59.900;Renault;Duster;2.0 16v Dynamique 4x4 Hi-flex 5p;102.000;2015;PR;Jardim Shangrila - Londrina;Vazio
+366;75.900;Chevrolet;Cruze;1.8 Lt 16v Flex 4p Automático;81.118;2016;PR;Xaxim - Curitiba;Vazio
+367;61.900;Fiat;Strada;Strada 1.4 Mpi Hard Working Cs 8v Flex 2p Manual;43.900;2020;PR;Curitiba;Vazio
+368;83.900;Ford;Ecosport;1.5 Ti-vct Flex Freestyle Manual;38.562;2019;PR;Xaxim - Curitiba;Vazio
+369;65.900;Fiat;Argo;1.0 Firefly Flex Drive Manual;45.778;2020;PR;Xaxim - Curitiba;Vazio
+370;64.990;Fiat;Strada;1.4 Mpi Hard Working Cs 8v Flex 2p Manual;63.433;2020;PR;Guarapuava;Vazio
+371;84.990;Jeep;Renegade;1.8 Longitude Flex Aut. 5p;67.000;2016;PR;Jardim Ana Eliza - Cambé;Vazio
+372;56.900;Renault;Sandero;Gt Line/rlin Flex 1.0 12v 5p;34.857;2020;PR;Centro - Campo Largo;Vazio
+373;84.800;Jeep;Renegade;Longitude 4x2 Automatico Flex;69.400;2016;PR;Portão - Curitiba;Vazio
+374;72.900;Volkswagen;Polo;1.0 Flex 12v 5p;4.039;2019;PR;Parolin - Curitiba;Vazio
+375;89.900;Renault;Sandero;Sport Rs 2.0 Flex 16v 5p;5.671;2022;PR;Boa Vista - Curitiba;Vazio
+376;79.900;Volkswagen;Jetta;Trendline 1.4 Tsi 16v 4p Aut;62.838;2016;PR;Centro - Campo Largo;Vazio
+377;83.900;Volkswagen;Polo;Cl Ad;18.850;2019;PR;Boa Vista - Curitiba;Vazio
+378;79.500;Volkswagen;Virtus;1.6 Msi Automatico;47.113;2019;PR;Boa Vista - Curitiba;Vazio
+379;89.900;Nissan;Kicks;S Cvt;54.000;2019;PR;Centro - Londrina;Vazio
+380;86.900;Nissan;Kicks;S Cvt;44.000;2018;PR;Centro - Londrina;Vazio
+381;74.900;Volkswagen;Virtus;Mf;20.700;2019;PR;Centro - Londrina;Vazio
+382;83.900;Volkswagen;Saveiro;Nova Rb Mbvd;19.800;2021;PR;Boa Vista - Curitiba;Vazio
+383;65.900;Fiat;Argo;1.0;12.480;2021;PR;Boa Vista - Curitiba;Vazio
+384;79.900;Renault;Captur;Zen;74.107;2018;PR;Centro - Londrina;Vazio
+385;59.990;Honda;Fit;Exl Cvt;30.000;2016;PR;Centro - Londrina;Vazio
+386;70.900;Renault;Sandero;Stepway Zen Flex 1.6 16v Mec.;50.932;2021;PR;Toledo;Vazio
+387;70.990;Volkswagen;Polo;1.6 16v Flex;72.364;2020;PR;Cascavel;Vazio
+388;70.990;Volkswagen;Polo;1.6 16v Flex;64.219;2020;PR;Cascavel;Vazio
+389;56.490;Ford;Ka;Se 1.0 12v Flex;80.528;2020;PR;Cascavel;Vazio
+390;57.900;Peugeot;2008;Griffe A;163.926;2016;PR;Centro - Londrina;Vazio
+391;82.900;Ford;Ecosport;1.5 Ti-vct Flex Se Automático;31.853;2020;PR;Curitiba;Vazio
+392;55.900;Hyundai;Hb20;Hb20 Comfort 1.0 Flex 12v Mec.;64.672;2018;PR;Rebouças - Curitiba;Vazio
+393;71.900;Chevrolet;Prisma;1.4 Lt 8v Flex Manual;33.420;2019;PR;Centro - Campo Largo;Vazio
+394;58.900;Volkswagen;Voyage;Trendline 1.6 Total Flex 4p (novo);57.930;2018;PR;Centro - Campo Largo;Vazio
+395;88.900;Volkswagen;Virtus;1.0 200 Tsi Highline Automático;89.799;2018;PR;Rebouças - Curitiba;Vazio
+396;61.900;Fiat;Argo;1.0 Firefly Flex Drive Manual;55.019;2019;PR;Curitiba;Vazio
+397;69.900;Renault;Sandero;Sport Rs 2.0 Flex 16v 5p;42.655;2019;PR;Rebouças - Curitiba;Vazio
+398;74.900;Chevrolet;Prisma;1.4 Mpfi Ltz 8v Flex 4p Manual;24.098;2019;PR;Curitiba;Vazio
+399;89.900;Ford;Ecosport;1.5 Tivct Flex Freestyle Manual;19.830;2020;PR;Curitiba;Vazio
+400;57.900;Fiat;Argo;1.0 Firefly Flex Drive Manual;60.118;2018;PR;Rebouças - Curitiba;Vazio
+401;86.900;Volkswagen;Virtus;1.0 200 Tsi Highline Automático;85.716;2018;PR;Rebouças - Curitiba;Vazio
+402;64.900;Chevrolet;Onix;Hatch Activ 1.4 8v Flex 5p Mec;57.369;2017;PR;Rebouças - Curitiba;Vazio
+403;82.900;Ford;Ecosport;1.5 Tivct Freestyle Automático;63.202;2018;PR;Rebouças - Curitiba;Vazio
+404;64.900;Chevrolet;Onix;1.4 Mpfi Ltz 8v Flex 4p Mec;55.148;2018;PR;Curitiba;Vazio
+405;56.900;Ford;Fiesta;Hatch Titanium 1.6 16v Flex Aut.;76.017;2015;PR;Rebouças - Curitiba;Vazio
+406;77.900;Renault;Duster;Dynamique 2.0 16v Hi-flex Aut.;28.610;2017;PR;Curitiba;Hyundai Veiculos
+407;60.900;Fiat;Uno;Sporting Gsr 1.3 Flex 8v;44.232;2018;PR;Rebouças - Curitiba;Vazio
+408;64.900;Hyundai;Hb20s;Hb20s 1.6 Comfort Plus 16v Flex 4p Manual;31.239;2018;PR;Curitiba;Vazio
+409;60.900;Hyundai;Hb20;Hb20 Unique 1.0 Flex 12v Mec;49.653;2019;PR;Curitiba;Vazio
+410;74.900;Chevrolet;Prisma;1.4at Ltz;92.653;2019;PR;Fanny - Curitiba;Vazio
+411;76.900;Honda;Fit;Lx 1.5 Flexone Aut;54.541;2016;PR;Rebouças - Curitiba;Vazio
+412;71.900;Chevrolet;Onix;1.4 Mpfi Ltz 8v Flex 4p Mec;54.752;2018;PR;Curitiba;Vazio
+413;82.900;Jeep;Renegade;Longitude 1.8 Flex Automatico;95.000;2016;PR;Centro - Toledo;Vazio
+414;58.900;Chevrolet;Onix;1.0 Mt Lt;66.563;2019;PR;Centro - Campo Largo;Vazio
+415;64.900;Hyundai;Hb20;Hb20 Comfort Plus 1.0 Flex 12v Mec.;73.395;2019;PR;Curitiba;Vazio
+416;57.900;Volkswagen;Voyage;Tl Mbv;63.278;2018;PR;Centro - Campo Largo;Vazio
+417;76.900;Jeep;Renegade;Sport 1.8 Flex Aut;104.210;2016;PR;Rebouças - Curitiba;Vazio
+418;84.900;Volkswagen;Polo;Comfort 200 Tsi 1.0 Flex 12v Aut;64.119;2019;PR;Rebouças - Curitiba;Vazio
+419;76.900;Volkswagen;Jetta;1.4 16v Tsi Trendline Gasolina 4p Manual;81.550;2016;PR;Rebouças - Curitiba;Vazio
+420;77.900;Chevrolet;Cruze;Sport Cruze 1.8 Lt Sport6 16v Flex 4p Automático;87.532;2016;PR;Rebouças - Curitiba;Vazio
+421;78.900;Jeep;Renegade;Longitude 1.8 Flex Automatico;109.689;2016;PR;Curitiba;Vazio
+422;61.900;Fiat;Argo;1.3 Firefly Flex Drive Gsr;81.637;2018;PR;Curitiba;Vazio
+423;80.900;Volkswagen;Polo;Comfort 200 Tsi 1.0 Flex 12v Aut;73.416;2019;PR;Curitiba;Vazio
+424;56.900;Volkswagen;Voyage;Trendline 1.6 Total Flex 4p (novo);90.640;2018;PR;Centro - Campo Largo;Vazio
+425;59.900;Volkswagen;Up!;Up Move 1.0 Tsi Total Flex 12v 5p;64.093;2017;PR;Centro - Campo Largo;Vazio
+426;89.500;Volkswagen;Saveiro;Cd Cross Ma;52.546;2017;PR;Centro - Campo Largo;Vazio
+427;63.900;Renault;Kwid;Outsider 1.0;12.767;2022;PR;Centro - Campo Largo;Vazio
+428;77.900;Jeep;Renegade;Longitude 1.8 Flex Automatico;52.348;2016;PR;Seminário - Curitiba;Vazio
+429;57.900;Chevrolet;Onix;10mt Joy;37.355;2019;PR;Centro - Campo Largo;Vazio
+430;89.900;Renault;Sandero;Stepway Iconic Flex 1.6 16v Aut.;10.307;2022;PR;Centro - Campo Largo;Vazio
+431;62.500;Renault;Kwid;Outsider 1.0;5.124;2021;PR;Centro - Campo Largo;Vazio
+432;88.900;Renault;Sandero;Stepway Iconic Flex 1.6 16v Aut.;8.346;2021;PR;Centro - Campo Largo;Vazio
+433;63.900;Ford;Ka;Se 1.5 Sd C;44.159;2020;PR;Centro - Campo Largo;Vazio
+434;56.500;Renault;Logan;Expression 1.6 Sce;63.194;2019;PR;Centro - Campo Largo;Vazio
+435;55.900;Ford;Ka;Se 1.0 Ha C;58.078;2019;PR;Fanny - Curitiba;Vazio
+436;73.900;Honda;City;Lx _4p_;74.000;2017;PR;Novo Mundo - Curitiba;Vazio
+437;71.900;Fiat;Strada;Adventure Cd;102.392;2015;PR;Fanny - Curitiba;Vazio
+438;79.900;Toyota;Corolla;2.0 Vvt-ie Xei Direct Shift Flex;119.000;2015;PR;Fanny - Curitiba;Vazio
+439;56.900;Volkswagen;Up!;Up Move Mb;109.940;2016;PR;Fanny - Curitiba;Vazio
+440;65.900;Volkswagen;Up!;Up Pepper Mdv;37.000;2018;PR;Novo Mundo - Curitiba;Vazio
+441;70.580;Chevrolet;Prisma;1.4 Lt 8v Flex Manual;24.079;2019;PR;Curitiba;Hyundai Veiculos
+442;88.900;Ford;Ecosport;1.5 Tivct Flex Freestyle Manual;25.588;2020;PR;Parolin - Curitiba;Vazio
+443;83.900;Jeep;Renegade;Longitude 1.8 Flex Automatico;59.669;2016;PR;Seminário - Curitiba;Vazio
+444;68.900;Honda;Fit;Ex 1.5 16v Flex Aut.;126.549;2017;PR;Seminário - Curitiba;Vazio
+445;86.900;Fiat;Argo;Trekking 1.8 At;13.013;2021;PR;Seminário - Curitiba;Vazio
+446;66.900;Fiat;Cronos;Drive 1.3;58.406;2019;PR;Seminário - Curitiba;Vazio
+447;75.990;Honda;Civic;Lxr;107.000;2015;PR;Centro - Londrina;Vazio
+448;75.780;Hyundai;Hb20s;Hb20s Evolution 1.0 Mt;3.428;2021;PR;Curitiba;Hyundai Veiculos
+449;68.900;Chevrolet;Onix;1.4 Mpfi Ltz 8v Flex 4p Mec;78.000;2019;PR;Xaxim - Curitiba;Vazio
+450;84.900;Renault;Captur;Intense 1.6 Automatica;50.000;2018;PR;Centro - São José dos Pinhais;Vazio
+451;56.900;Hyundai;Hb20;Hb20 1.0mt Unique;33.000;2019;PR;Centro - Toledo;Vazio
+452;59.900;Chevrolet;Onix;1.4 At Ltz;57.000;2015;PR;Maringá;Vazio
+453;57.900;Hyundai;Hb20;Hb20 Premium 1.6;87.728;2015;PR;Rebouças - Curitiba;Vazio
+454;58.900;Volkswagen;Voyage;Trend 1.6 Mi Total Flex 8v;23.000;2018;PR;Xaxim - Curitiba;Vazio
+455;55.900;Volkswagen;Up!;Up Move 1.0 Tsi Total Flex 12v 5p;46.200;2017;PR;Capão Raso - Curitiba;Vazio
+456;69.900;Fiat;Strada;Freedom Cc;63.000;2019;PR;Maringá;Vazio
+457;62.900;Ford;Ka;Sedan Se 1.5 12v;45.201;2019;PR;Parolin - Curitiba;Vazio
+458;77.900;Ford;Focus;Hatch Se Plus 2.0;62.200;2019;PR;Xaxim - Curitiba;Vazio
+459;72.900;Peugeot;2008;Griffe Eat6;24.500;2018;PR;Capão Raso - Curitiba;Vazio
+460;64.900;Peugeot;2008;Griffe 1.6 Automatico;80.000;2016;PR;Capão Raso - Curitiba;Vazio
+461;59.900;Chevrolet;Onix;1.4 Mt Lt;14.091;2017;PR;Jardim das Américas - Curitiba;Vazio
+462;89.900;Volkswagen;Polo;Highline Ad Tsi 1.0 Flex Aut;56.154;2019;PR;Vila Esperança - Maringá;Vazio
+463;69.900;Fiat;Strada;Adventure Locker Cd 1.8;142.429;2015;PR;Cidade Jardim - São José dos Pinhais;Vazio
+464;85.900;Volkswagen;Polo;Comfort 200 Tsi 1.0 Flex 12v Aut;23.010;2019;PR;Campina Grande do Sul;Vazio
+465;59.900;Ford;Ka;+ 1.0 Se 12v Flex 4p Manual;10.900;2021;PR;Rebouças - Curitiba;Vazio
+466;83.900;Kia;Sportage;4x2-at Lx 2.0 16v 4p;90.000;2015;PR;Xaxim - Curitiba;Vazio
+467;60.900;Chevrolet;Onix;Ltz 1.4 (aut);66.105;2015;PR;São José dos Pinhais;Vazio
+468;57.900;Fiat;Strada;Working 1.4 Mpi 8v Flex Mec.;75.000;2018;PR;Maringá;Vazio
+469;69.900;Mitsubishi;Lancer;2.0 Hl 16v Gasolina 4p;44.000;2017;PR;Xaxim - Curitiba;Vazio
+470;57.900;Fiat;Argo;1.3 Firefly Flex Drive Gsr;32.000;2018;PR;Xaxim - Curitiba;Vazio
+471;79.900;Fiat;Cronos;Precision 1.8 16v Flex Aut;888;2019;PR;Maringá;Vazio
+472;84.900;Jeep;Renegade;1.8 16v Flex Sport 4p Manual;12.479;2016;PR;Seminário - Curitiba;Vazio
+473;76.900;Peugeot;208;Griffe 1.6;21.506;2019;PR;Capão Raso - Curitiba;Vazio
+474;64.900;Chevrolet;Prisma;1.4 Lt 8v Flex Manual;51.053;2019;PR;Cidade Jardim - São José dos Pinhais;Vazio
+475;84.900;Jeep;Renegade;Longitude 1.8 Flex Automatico;71.824;2016;PR;Jardim das Américas - Curitiba;Vazio
+476;60.900;Hyundai;Hb20;Hb20 1.6 Confort Plus Aut;72.101;2017;PR;Santa Felicidade - Curitiba;Vazio
+477;55.900;Hyundai;Hb20;Hb20 1.0 Comfort;65.000;2018;PR;Vila Izabel - Curitiba;Vazio
+478;82.900;Jeep;Renegade;Longitude 1.8 Flex Automatico;888;2016;PR;Maringá;Vazio
+479;84.900;Renault;Duster;Oroch Oroch 16 Exp42;41.137;2018;PR;Fazendinha - Curitiba;Vazio
+480;86.900;Volkswagen;Jetta;1.4 16v Tsi Comfortline;26.500;2016;PR;Xaxim - Curitiba;Vazio
+481;73.900;Chevrolet;Onix;1.4 Mt Active;47.567;2019;PR;Fazendinha - Curitiba;Vazio
+482;59.900;Hyundai;Hb20;Hb20 1.0m Comfor;68.831;2018;PR;Fazendinha - Curitiba;Vazio
+483;63.900;Hyundai;Hb20;Hb20 1.0m Sense;8.000;2021;PR;Vila Izabel - Curitiba;Vazio
+484;68.900;Hyundai;Hb20;Hb20 1.0 Vision;14.999;2021;PR;Jardim das Américas - Curitiba;Vazio
+485;88.900;Jeep;Renegade;Longitude 1.8 Flex Automatico;35.950;2017;PR;Jardim das Américas - Curitiba;Vazio
+486;84.900;Volkswagen;Polo;Comfort 200 Tsi 1.0 Flex 12v Aut;36.600;2019;PR;Capão Raso - Curitiba;Vazio
+487;61.900;Hyundai;Hb20s;Hb20s Comfort Plus 1.0 12v Flex Mec.;69.319;2018;PR;Tarumã - Curitiba;Vazio
+488;75.900;Hyundai;Hb20x;Hb20x 1.6a Premi;12.042;2017;PR;Seminário - Curitiba;Vazio
+489;64.900;Hyundai;Hb20x;Hb20x 1.6 M Style;63.836;2016;PR;Curitiba;Vazio
+490;55.900;Ford;Ka;Se 1.0 12v Ti-vct;70.668;2019;PR;Curitiba;Vazio
+491;73.900;Chevrolet;Prisma;1.4 Mpfi Advantage 8v Flex 4p Aut;58.629;2019;PR;Jardim das Américas - Curitiba;Vazio
+492;77.900;Jeep;Renegade;Sport Mt;82.000;2018;PR;Hauer - Curitiba;Vazio
+493;79.900;Renault;Duster;Oroch Oroch 20 Dyn42at;106.000;2018;PR;Rebouças - Curitiba;Vazio
+494;85.900;Ford;Ecosport;Titanium 2.0;64.987;2018;PR;Curitiba;Vazio
+495;59.900;Fiat;Strada;1.4 Mpi Hard Working Cs 8v Flex 2p Manual;140.024;2019;PR;Uberaba - Curitiba;Vazio
+496;63.900;Lifan;X60;1.8 Talent 16v 128cv 5p Mec.;67.552;2018;PR;Rebouças - Curitiba;Vazio
+497;79.900;Hyundai;Hb20x;Hb20x 1.6 A Premium;46.259;2017;PR;Seminário - Curitiba;Vazio
+498;57.900;Hyundai;Hb20;Hb20 1.6 Comfort Plus Aut (flex);75.000;2015;PR;Maringá;Vazio
+499;59.900;Chevrolet;Onix;1.0 Lt 8v Flex 4p Manual;78.313;2019;PR;Fazendinha - Curitiba;Vazio
+500;84.900;Jeep;Renegade;Longitude 1.8 Flex Automatico;68.149;2016;PR;Fazendinha - Curitiba;Vazio
+501;63.900;Volkswagen;Saveiro;1.6 Ce Cross 8v Flex 2p Manual;102.000;2015;PR;Boqueirão - Curitiba;Vazio
+502;71.900;Renault;Sandero;Sport Rs 2.0 Flex 16v 5p;27.963;2019;PR;Jardim das Américas - Curitiba;Vazio
+503;67.900;Chevrolet;Prisma;1.4 At Lt;63.400;2018;PR;Jardim das Américas - Curitiba;Vazio
+504;77.900;Chevrolet;Onix;1.4 Mpfi Lt 8v Flex 4p Automático;20.945;2019;PR;Curitiba;Vazio
+505;57.900;Chevrolet;Onix;Lt 1.0 Mpfi 8v 4p Mec.;61.490;2018;PR;Curitiba;Vazio
+506;89.900;Toyota;Corolla;Xei 2.0 Flex 16v Aut.;69.570;2015;PR;Curitiba;Vazio
+507;59.900;Fiat;Punto;Blackmotin;99.000;2016;PR;Curitiba;Vazio
+508;78.500;Renault;Duster;Oroch Expression 1.6 Hi-flex 16v;60.043;2019;PR;Siqueira Campos;Vazio
+509;57.900;Hyundai;Hb20;Hb20 Comfort Plus 1.0 Flex 12v Mec.;50.464;2017;PR;Curitiba;Vazio
+510;76.900;Renault;Sandero;Sport Rs 2.0 Flex 16v 5p;25.972;2020;PR;Seminário - Curitiba;Vazio
+511;80.000;Peugeot;2008;Allure 1.6 Automatico;55.898;2019;PR;Boa Vista - Curitiba;Vazio
+512;73.900;Chevrolet;Cruze;Sedan Ltz 1.8;104.000;2015;PR;Centro - Londrina;Vazio
+513;72.900;Chevrolet;Onix;Ltz 1.4;19.452;2019;PR;São José dos Pinhais;Vazio
+514;57.900;Chevrolet;Onix;1.4 Mt Lt;60.752;2019;PR;Jardim das Américas - Curitiba;Vazio
+515;72.800;Hyundai;Hb20s;Hb20s 1.6 Comfort Plus 16v Flex 4p Manual;65.600;2019;PR;Centro - Toledo;Vazio
+516;89.900;Ford;Ranger;Xltcd2 25c;89.000;2015;PR;Centro - São José dos Pinhais;Vazio
+517;88.900;Ford;Ecosport;1.5 Ti-vct Flex Se Automático;13.379;2020;PR;Siqueira Campos;Vazio
+518;59.900;Fiat;Strada;Working 1.4 Mpi Fire Flex 8v Cs;76.000;2018;PR;Maringá;Vazio
+519;77.900;Jeep;Renegade;1.8 Sport (auto);66.450;2016;PR;São José dos Pinhais;Vazio
+520;72.900;Chevrolet;Cruze;1.8 Lt 16v Flex 4p Automático;94.181;2015;PR;Santa Felicidade - Curitiba;Vazio
+521;62.900;Chevrolet;Prisma;1.4 At Ltz;58.000;2016;PR;Maringá;Vazio
+522;67.800;Chevrolet;Prisma;1.4 Lt 8v Flex Manual;43.900;2019;PR;Centro - Toledo;Vazio
+523;61.000;Hyundai;Hb20s;Hb20s Comfort Plus 1.0 12v Flex Mec.;86.000;2018;PR;Centro - Toledo;Vazio
+524;69.900;Hyundai;Hb20;Hb20 1.6 Comfort Plus Aut (flex);58.636;2019;PR;Vila Esperança - Maringá;Vazio
+525;65.900;Chevrolet;Onix;Ltz 1.4 Mpfi 8v 4p Aut.;97.576;2017;PR;Santa Felicidade - Curitiba;Vazio
+526;65.900;Nissan;Sentra;Sl 2.0 16v-cvt 4p;81.000;2015;PR;Xaxim - Curitiba;Vazio
+527;65.900;Chevrolet;Prisma;1.4 At Ltz;79.000;2018;PR;Centro - São José dos Pinhais;Vazio
+528;59.900;Volkswagen;Fox;Connect Mb;75.100;2018;PR;Capão Raso - Curitiba;Vazio
+529;60.900;Volkswagen;Fox;Connect Mb;51.200;2019;PR;Capão Raso - Curitiba;Vazio
+530;58.900;Hyundai;Hb20;1.6 Premium Aut;71.714;2015;PR;São José dos Pinhais;Vazio
+531;78.900;Ford;Ecosport;1.5 Tivct Flex Freestyle Manual;43.300;2018;PR;Boqueirão - Curitiba;Vazio
+532;85.900;Renault;Captur;1.6 16v Sce Flex Intense X-tronic;57.237;2018;PR;Jardim das Américas - Curitiba;Vazio
+533;82.900;Honda;Fit;Exl Cvt;34.070;2017;PR;Arapoti;Vazio
+534;83.000;Volkswagen;Golf;1.6 Msi Comfortline 16v Total Flex 4p Tiptronic;46.435;2016;PR;Região do Lago - Cascavel;Vazio
+535;62.900;Citroën;C3;Attraction Pure Tech 1.2 Flex 12v Mec;19.966;2021;PR;Tarumã - Curitiba;Vazio
+536;85.900;Renault;Captur;Intense 2.0 16v 5p Aut;43.019;2018;PR;Tarumã - Curitiba;Vazio
+537;55.900;Hyundai;Hb20;Hb20 1.0mt Unique;888;2019;PR;Maringá;Vazio
+538;69.900;Fiat;Cronos;Drive 1.3 (flex);65.419;2019;PR;São José dos Pinhais;Vazio
+539;56.900;Hyundai;Hb20;Hb20 1.0m Unique;44.000;2019;PR;Portão - Curitiba;Vazio
+540;67.900;Hyundai;Tucson;Gls B 2.0 Aut;89.989;2017;PR;Santa Felicidade - Curitiba;Vazio
+541;62.990;Hyundai;Tucson;2.0 Gls Flex 4p Aut;107.000;2017;PR;Hauer - Curitiba;Vazio
+542;62.900;Fiat;Strada;1.4 Mpi Hard Working Ce 8v Flex 2p Manual;57.000;2019;PR;Centro - Londrina;Vazio
+543;89.900;Renault;Captur;Life 16a;30.000;2018;PR;Centro - São José dos Pinhais;Vazio
+544;78.000;Honda;City;Lx Cvt;73.766;2017;PR;Região do Lago - Cascavel;Vazio
+545;56.900;Fiat;Argo;1.0 Firefly Flex Drive Manual;64.499;2019;PR;Jardim das Américas - Curitiba;Vazio
+546;64.800;Chevrolet;Spin;1.8l At Ltz;54.568;2016;PR;Região do Lago - Cascavel;Vazio
+547;75.900;Chevrolet;Cruze;Lt 1.8 16v Ecotec (flex);78.938;2016;PR;São José dos Pinhais;Vazio
+548;55.900;Ford;Ka;1.5 Sedan Se Plus 12v Flex 4p Mec;43.320;2019;PR;Centro - Londrina;Vazio
+549;69.900;Renault;Sandero;Rs Racing Spirit Flex 2.0 16v 5p;40.428;2019;PR;Jardim das Américas - Curitiba;Vazio
+550;55.900;Fiat;Strada;1.4 Mpi Hard Working Cs 8v Flex 2p Manual;156.000;2018;PR;Curitiba;Vazio
+551;59.900;Volkswagen;Saveiro;Robust 1.6 Total Flex 8v;95.000;2019;PR;Curitiba;Vazio
+552;69.900;Fiat;Strada;1.4 Mpi Hard Working Cd 8v Flex 3p Manual;69.000;2016;PR;Centro - São José dos Pinhais;Vazio
+553;58.900;Volkswagen;Up!;Up Move Mcv;63.000;2018;PR;Centro - São José dos Pinhais;Vazio
+554;89.900;Jeep;Renegade;Sport 1.8 Flex Aut;43.857;2019;PR;Jardim das Américas - Curitiba;Vazio
+555;73.900;Peugeot;208;Griffe 1.6 16v Flex Aut.;53.975;2019;PR;Jardim das Américas - Curitiba;Vazio
+556;72.900;Chevrolet;Onix;Hatch Activ 1.4 8v Flex 5p Mec;49.395;2019;PR;Jardim das Américas - Curitiba;Vazio
+557;62.900;Ford;Ka;Se Plus 1.5 Sd C;43.367;2020;PR;Santa Felicidade - Curitiba;Vazio
+558;89.900;Honda;Hr-v;Hr-v Ex Cvt;94.850;2016;PR;Campo Largo;Vazio
+559;59.900;Ford;Fiesta;1.6 Titanium;95.240;2015;PR;Rebouças - Curitiba;Vazio
+560;66.900;Chevrolet;Montana;Ls 1.4 Econoflex;52.238;2020;PR;Santa Felicidade - Curitiba;Vazio
+561;61.900;Fiat;Argo;Drive 1.0 6v Flex;72.167;2020;PR;Santa Felicidade - Curitiba;Vazio
+562;78.900;Jeep;Renegade;1.8 16v Flex Sport 4p Manual;48.653;2017;PR;Campo Largo;Vazio
+563;56.800;Renault;Sandero;Gtline;21.426;2020;PR;Região do Lago - Cascavel;Vazio
+564;56.900;Hyundai;Hb20;Hb20 1.0m Unique;71.000;2019;PR;Portão - Curitiba;Vazio
+565;71.900;Fiat;Argo;Hgt 1.8 16v Flex Mec;35.339;2018;PR;Jardim das Américas - Curitiba;Vazio
+566;89.900;Renault;Captur;1.6 16v Sce Flex Intense X-tronic;56.580;2019;PR;Jardim das Américas - Curitiba;Vazio
+567;73.900;Jeep;Renegade;1.8 16v Flex Sport 4p Manual;56.248;2016;PR;Jardim das Américas - Curitiba;Vazio
+568;81.900;Honda;Civic;New Sedan Lxr 2.0 16v;98.445;2016;PR;Curitiba;Vazio
+569;81.900;Toyota;Corolla;Gli 1.8 16v;59.990;2017;PR;Vila Esperança - Maringá;Vazio
+570;55.900;Hyundai;Hb20s;Hb20s Premium 1.6;72.000;2015;PR;Xaxim - Curitiba;Vazio
+571;65.900;Ford;Ecosport;Titanium 2.0;45.000;2015;PR;Curitiba;Vazio
+572;75.900;Fiat;Cronos;Precision 1.8 16v Flex Aut;66.666;2019;PR;Vila Esperança - Maringá;Vazio
+573;65.900;Hyundai;Hb20;Hb20 Ocean 1.6 Flex 16v 5p Aut.;55.800;2017;PR;Xaxim - Curitiba;Vazio
+574;88.900;Chevrolet;Cruze;Sport Cruze Lt Hb At;888;2017;PR;Maringá;Vazio
+575;72.900;Fiat;Cronos;Prec At;81.000;2019;PR;Portão - Curitiba;Vazio
+576;63.900;Peugeot;308;1.6 Griffe Thp 16v Gasolina 4p Automatico;80.552;2015;PR;Seminário - Curitiba;Vazio
+577;82.900;Jeep;Renegade;Lngtd At;70.091;2016;PR;Santa Felicidade - Curitiba;Vazio
+578;77.900;Ford;Ecosport;Se 1.5 12v Flex;59.000;2020;PR;Centro - Londrina;Vazio
+579;61.900;Fiat;Argo;Drive 1.0 6v Flex;66.452;2020;PR;Santa Felicidade - Curitiba;Vazio
+580;89.900;Ford;Ecosport;Titanium 2.0;43.713;2019;PR;Santa Felicidade - Curitiba;Vazio
+581;80.900;Volkswagen;Saveiro;Trendline 1.6 Flex 8v;54.932;2021;PR;Santa Felicidade - Curitiba;Vazio
+582;61.900;Fiat;Argo;Drive 1.0 6v Flex;49.455;2020;PR;Santa Felicidade - Curitiba;Vazio
+583;62.900;Chevrolet;Prisma;1.4 At Lt;71.000;2018;PR;Centro - Ponta Grossa;Vazio
+584;66.900;Fiat;Argo;Drive 1.0;9.000;2021;PR;Centro - Ponta Grossa;Vazio
+585;61.800;Ford;Ka;Sedan Se Plus 1.5 12v At;69.000;2019;PR;Hauer - Curitiba;Vazio
+586;86.900;Citroën;C4;Cactus C4cactus Feel A;52.240;2020;PR;Arapoti;Vazio
+587;84.900;Hyundai;Hb20x;Hb20x Diamond Plus 1.6 At;9.500;2020;PR;Boa Vista - Curitiba;Vazio
+588;88.900;Honda;Wr-v;Wr-v 1.5 16v Flexone Ex Cvt;51.000;2018;PR;Centro - Londrina;Vazio
+589;59.900;Hyundai;Tucson;2.0 Gls Flex 4p Aut;93.000;2016;PR;Curitiba;Vazio
+590;62.900;Renault;Logan;Expres. Avantage Flex 1.6 16v 4p;40.000;2020;PR;Xaxim - Curitiba;Vazio
+591;58.900;Renault;Logan;Expres. Avantage Flex 1.6 16v 4p;80.000;2020;PR;Xaxim - Curitiba;Vazio
+592;59.900;Chevrolet;Onix;Lt 1.0 Mpfi 8v 4p Mec.;18.000;2019;PR;Xaxim - Curitiba;Vazio
+593;89.900;Chevrolet;Tracker;Ltz 1.4 Turbo 16v Flex 4x2 Aut.;104.000;2017;PR;Xaxim - Curitiba;Vazio
+594;71.900;Honda;Fit;Lx Cvt;60.000;2017;PR;Centro - Ponta Grossa;Vazio
+595;64.900;Ford;Ka;1.5 Se Plus Aut;21.300;2020;PR;Centro - Londrina;Vazio
+596;88.000;Volkswagen;Virtus;Comfort Tsi 1.0 Flex Aut;40.149;2020;PR;Região do Lago - Cascavel;Vazio
+597;86.900;Volkswagen;Virtus;1.0 200 Tsi Comfortline Automático;37.000;2020;PR;Xaxim - Curitiba;Vazio
+598;88.900;Chevrolet;Tracker;Lt 1.4 L Turbo Ecotech 16v Flex 4x2 Aut;53.000;2018;PR;Vila Izabel - Curitiba;Vazio
+599;55.800;Chevrolet;Spin;Spin Ltz 7p;56.000;2016;PR;Centro - Toledo;Vazio
+600;73.500;Renault;Duster;Oroch Oroch 16 Dyn42;99.544;2016;PR;Jardim Carvalho - Ponta Grossa;Vazio
+601;71.900;Toyota;Etios;X Plus Sedan 1.5 Flex 16v 4p Aut;53.000;2020;PR;Xaxim - Curitiba;Vazio
+602;58.700;Chevrolet;Onix;Joy _4p_;47.000;2020;PR;Jardim Carvalho - Ponta Grossa;Vazio
+603;89.900;Renault;Captur;Intense 1.6 Automatica;25.000;2019;PR;Xaxim - Curitiba;Vazio
+604;75.900;Chevrolet;Prisma;1.4 Mpfi Ltz 8v Flex 4p Aut;53.000;2019;PR;Centro - Londrina;Vazio
+605;79.999;Renault;Duster;Oroch 1.6 16v Flex Expression 4p Manual;70.509;2017;PR;Jardim Social - Curitiba;Vazio
+606;88.900;Honda;Hr-v;Hr-v Ex 1.8 Flexone 16v 5p Aut;111.700;2016;PR;Xaxim - Curitiba;Vazio
+607;64.900;Peugeot;2008;Griffe 1.6 Manual;91.000;2016;PR;Xaxim - Curitiba;Vazio
+608;84.999;Volkswagen;Polo;1.0 200 Tsi Comfortline Automático;43.558;2019;PR;Jardim Social - Curitiba;Vazio
+609;77.999;Chevrolet;Tracker;1.8 Mpfi Ltz 4x2 16v Flex 4p Automático;80.515;2015;PR;Jardim Social - Curitiba;Vazio
+610;60.900;Peugeot;208;Allure At;68.000;2017;PR;Curitiba;Vazio
+611;81.900;Fiat;Argo;Hgt 1.8 At6;66.000;2018;PR;Curitiba;Vazio
+612;73.900;Chevrolet;Cruze;Lt Hb;117.519;2015;PR;Arapoti;Vazio
+613;69.900;Chevrolet;Captiva;Sport 2.4;142.000;2016;PR;Xaxim - Curitiba;Vazio
+614;62.999;Hyundai;Tucson;2.0 Mpfi Gls 16v 143cv 2wd Flex 4p Automatico;83.050;2015;PR;Jardim Social - Curitiba;Vazio
+615;65.999;Chevrolet;Spin;1.8 Activ 8v Flex 4p Automático;101.557;2016;PR;Jardim Social - Curitiba;Vazio
+616;89.900;Renault;Captur;Intense 1.6 16v Flex 5p Aut;25.000;2019;PR;Xaxim - Curitiba;Vazio
+617;61.900;Chevrolet;Onix;1.4 Mt Ltz;79.644;2017;PR;Campina Grande do Sul;Vazio
+618;58.900;Citroën;C3;Tendance 1.6 16v Flex Aut.;78.415;2018;PR;Campina Grande do Sul;Vazio
+619;55.999;Chevrolet;Onix;1.0 Mpfi Joy 8v Flex 4p Manual;67.897;2019;PR;Jardim Social - Curitiba;Vazio
+620;89.900;Renault;Sandero;Stepway Stepway Iconic Flex 1.6 16v Aut;4.900;2022;PR;Xaxim - Curitiba;Vazio
+621;62.900;Hyundai;Hb20;Hb20 1.0m Sense;19.000;2021;PR;Portão - Curitiba;Vazio
+622;79.900;Chevrolet;Cruze;Lt;76.820;2016;PR;Rebouças - Curitiba;Vazio
+623;56.890;Chevrolet;Onix;1.0mt Lt;61.303;2019;PR;Bacacheri - Curitiba;Vazio
+624;74.999;Chevrolet;Onix;1.4 Mpfi Ltz 8v Flex 4p Automático;41.481;2018;PR;Jardim Social - Curitiba;Vazio
+625;77.999;Nissan;Sentra;2.0 Sv 16v Flex 4p Automático;91.059;2017;PR;Jardim Social - Curitiba;Vazio
+626;55.990;Ford;Ka;Se 1.5 Sd C;83.611;2019;PR;Bacacheri - Curitiba;Vazio
+627;77.999;Toyota;Yaris;1.3 16v Flex Xl Manual;50.094;2019;PR;Jardim Social - Curitiba;Vazio
+628;78.900;Fiat;Fiorino;Hard Working E;54.076;2020;PR;Santa Felicidade - Curitiba;Vazio
+629;75.999;Honda;Fit;1.5 Lx 16v Flex 4p Automatico;50.098;2016;PR;Jardim Social - Curitiba;Vazio
+630;67.900;Peugeot;2008;Griffe 1.6 Manual;67.000;2017;PR;Xaxim - Curitiba;Vazio
+631;82.500;Jeep;Renegade;Sport 1.8 Flex Manual;74.012;2018;PR;Siqueira Campos;Vazio
+632;73.900;Chevrolet;Cruze;1.8 Lt 16v Flex 4p Automático;91.000;2016;PR;Xaxim - Curitiba;Vazio
+633;75.999;Chevrolet;Onix;1.4 Mpfi Ltz 8v Flex 4p Automático;79.781;2019;PR;Jardim Social - Curitiba;Vazio
+634;69.900;Chevrolet;Onix;1.4 Mpfi Ltz 8v Flex 4p Mec;46.420;2019;PR;Rebouças - Curitiba;Vazio
+635;65.900;Hyundai;Hb20;Hb20 Vision 1.0 Flex 12v Mec;48.493;2020;PR;Santa Felicidade - Curitiba;Vazio
+636;88.900;Volkswagen;Saveiro;Nova Robust Mbv Cabine Dupla;18.180;2021;PR;Wenceslau Braz;Vazio
+637;74.999;Jeep;Renegade;1.8 16v Flex Sport 4p Manual;101.626;2016;PR;Jardim Social - Curitiba;Vazio
+638;67.900;Chevrolet;Cruze;1.8 Lt 16v Flex 4p Manual;95.000;2015;PR;Sítio Cercado - Curitiba;Vazio
+639;72.999;Hyundai;Hb20;1.0 12v Flex Evolution Manual;9.933;2020;PR;Jardim Social - Curitiba;Vazio
+640;62.999;Hyundai;Tucson;2.0 Mpfi Gls 16v 143cv 2wd Flex 4p Automatico;91.324;2015;PR;Jardim Social - Curitiba;Vazio
+641;77.999;Chevrolet;Onix;1.4 Mpfi Activ 8v Flex 4p Manual;58.432;2019;PR;Jardim Social - Curitiba;Vazio
+642;84.900;Honda;Fit;Exl- At 1.5 16v 4p;79.000;2018;PR;Maringá;Vazio
+643;59.900;Hyundai;Hb20;Hb20 1.0m Unique;22.374;2019;PR;Jardim Carvalho - Ponta Grossa;Vazio
+644;82.999;Renault;Sandero;2.0 16v Hi-flex Rs Manual;24.946;2021;PR;Jardim Social - Curitiba;Vazio
+645;86.900;Volkswagen;Virtus;Comfort Tsi 1.0 Flex Aut;49.000;2019;PR;Xaxim - Curitiba;Vazio
+646;60.900;Renault;Logan;Expres. Avantage Flex 1.6 16v 4p;69.000;2020;PR;Xaxim - Curitiba;Vazio
+647;77.999;Hyundai;Hb20;1.6 R Spec 16v Flex 4p Automático;37.267;2019;PR;Jardim Social - Curitiba;Vazio
+648;77.999;Hyundai;Hb20x;1.6 16v Premium Flex 4p Automatico;59.808;2018;PR;Jardim Social - Curitiba;Vazio
+649;70.900;Fiat;Cronos;Drive 1.8 16v At Flex;71.000;2019;PR;Xaxim - Curitiba;Vazio
+650;89.999;Fiat;Argo;1.3 Firefly Flex Trekking Manual;1.000;2022;PR;Jardim Social - Curitiba;Vazio
+651;61.900;Honda;Fit;Lx 1.5 Flexone Aut;100.000;2015;PR;Xaxim - Curitiba;Vazio
+652;60.900;Renault;Logan;Expres. Avantage Flex 1.6 16v 4p;64.000;2020;PR;Xaxim - Curitiba;Vazio
+653;58.900;Renault;Logan;Expres. Avantage Flex 1.6 16v 4p;84.000;2020;PR;Xaxim - Curitiba;Vazio
+654;58.900;Hyundai;Hb20s;Hb20s 1.0 Unique;68.000;2019;PR;Xaxim - Curitiba;Vazio
+655;77.900;Nissan;Sentra;2.0 S Cvt;83.000;2018;PR;Xaxim - Curitiba;Vazio
+656;89.900;Hyundai;Elantra;Gls 2.0 16v Flex Aut.;55.900;2018;PR;Xaxim - Curitiba;Vazio
+657;69.000;Chevrolet;Onix;1.4 Mt Ltz;68.645;2019;PR;Boa Vista - Curitiba;Vazio
+658;57.900;Fiat;Uno;Way 1.3 Flex 8v 5p;48.000;2021;PR;Capão Raso - Curitiba;Vazio
+659;69.900;Citroën;Aircross;1.6 Live Flex 4p Mec;24.626;2019;PR;Centro - Campo Largo;Vazio
+660;78.900;Nissan;Sentra;2.0 S Cvt;69.000;2018;PR;Xaxim - Curitiba;Vazio
+661;78.900;Jeep;Renegade;Sport 1.8 Flex Aut;71.900;2016;PR;Maringá;Vazio
+662;70.900;Chevrolet;Prisma;1.4 At Lt;61.000;2019;PR;Maringá;Vazio
+663;89.900;Renault;Captur;Intense 2.0 16v 5p Aut;54.800;2018;PR;Parolin - Curitiba;Vazio
+664;56.900;Renault;Duster;Dynamique 4x4 2.0 16v;72.000;2015;PR;Xaxim - Curitiba;Vazio
+665;72.800;Hyundai;Hb20;Hb20 1.6 R Spec 16v Flex 4p Automatico;40.000;2019;PR;Hauer - Curitiba;Vazio
+666;83.800;Hyundai;Ix35;Ix35 Gls 2.0 Aut Flex;59.000;2015;PR;Hauer - Curitiba;Vazio
+667;84.900;Chevrolet;S-10;S-10 Ls 2.4;163.000;2015;PR;Centro - Londrina;Vazio
+668;77.900;Nissan;Sentra;2.0 S Cvt;72.000;2018;PR;Xaxim - Curitiba;Vazio
+669;77.900;Nissan;Sentra;2.0 S Cvt;72.000;2018;PR;Xaxim - Curitiba;Vazio
+670;75.500;Renault;Duster;Oroch Oroch 1.6 Dynamique 4x2;111.032;2016;PR;Arapoti;Vazio
+671;85.990;Jeep;Renegade;1.8 16v Flex Sport 4p Manual;72.500;2019;PR;Bacacheri - Curitiba;Vazio
+672;56.020;Hyundai;Hb20;Hb20 Comfort Style 1.6 Flex 16v Mec.;56.231;2017;PR;Curitiba;Hyundai Veiculos
+673;76.900;Hyundai;Hb20x;Hb20 X 1.6 16v Style Automatico;63.000;2018;PR;Maringá;Vazio
+674;55.999;Ford;Ka;1.0 Se 12v Flex 4p Manual;63.806;2019;PR;Jardim Social - Curitiba;Vazio
+675;67.500;Chevrolet;Onix;1.4mt Ltz;75.000;2018;PR;Wenceslau Braz;Vazio
+676;60.900;Renault;Logan;Expres. Avantage Flex 1.6 16v 4p;63.000;2020;PR;Xaxim - Curitiba;Vazio
+677;79.900;Volkswagen;Polo;Comfort 200 Tsi 1.0 Flex 12v Aut;78.000;2019;PR;Xaxim - Curitiba;Vazio
+678;62.900;Renault;Logan;Expres. Avantage Flex 1.6 16v 4p;52.000;2020;PR;Xaxim - Curitiba;Vazio
+679;59.900;Renault;Logan;Expres. Avantage Flex 1.6 16v 4p;72.000;2020;PR;Xaxim - Curitiba;Vazio
+680;76.900;Jeep;Renegade;Sport 1.8 Flex Manual;96.000;2018;PR;Xaxim - Curitiba;Vazio
+681;72.900;Chevrolet;Cobalt;Elite 1.8 8v Econo. Flex 4p Aut;29.000;2018;PR;Xaxim - Curitiba;Vazio
+682;72.900;Chevrolet;Cobalt;Elite 1.8 8v Econo. Flex 4p Aut;25.000;2018;PR;Xaxim - Curitiba;Vazio
+683;69.900;Chevrolet;Tracker;Tracker Lt 1.8 16v Flex 4x2 Aut;64.000;2016;PR;Boa Vista - Curitiba;Vazio
+684;67.900;Honda;Fit;Fit Lx 1.5 Flexone Aut;52.000;2016;PR;Boa Vista - Curitiba;Vazio
+685;55.900;Hyundai;Hb20s;Hb20s 1.0 Unique;47.000;2019;PR;Boa Vista - Curitiba;Vazio
+686;62.900;Fiat;Argo;Argo 1.0 Firefly Flex Drive Manual;5.000;2021;PR;Boa Vista - Curitiba;Vazio
+687;62.900;Volkswagen;Voyage;Voyage 1.6 Msi Total Flex Aut.;20.000;2020;PR;Boa Vista - Curitiba;Vazio
+688;73.900;Volkswagen;Saveiro;1.6 Msi Pepper Ce 8v Flex;159.000;2018;PR;Xaxim - Curitiba;Vazio
+689;81.900;Renault;Sandero;R.s 2.0;17.000;2021;PR;Xaxim - Curitiba;Vazio
+690;74.900;Renault;Duster;1.6 16v Expression Sce 5p;42.002;2020;PR;Rebouças - Curitiba;Vazio
+691;64.900;Volkswagen;Saveiro;Nova Rb Mbvb Robust Completo;142.000;2018;PR;Novo Mundo - Curitiba;Vazio
+692;62.999;Renault;Logan;1.6 16v Sce Flex Expression Manual;71.169;2020;PR;Jardim Social - Curitiba;Vazio
+693;59.900;Volkswagen;Crossfox;I-motion 1.6 Msi 16v Total Flex Aut.;57.295;2016;PR;Xaxim - Curitiba;Vazio
+694;59.900;Fiat;Strada;1.4 Mpi Hard Working Cs 8v Flex 2p Manual;120.000;2018;PR;Curitiba;Vazio
+695;89.800;Honda;City;1.5 Flex Lx Automático Completo;40.000;2019;PR;Estrela - Ponta Grossa;Vazio
+696;79.800;Ford;Ecosport;1.5 Flex Se Manual Completa;41.300;2019;PR;Estrela - Ponta Grossa;Vazio
+697;84.900;Nissan;Sentra;2.0 Sv Cvt;61.834;2018;PR;Maringá;Vazio
+698;79.900;Ford;Ecosport;1.5 Tivct Freestyle Automático;59.829;2019;PR;Maringá;Vazio
+699;75.900;Nissan;Sentra;2.0 Sv Cvt;89.577;2018;PR;Seminário - Curitiba;Vazio
+700;59.500;Toyota;Etios;Xs 1.5;63.242;2018;PR;Centro - Campo Largo;Vazio
+701;75.900;Fiat;Doblo;Essence 7l E;87.000;2020;PR;Região do Lago - Cascavel;Vazio
+702;73.900;Volkswagen;Golf;1.0 Tsi Comfortline 12v Total Flex 4p Manual;143.000;2017;PR;Maringá;Vazio
+703;72.800;Chevrolet;Cruze;Chevrolet/cruze Lt Nb;57.000;2016;PR;Hauer - Curitiba;Vazio
+704;67.900;Chevrolet;Cobalt;1.8 Ltz 8v Econoflex 4p Aut;67.800;2018;PR;Xaxim - Curitiba;Vazio
+705;58.900;Ford;Ka;Se 1.5 Sd C;72.938;2019;PR;Siqueira Campos;Vazio
+706;86.900;Hyundai;Creta;Creta 1.6 16v Flex Pulse Aut;34.000;2017;PR;Boa Vista - Curitiba;Vazio
+707;67.900;Hyundai;Hb20;Hb20 1.6 Comfort Plus Aut (flex);15.000;2019;PR;Boa Vista - Curitiba;Vazio
+708;59.500;Hyundai;Hb20;Hb20 Sense 1.0 Flex 12v Mec;21.000;2021;PR;Boa Vista - Curitiba;Vazio
+709;57.900;Citroën;C3;C3 Attraction A;36.000;2019;PR;Boa Vista - Curitiba;Vazio
+710;85.900;Nissan;Kicks;Sl Cvt 1.6 Flex;93.000;2017;PR;Xaxim - Curitiba;Vazio
+711;73.900;Renault;Duster;Dynamique 4x4 2.0 16v;110.000;2018;PR;Xaxim - Curitiba;Vazio
+712;75.900;Renault;Duster;Dynamique 4x4 2.0 16v;97.000;2018;PR;Xaxim - Curitiba;Vazio
+713;76.900;Renault;Duster;Dynamique 4x4 2.0 16v;113.000;2019;PR;Xaxim - Curitiba;Vazio
+714;72.900;Fiat;Fiorino;Hard Working 1.4 Flex 8v 2p;75.000;2019;PR;Capão Raso - Curitiba;Vazio
+715;84.900;Jeep;Renegade;Sport 1.8 Flex Aut;49.619;2018;PR;Seminário - Curitiba;Vazio
+716;57.900;Hyundai;Hb20;Hb20 1.0m Unique;66.483;2019;PR;Wenceslau Braz;Vazio
+717;65.900;Volkswagen;Saveiro;Trendline 1.6 Flex 8v;15.000;2018;PR;Xaxim - Curitiba;Vazio
+718;72.900;Volkswagen;Jetta;2.0 Comfortline Flex 4p Aut;95.000;2015;PR;Prudentópolis;Vazio
+719;55.900;Renault;Sandero;Expression 1.6 16v Flex Mec.;62.000;2020;PR;Santa Felicidade - Curitiba;Vazio
+720;73.900;Hyundai;Hb20x;Hb20x Premium 1.6 Flex 16v Aut. 4p;60.250;2017;PR;Parolin - Curitiba;Vazio
+721;74.900;Honda;Civic;Lxs 1.8 16v Flex Automatico;68.438;2015;PR;Rodocentro - Londrina;Vazio
+722;84.500;Honda;Fit;Ex 1.5 16v Flex Aut.;34.703;2017;PR;Rodocentro - Londrina;Vazio
+723;57.900;Hyundai;Hb20;Hb20 1.6 Comfort Plus;55.619;2018;PR;Ponta Grossa;Vazio
+724;59.900;Hyundai;Hb20x;Hb20x 1.6 M Style;48.248;2016;PR;Ponta Grossa;Vazio
+725;81.900;Chevrolet;Tracker;Ltz 1.8 Ecotec Aut.;49.916;2015;PR;Curitiba;Vazio
+726;69.900;Fiat;Strada;Hard Working Cabine Simples Cc E;33.000;2020;PR;Conradinho - Guarapuava;Vazio
+727;89.900;Chevrolet;Spin;1.8 Activ 8v Flex 4p Aut;30.420;2019;PR;Estradinha - Paranaguá;Vazio
+728;69.900;Ford;Ecosport;Titanium 2.0;77.616;2015;PR;Xaxim - Curitiba;Vazio
+729;57.900;Chevrolet;Cobalt;1.8 Ltz;77.000;2017;PR;Portão - Curitiba;Vazio
+730;63.900;Ford;Ka;Se At 1.5 Sd C;46.464;2019;PR;Wenceslau Braz;Vazio
+731;88.900;Ford;Ecosport;Titanium 2.0;19.900;2019;PR;Maringá;Vazio
+732;66.900;Hyundai;Hb20;Hb20 1.0 12v 4p Flex Sense;9.200;2021;PR;Estradinha - Paranaguá;Vazio
+733;60.990;Ford;Ka;Se Plus 1.5 Sd C;22.000;2020;PR;Bacacheri - Curitiba;Vazio
+734;58.990;Fiat;Argo;Drive 1.0;67.082;2019;PR;Bacacheri - Curitiba;Vazio
+735;74.900;Fiat;Fiorino;Hard Working 1.4 Flex 8v 2p;59.000;2019;PR;Xaxim - Curitiba;Vazio
+736;79.999;Fiat;Fiorino;1.4 Mpi Furgão Hard Working 8v Flex 2p Manual;51.882;2019;PR;Jardim Social - Curitiba;Vazio
+737;56.900;Fiat;Strada;Hard Working 1.4 Evo Flex 2p;81.000;2018;PR;Xaxim - Curitiba;Vazio
+738;58.900;Renault;Kwid;Zen 1.0 Flex 12v 5p;15.282;2022;PR;Centro - Campo Largo;Vazio
+739;65.995;Hyundai;Hb20;Hb20 Evolution 1.0 Flex 12v Mec;2.200;2020;PR;Seminário - Curitiba;Vazio
+740;67.900;Volkswagen;Saveiro;Cross Ce 1.6 Msi Total Flex;92.000;2015;PR;Região do Lago - Cascavel;Vazio
+741;58.900;Volkswagen;Saveiro;1.6 Cs Robust 8v Flex 2p Manual;88.000;2019;PR;Xaxim - Curitiba;Vazio
+742;55.900;Nissan;Versa;Versa 1.6 16v Sv Aut;81.000;2017;PR;Boa Vista - Curitiba;Vazio
+743;67.900;Nissan;Versa;Versa Sl 1.6 16v Flex Fuel 4p Mec;45.000;2019;PR;Boa Vista - Curitiba;Vazio
+744;67.900;Volkswagen;Saveiro;1.6 Trendline Mbvs;60.000;2020;PR;Região do Lago - Cascavel;Vazio
+745;84.900;Volkswagen;Virtus;1.0 200 Tsi Comfortline Automático;79.300;2020;PR;Boa Vista - Curitiba;Vazio
+746;87.900;Volkswagen;Virtus;1.0 200 Tsi Comfortline Automático;50.172;2019;PR;Maringá;Vazio
+747;62.900;Chevrolet;Spin;1.8 Activ 8v Flex 4p Aut;75.000;2016;PR;Prudentópolis;Vazio
+748;69.900;Hyundai;Tucson;2.0 Gls Flex 4p Aut;47.800;2017;PR;Estradinha - Paranaguá;Vazio
+749;56.900;Chevrolet;Prisma;10mt Joye;114.500;2019;PR;Curitiba;Vazio
+750;69.900;Ford;Ecosport;1.6 Se 16v Aut;112.000;2017;PR;Curitiba;Vazio
+751;61.220;Hyundai;Hb20x;Hb20x 1.6 M Style;63.827;2016;PR;Curitiba;Hyundai Veiculos
+752;55.900;Fiat;Strada;1.4 Mpi Hard Working Cs 8v Flex 2p Manual;91.000;2018;PR;Região do Lago - Cascavel;Vazio
+753;56.900;Chevrolet;Prisma;1.0 Sed. Joy Ls;65.005;2019;PR;Estradinha - Paranaguá;Vazio
+754;55.900;Renault;Duster;Dynamique 1.6 16v Hi-flex Mec.;78.000;2015;PR;Xaxim - Curitiba;Vazio
+755;61.900;Hyundai;Hb20s;Hb20 Sedan Comfort Plus Flex;95.976;2017;PR;Curitiba;Vazio
+756;58.500;Hyundai;Hb20;Hb20 1.0m Unique;58.560;2019;PR;Wenceslau Braz;Vazio
+757;58.500;Hyundai;Hb20;Hb20 1.0mt Unique;45.270;2019;PR;Wenceslau Braz;Vazio
+758;71.900;Volkswagen;Fox;1.6 Mi Xtreme;34.500;2019;PR;Estradinha - Paranaguá;Vazio
+759;59.900;Chevrolet;Montana;1.4 Ls 8v Flex 2p Manual;75.000;2019;PR;Prudentópolis;Vazio
+760;84.990;Chevrolet;Spin;1.8 Activ 8v Flex 4p Aut;49.000;2019;PR;Centro - Londrina;Vazio
+761;64.900;Renault;Duster;Dynamique 2.0 16v;118.000;2016;PR;Portão - Curitiba;Vazio
+762;65.900;Hyundai;Hb20;Hb20 1.0 12v 4p Flex Sense;1.700;2021;PR;Prudentópolis;Vazio
+763;86.900;Kia;Sportage;Lx 2.0 16v 142cv 5p;69.619;2015;PR;Maringá;Vazio
+764;59.900;Volkswagen;Fox;1.6 Msi Total Flex Connect 4p Manual;34.000;2019;PR;Portão - Curitiba;Vazio
+765;62.900;Fiat;Strada;1.4 Mpi Hard Working Cs 8v Flex 2p Manual;86.000;2019;PR;Região do Lago - Cascavel;Vazio
+766;66.900;Chevrolet;Onix;1.4 Advantage Aut;27.500;2019;PR;Estradinha - Paranaguá;Vazio
+767;69.900;Fiat;Argo;Drive 1.0 6v Flex;3.900;2022;PR;Estradinha - Paranaguá;Vazio
+768;61.900;Chevrolet;Prisma;1.4 Lt;50.000;2018;PR;Estradinha - Paranaguá;Vazio
+769;58.900;Volkswagen;Saveiro;1.6 Cs Robust 8v Flex 2p Manual;60.000;2019;PR;Xaxim - Curitiba;Vazio
+770;69.900;Volkswagen;Golf;1.0 Tsi Comfortline 12v Total Flex 4p Manual;59.200;2017;PR;Santa Cândida - Curitiba;Vazio
+771;89.900;Mitsubishi;L200;L-200 Triton 2.4 Hls;92.501;2015;PR;Xaxim - Curitiba;Vazio
+772;55.900;Hyundai;Hb20;Hb20 1.0 Comfort;31.438;2017;PR;Maringá;Vazio
+773;55.900;Hyundai;Hb20s;Hb20 Sedan Comfort Plus Flex;77.000;2017;PR;Capão Raso - Curitiba;Vazio
+774;67.900;Chevrolet;Onix;Hatch Activ 1.4 8v Flex 5p Mec;69.347;2019;PR;Ponta Grossa;Vazio
+775;56.990;Ford;Ka;1.0 Ti-vct Flex Se Sedan Manual;89.251;2020;PR;Guarapuava;Vazio
+776;56.990;Ford;Ka;1.0 Ti-vct Flex Se Sedan Manual;80.568;2020;PR;Guarapuava;Vazio
+777;57.490;Ford;Ka;1.0 Ti-vct Flex Se Sedan Manual;74.307;2020;PR;Guarapuava;Vazio
+778;57.990;Volkswagen;Gol;1.6 Msi Totalflex 4p Manual;31.640;2019;PR;Guarapuava;Vazio
+779;82.800;Hyundai;Ix35;Ix35 Gls 2.0 16v 2wd Flex Aut;105.000;2016;PR;Centro - Londrina;Vazio
+780;63.500;Fiat;Strada;Hard Working 1.4 Evo Flex 2p;78.608;2019;PR;Centro - Londrina;Vazio
+781;67.500;Nissan;Versa;1.6 Sl Unique Cvt;116.667;2018;PR;Centro - Londrina;Vazio
+782;89.900;Hyundai;Creta;1.6 16v Flex Attitude Aut;63.227;2018;PR;Centro - Londrina;Vazio
+783;89.900;Fiat;Strada;Endurance Cs 1.4 Flex Manual;60.505;2021;PR;Maringá;Vazio
+784;69.900;Fiat;Strada;1.4 Mpi Hard Working Ce 8v Flex 2p Manual;78.634;2020;PR;Xaxim - Curitiba;Vazio
+785;59.990;Fiat;Argo;1.0 Firefly Flex Drive Manual;53.984;2020;PR;Guarapuava;Vazio
+786;59.990;Volkswagen;Gol;1.6 Msi Totalflex 4p Manual;70.824;2021;PR;Guarapuava;Vazio
+787;85.900;Jeep;Renegade;Longitude 1.8 Flex Automatico;95.000;2016;PR;Campina do Siqueira - Curitiba;Vazio
+788;71.900;Volkswagen;Polo;Mca;69.565;2020;PR;Centro - Campo Largo;Vazio
+789;55.000;Fiat;Strada;1.4 Hard Working Ce Flex 2p;115.000;2018;PR;Colombo;Vazio
+790;71.800;Fiat;Cronos;1.3 Drive Flex 4p;27.000;2019;PR;São Cristóvão - União da Vitória;Vazio
+791;85.900;Jeep;Renegade;Lngtd At;94.091;2016;PR;Fanny - Curitiba;Vazio
+792;64.900;Jac;T40;1.5 Jet Flex;46.544;2018;PR;Curitiba;Vazio
+793;59.900;Hyundai;Hb20s;Hb20 Comfort Style 1.6 Flex 16v Mec.;56.232;2017;PR;Curitiba;Vazio
+794;83.900;Volkswagen;Polo;Highline 200 Tsi 1.0 Flex 12v Aut;104.054;2019;PR;Rebouças - Curitiba;Vazio
+795;63.900;Renault;Kwid;Outsider 1.0;17.748;2022;PR;Centro - Campo Largo;Vazio
+796;55.900;Renault;Sandero;1.0 12v Vibe Sce 5p;10.119;2019;PR;União da Vitória;Vazio
+797;64.900;Renault;Sandero;Stepway 1.6 16v Sce 5p;7.300;2018;PR;Água Verde - Curitiba;Vazio
+798;68.500;Chevrolet;Prisma;1.4 Lt Aut. 4p;44.000;2018;PR;São Cristóvão - União da Vitória;Vazio
+799;61.900;Peugeot;Partner;Furgon 1.6 800kg Flex 5p;999;2019;PR;Novo Mundo - Curitiba;Vazio
+800;75.900;Hyundai;Hb20;Hb20 1.6 R Spec 16v Flex 4p Automatico;56.071;2019;PR;Rebouças - Curitiba;Vazio
+801;59.900;Volkswagen;Voyage;Mb5 _4p_;78.554;2019;PR;Novo Mundo - Curitiba;Vazio
+802;71.900;Volkswagen;Up!;Up 1.0 Xtreme Tsi;51.492;2020;PR;Curitiba;Vazio
+803;87.220;Chevrolet;Spin;1.8 Activ 8v Flex 4p Aut;20.747;2019;PR;Curitiba;Vazio
+804;85.900;Nissan;Kicks;1.6 16v Flex Sl 4p Xtronic;91.523;2017;PR;Curitiba;Vazio
+805;56.900;Chevrolet;Onix;1.0 Mpfi Joy 8v Flex 4p Manual;21.676;2019;PR;São Mateus do Sul;Vazio
+806;89.900;Volkswagen;Polo;Comfort 200 Tsi 1.0 Flex 12v Aut;18.446;2020;PR;Curitiba;Vazio
+807;83.900;Volkswagen;Polo;Comfort 200 Tsi 1.0 Flex 12v Aut;11.883;2019;PR;Rebouças - Curitiba;Vazio
+808;89.900;Nissan;Kicks;Kicks 1.6 Sv Automatico 16v;67.836;2018;PR;Nova Rússia - Ponta Grossa;Vazio
+809;77.900;Hyundai;Hb20;1.6 Vision Flex Aut. 5p;21.000;2020;PR;Água Verde - Curitiba;Vazio
+810;64.900;Volkswagen;Fox;1.6 Msi Total Flex Xtreme 4p Manual;76.665;2018;PR;São Mateus do Sul;Vazio
+811;63.900;Renault;Kwid;Outsider 1.0;8.528;2022;PR;Centro - Campo Largo;Vazio
+812;82.900;Audi;A1;Sportback A1 Spb 1.4tfsi;72.092;2015;PR;Fanny - Curitiba;Vazio
+813;82.900;Volkswagen;Virtus;1.6 Msi Flex 16v 5p Mec;11.485;2020;PR;Curitiba;Vazio
+814;69.900;Hyundai;Hb20;1.6 Premium Flex Aut. 5p;50.000;2017;PR;Água Verde - Curitiba;Vazio
+815;89.999;Peugeot;2008;2008 Griffe 1.6 Flex 16v Aut;42.612;2020;PR;Curitiba;Vazio
+816;74.970;Jeep;Renegade;Sport 1.8 4x2 Flex 16v Aut.;80.113;2016;PR;Curitiba;Vazio
+817;70.900;Volkswagen;Polo;1.0 Mpi Total Flex Manual;32.237;2020;PR;Rebouças - Curitiba;Vazio
+818;62.900;Fiat;Argo;1.0 Firefly Flex Drive Manual;26.568;2020;PR;Rebouças - Curitiba;Vazio
+819;63.900;Renault;Kwid;Outsider 1.0;12.036;2022;PR;Centro - Campo Largo;Vazio
+820;64.900;Hyundai;Hb20;Sense 1.0m;11.400;2021;PR;Nova Rússia - Ponta Grossa;Vazio
+821;82.900;Jeep;Renegade;Renegadde Longitude 1.8 Flex Automatico;82.519;2016;PR;Nova Rússia - Ponta Grossa;Vazio
+822;59.900;Nissan;Versa;1.6 16v Sv Aut. 4p;56.000;2018;PR;Capão da Imbuia - Curitiba;Vazio
+823;69.900;Chevrolet;Onix;1.0 Lt 5p 6 Marchas;1.500;2021;PR;Capão da Imbuia - Curitiba;Vazio
+824;85.900;Volkswagen;Polo;Comfort 200 Tsi 1.0 Flex 12v Aut;16.239;2020;PR;Rebouças - Curitiba;Vazio
+825;56.900;Renault;Kangoo;Express 1.6 16v Porta Lateral Hi-flex 5p;139.360;2017;PR;Bacacheri - Curitiba;Vazio
+826;83.900;Volkswagen;Polo;Comfort 200 Tsi 1.0 Flex 12v Aut;15.201;2020;PR;Rebouças - Curitiba;Vazio
+827;79.900;Volkswagen;Saveiro;1.6 16v Cross Cab. Dupla Total Flex 2p;59.000;2016;PR;Água Verde - Curitiba;Vazio
+828;55.900;Chevrolet;Cobalt;1.4 Mpfi Lt 8v Flex 4p Manual;84.026;2017;PR;São Mateus do Sul;Vazio
+829;67.900;Honda;Fit;Fit 1.5 Ex 16v Flex Cvt;87.000;2015;PR;Nova Rússia - Ponta Grossa;Vazio
+830;78.900;Volkswagen;Virtus;1.6 Msi Automatico;55.004;2019;PR;Rebouças - Curitiba;Vazio
+831;78.900;Hyundai;Hb20;Hb20 Evolution 1.0 Flex 12v Mec;20.239;2021;PR;Curitiba;Vazio
+832;70.900;Fiat;Argo;1.0 Firefly Flex Drive Manual;25.055;2020;PR;Curitiba;Vazio
+833;55.900;Volkswagen;Gol;1.0 Flex 12v 5p;60.909;2020;PR;Centro - Campo Largo;Vazio
+834;56.900;Ford;Ka;Se 1.0 12v Ti-vct;71.354;2020;PR;Curitiba;Vazio
+835;67.990;Fiat;Strada;1.4 Hard Working Cab. Dupla Flex 3p;105.566;2016;PR;Chopinzinho;Vazio
+836;76.500;Volkswagen;Polo;1.6 Msi Flex 16v 5p;61.139;2020;PR;Centro - Campo Largo;Vazio
+837;60.900;Renault;Kwid;Outsider 1.0 Flex 12v 5p Mec;48.918;2021;PR;Centro - Campo Largo;Vazio
+838;86.500;Chevrolet;Tracker;1.4 Lt Turbo Aut. 5p;31.000;2017;PR;Capão da Imbuia - Curitiba;Vazio
+839;57.900;Ford;Ka;Se 1.0 12v Ti-vct;38.946;2020;PR;Curitiba;Vazio
+840;82.888;Toyota;Corolla;1.8 16v Gli Upper Flex Multi-drive 4p;132.000;2016;PR;Centro - Arapongas;Vazio
+841;64.900;Nissan;March;1.6 16v Sv 5p;9.700;2020;PR;Água Verde - Curitiba;Vazio
+842;62.000;Honda;Fit;1.5 Lx Flex Aut. 5p;47.361;2017;PR;Curitiba;Vazio
+843;68.900;Volkswagen;Voyage;1.6 Msi Flex 8v 4p;35.434;2020;PR;Curitiba;Vazio
+844;85.900;Volkswagen;Polo;Comfort 200 Tsi 1.0 Flex 12v Aut;12.623;2020;PR;Rebouças - Curitiba;Vazio
+845;56.800;Fiat;Bravo;1.8 16v Sporting Flex 5p;999;2016;PR;Novo Mundo - Curitiba;Vazio
+846;57.900;Citroën;C3;Tendance Pure Tech 1.2 Manual Baixo Km;27.146;2019;PR;Nova Rússia - Ponta Grossa;Vazio
+847;59.900;Chevrolet;Montana;Ls 1.4;56.000;2019;PR;Nova Rússia - Ponta Grossa;Vazio
+848;89.900;Nissan;Kicks;Kicks 1.6 Sv 16v Flex Automatica;29.000;2018;PR;Nova Rússia - Ponta Grossa;Vazio
+849;89.900;Honda;Wr-v;Wr-v 1.5 Ex 16v Flex Autoatico Cvt;41.000;2018;PR;Nova Rússia - Ponta Grossa;Vazio
+850;84.900;Volkswagen;Virtus;1.6 Msi Automatico;79.463;2020;PR;Curitiba;Vazio
+851;74.900;Honda;Fit;Fit 1.5 Exl Flex Cvt Automatico;42.000;2016;PR;Nova Rússia - Ponta Grossa;Vazio
+852;77.900;Volkswagen;Virtus;1.6 Msi Flex 16v 5p Mec;33.978;2020;PR;Rebouças - Curitiba;Vazio
+853;78.900;Volkswagen;Virtus;1.6 Msi Flex 16v 5p Mec;21.513;2020;PR;Rebouças - Curitiba;Vazio
+854;58.500;Nissan;March;1.6 16v Sv Aut. 5p;47.000;2018;PR;Água Verde - Curitiba;Vazio
+855;61.500;Renault;Kwid;Outsider 1.0;11.057;2021;PR;Centro - Campo Largo;Vazio
+856;71.900;Nissan;Sentra;2.0 S Flex Aut. 4p;70.000;2017;PR;Jardim Shangrila - Londrina;Vazio
+857;66.900;Peugeot;2008;1.6 16v Allure Flex Aut. 5p;72.000;2018;PR;Vila Santo Antônio - Maringá;Vazio
+858;88.900;Renault;Captur;Captur 1.6 Intense 16c Flex Automática;36.000;2018;PR;Nova Rússia - Ponta Grossa;Vazio
+859;77.900;Chevrolet;Tracker;Chevrolet Tracker Lt 1.8 Flex Automatica;67.236;2016;PR;Nova Rússia - Ponta Grossa;Vazio
+860;68.900;Chevrolet;Cruze;1.8 Lt Ecotec 6 4p;76.000;2015;PR;Água Verde - Curitiba;Vazio
+861;73.900;Fiat;Doblo;Fiat Doblo Essenc 1.8 7 Lugares;120.000;2020;PR;Boqueirão - Curitiba;Vazio
+862;68.900;Nissan;Versa;Sv Cvt 2020 Com Gnv;80.000;2020;PR;Boqueirão - Curitiba;Vazio
+863;73.900;Renault;Sandero;Gt Line/rlin Flex 1.0 12v 5p;5.642;2022;PR;Centro - Campo Largo;Vazio
+864;81.900;Volkswagen;Polo;1.0 200 Tsi Comfortline Automático;48.277;2019;PR;São Mateus do Sul;Vazio
+865;83.900;Toyota;Yaris;1.3 16v Flex Xl Plus Tech Multidrive;16.565;2019;PR;São Mateus do Sul;Vazio
+866;73.900;Renault;Sandero;Stepway Sandero Gtline;4.114;2022;PR;Centro - Campo Largo;Vazio
+867;74.900;Volkswagen;Voyage;1.6l Af5;36.130;2020;PR;Centro - Campo Largo;Vazio
+868;70.900;Renault;Sandero;1.6 16v Sce Flex Zen X-tronic;15.462;2020;PR;São Mateus do Sul;Vazio
+869;79.900;Volkswagen;Saveiro;1.6 Pepper Cab. Estendida Total Flex 2p;114.000;2019;PR;Rebouças - Curitiba;Vazio
+870;59.900;Fiat;Argo;1.0 Firefly Flex Drive Manual;19.015;2020;PR;São Mateus do Sul;Vazio
+871;65.900;Volkswagen;Voyage;1.6 16v Msi Aut. 4p;29.000;2020;PR;Água Verde - Curitiba;Vazio
+872;71.900;Renault;Sandero;2.0 Rs Flex 5p;63.000;2020;PR;Água Verde - Curitiba;Vazio
+873;83.900;Citroën;C4;Lounge 1.6 Feel Thp Flex Aut. 4p;42.000;2019;PR;Jardim Carvalho - Ponta Grossa;Vazio
+874;78.900;Hyundai;Creta;Pulse 1.6 16v At6;40.915;2018;PR;Ponta Grossa;Vazio
+875;72.900;Hyundai;Elantra;Gls 2.0 16v At6;66.223;2017;PR;Ponta Grossa;Vazio
+876;55.990;Ford;Ecosport;Se 1.6 16v;57.777;2017;PR;Guarapuava;Vazio
+877;55.900;Ford;Ecosport;Se 1.6 16v P.shift;56.110;2017;PR;Ponta Grossa;Vazio
+878;59.900;Ford;Ecosport;Freestyle 1.6 16v;50.536;2017;PR;Guarapuava;Vazio
+879;81.900;Peugeot;2008;Griffe 1.6 16v At6;4.045;2020;PR;Ponta Grossa;Vazio
+880;64.900;Chery;Tiggo;2 Act 1.5 16v At;20.442;2020;PR;Ponta Grossa;Vazio
+881;61.900;Hyundai;Hb20s;Premium 1.6 16v At;64.608;2018;PR;Ponta Grossa;Vazio
+882;79.900;Renault;Duster;Dyn16 Sce;78.000;2019;PR;Fanny - Curitiba;Vazio
+883;74.900;Hyundai;Hb20;Hb20 Copa Do Mundo 1.6 Flex;36.613;2019;PR;Novo Mundo - Curitiba;Vazio
+884;71.990;Chevrolet;Onix;1.0 Lt 5p;15.140;2020;PR;Chopinzinho;Vazio
+885;64.340;Hyundai;Hb20s;Hb20s Comfort Plus 1.0;48.865;2019;PR;Curitiba;Vazio
+886;83.060;Hyundai;Hb20s;Hb20s Premium 1.6 16v Flex Aut.;25.848;2019;PR;Curitiba;Vazio
+887;77.500;Renault;Fluence;2.0 Privilège X-tronic Hi-flex 4p;71.000;2017;PR;São Cristóvão - União da Vitória;Vazio
+888;65.900;Renault;Duster;16 D 4x2;85.937;2017;PR;Fanny - Curitiba;Vazio
+889;79.800;Fiat;Cronos;1.8 E.torq Flex Precision At6;18.000;2019;PR;Tarumã - Curitiba;Vazio
+890;72.800;Ford;Focus;1.6 Se Hatch 16v Flex 4p Powershift;62.000;2018;PR;Tarumã - Curitiba;Vazio
+891;62.800;Ford;Ka;1.5 Ti-vct Flex Se Plus Sedan Manual;38.000;2020;PR;Tarumã - Curitiba;Vazio
+892;61.900;Renault;Sandero;Stepway Sandero St16 Sce;39.160;2020;PR;Novo Mundo - Curitiba;Vazio
+893;58.990;Hyundai;Hb20;Hb20 Sense;35.860;2020;PR;Fanny - Curitiba;Vazio
+894;84.900;Chevrolet;Onix;10tat Pr2;4.731;2020;PR;Fanny - Curitiba;Vazio
+895;83.990;Nissan;Sentra;2.0 Sv 16v Flexstart 4p Automático;69.997;2018;PR;Lindóia - Curitiba;Vazio
+896;68.900;Volkswagen;Saveiro;Nova Rb Mbvs;82.806;2020;PR;Centro - Campo Largo;Vazio
+897;62.999;Toyota;Etios;1.3 X 16v Flex 4p Automático;71.459;2018;PR;Jardim Social - Curitiba;Vazio
+898;84.900;Jeep;Renegade;1.8 16v Flex Longitude 4p Automático;59.479;2016;PR;Lindóia - Curitiba;Vazio
+899;63.900;Renault;Duster;1.6 16v Expression Hi-flex 5p;104.000;2016;PR;Alvorada - Francisco Beltrão;Vazio
+900;74.900;Honda;Fit;1.5 Ex 16v Flex 4p Automático;59.867;2016;PR;Lindóia - Curitiba;Vazio
+901;87.900;Nissan;Kicks;1.6 S Cvt;53.425;2018;PR;Curitiba;Vazio
+902;66.900;Chevrolet;Onix;1.4 Mpfi Activ 8v Flex 4p Manual;78.150;2018;PR;Novo Mundo - Curitiba;Vazio
+903;79.990;Honda;Civic;2.0 Lxr Flex Aut. 4p;105.420;2016;PR;Chopinzinho;Vazio
+904;84.990;Volkswagen;Virtus;1.0 Comfortline 200 Tsi Aut. 4p;41.254;2018;PR;Chopinzinho;Vazio
+905;65.900;Renault;Sandero;2.0 16v Hi-flex Rs Manual;53.000;2019;PR;Novo Mundo - Curitiba;Vazio
+906;72.800;Chevrolet;Onix;1.4 Mpfi Ltz 8v Flex 4p Automático;32.000;2019;PR;Tarumã - Curitiba;Vazio
+907;74.900;Fiat;Argo;1.8 E.torq Flex Hgt At6;41.019;2018;PR;Novo Mundo - Curitiba;Vazio
+908;81.900;Jeep;Renegade;1.8 Sport Flex Aut. 5p;62.396;2016;PR;Jardim Nossa Senhora de Fátima - Colombo;Vazio
+909;85.990;Toyota;Corolla;Sedan Dual Vvt-i Xei;121.894;2015;PR;Chopinzinho;Vazio
+910;60.900;Fiat;Fiorino;1.4 Flex 4p;129.350;2016;PR;Bacacheri - Curitiba;Vazio
+911;59.800;Hyundai;Tucson;2.0 Mpfi Gls 16v 143cv 2wd Flex 4p Automático;120.000;2015;PR;Tarumã - Curitiba;Vazio
+912;67.900;Honda;City;1.5 Ex Flex Aut. 4p;120.000;2015;PR;Novo Mundo - Curitiba;Vazio
+913;88.900;Volkswagen;Virtus;1.0 Comfortline 200 Tsi Aut. 4p;60.000;2020;PR;Jardim Real - Maringá;Vazio
+914;61.900;Fiat;Argo;1.0;77.892;2019;PR;Fanny - Curitiba;Vazio
+915;79.900;Volkswagen;Virtus;Cl Ad;73.300;2018;PR;Fanny - Curitiba;Vazio
+916;58.800;Renault;Duster;1.6 Outdoor 4x2 16v Flex 4p Manual;103.000;2015;PR;Tarumã - Curitiba;Vazio
+917;65.990;Nissan;Sentra;2.0 Sv 16v Flex 4p Automático;116.656;2016;PR;Lindóia - Curitiba;Vazio
+918;69.900;Fiat;Cronos;1.3 Firefly Flex Drive Manual;36.353;2019;PR;Portão - Curitiba;Vazio
+919;84.900;Peugeot;2008;1.6 16v Allure Flex Aut. 5p;42.000;2020;PR;Jardim Nossa Senhora de Fátima - Colombo;Vazio
+920;64.800;Ford;Ecosport;2.0 Freestyle 16v Flex 4p Powershift;97.000;2015;PR;Tarumã - Curitiba;Vazio
+921;79.800;Jeep;Renegade;1.8 16v Flex Sport 4p Automático;56.000;2016;PR;Tarumã - Curitiba;Vazio
+922;84.900;Jeep;Renegade;1.8 16v Flex Longitude 4p Automático;73.000;2016;PR;Novo Mundo - Curitiba;Vazio
+923;89.900;Honda;Hr-v;1.8 16v Flex Ex 4p Automático;96.200;2016;PR;Novo Mundo - Curitiba;Vazio
+924;79.900;Chevrolet;Cruze;1.8 Lt 16v Flex 4p Automático;51.939;2016;PR;Xaxim - Curitiba;Vazio
+925;61.900;Citroën;Berlingo;Furgão 1.6 Flex 5p;999;2019;PR;Novo Mundo - Curitiba;Vazio
+926;86.990;Toyota;Corolla;1.8 16v Gli Flex Multi-drive 4p;93.245;2017;PR;Chopinzinho;Vazio
+927;84.900;Ford;Fusion;2.0 Gtdi Titanium Aut. 4p;80.000;2015;PR;Jardim Shangrila - Londrina;Vazio
+928;81.900;Fiat;Strada;1.4 Freedom Cab. Dupla Flex 3p;93.000;2019;PR;Jardim Real - Maringá;Vazio
+929;79.900;Volkswagen;Jetta;2.0 Comfortline Flex 4p Tiptronic;82.017;2015;PR;Xaxim - Curitiba;Vazio
+930;65.900;Fiat;Strada;Hard Working Ce;120.067;2019;PR;Jardim das Américas - Curitiba;Vazio
+931;67.900;Hyundai;Tucson;2.0 Mpfi Gls 16v 143cv 2wd Flex 4p Automático;94.850;2016;PR;Xaxim - Curitiba;Vazio
+932;89.900;Chevrolet;Tracker;1.4 16v Turbo Flex Lt Automático;46.542;2017;PR;Lindóia - Curitiba;Vazio
+933;84.900;Toyota;Corolla;1.8 Gli 16v Flex 4p Automático;81.000;2015;PR;Tarumã - Curitiba;Vazio
+934;87.900;Mitsubishi;Asx;2.0 Outdoor 4wd 5p;40.000;2016;PR;Jardim Shangrila - Londrina;Vazio
+935;64.900;Fiat;Strada;Strada Hard Working;111.873;2020;PR;Jardim das Américas - Curitiba;Vazio
+936;89.800;Fiat;Cronos;1.8 E.torq Flex Precision At6;8.000;2021;PR;Tarumã - Curitiba;Vazio
+937;81.900;Fiat;Argo;1.3 Firefly Flex Trekking Manual;6.971;2021;PR;São Mateus do Sul;Vazio
+938;85.950;Toyota;Yaris;1.5 16v Flex Xs Multidrive;40.981;2019;PR;Xaxim - Curitiba;Vazio
+939;56.000;Volkswagen;Up!;Cross 1.0 Tsi 12v Flex;96.000;2019;PR;Foz do Iguaçu;Vazio
+940;74.900;Kia;Cerato;Ff Sx4 Atnb;56.170;2017;PR;Fanny - Curitiba;Vazio
+941;69.900;Renault;Duster;16 D 4x2;98.311;2016;PR;Novo Mundo - Curitiba;Vazio
+942;58.900;Chevrolet;Spin;1.8l At Lt;82.042;2016;PR;Novo Mundo - Curitiba;Vazio
+943;59.900;Chevrolet;Onix;1.0 Joy 5p;52.764;2020;PR;União da Vitória;Vazio
+944;61.900;Chevrolet;Onix;Joy Black;46.878;2020;PR;Fanny - Curitiba;Vazio
+945;67.900;Hyundai;Hb20s;Hb20s Vision;15.990;2020;PR;Fanny - Curitiba;Vazio
+946;64.990;Hyundai;Hb20;1.6 R-spec Flex Aut. 5p;77.214;2017;PR;Chopinzinho;Vazio
+947;77.900;Volkswagen;Saveiro;1.6 Robust Cab. Simples Total Flex 2p;7.000;2021;PR;Jardim Real - Maringá;Vazio
+948;68.900;Hyundai;Hb20s;1.6 Comfort Plus Flex Aut. 4p;110.704;2018;PR;Vila Larsen - Londrina;Vazio
+949;79.999;Jeep;Renegade;Renegade Longitude 1.8 4x2 Flex 16v Aut;65.309;2017;PR;Curitiba;Vazio
+950;58.990;Fiat;Argo;1.0 Flex 5p;9.900;2019;PR;Chopinzinho;Vazio
+951;85.900;Kia;Sportage;Ex2 Offg4;95.900;2015;PR;Fanny - Curitiba;Vazio
+952;56.900;Hyundai;Hb20;1.0 Comfort Flex 5p;85.000;2017;PR;Jardim Nossa Senhora de Fátima - Colombo;Vazio
+953;79.900;Jeep;Renegade;1.8 Sport Flex Aut. 5p;99.000;2016;PR;Centro - Londrina;Vazio
+954;79.900;Jeep;Renegade;1.8 Sport Flex Aut. 5p;48.000;2016;PR;Centro - Londrina;Vazio
+955;57.900;Hyundai;Tucson;2.0 Mpfi Gls 16v 143cv 2wd Flex 4p Automático;104.000;2015;PR;Campina do Siqueira - Curitiba;Vazio
+956;87.900;Honda;Wr-v;1.5 Exl Flex Aut. 5p;66.000;2018;PR;Vila Santo Antônio - Maringá;Vazio
+957;89.900;Kia;Sportage;2.0 Lx 4x4 Flex Aut. 5p;90.000;2015;PR;Jardim Shangrila - Londrina;Vazio
+958;56.990;Chevrolet;Onix;1.0 Lt 5p;92.008;2019;PR;Chopinzinho;Vazio
+959;65.900;Ford;Ecosport;1.6 Se 16v Flex 4p Manual;109.970;2017;PR;São Mateus do Sul;Vazio
+960;56.900;Volkswagen;Voyage;1.6 Msi Total Flex 4p;74.000;2019;PR;Rebouças - Curitiba;Vazio
+961;67.800;Fiat;Strada;1.4 Hard Working Flex 2p;31.819;2020;PR;Marechal Cândido Rondon;Vazio
+962;82.500;Chevrolet;Spin;1.8 Ltz 7l 5p;52.000;2019;PR;Kennedy - Londrina;Vazio
+963;59.900;Ford;Fiesta;1.6 16v Se Plus Flex Powershift 5p;62.000;2018;PR;Jardim Shangrila - Londrina;Vazio
+964;59.990;Hyundai;Hb20s;Premium 1.6 16v At;51.920;2018;PR;Guarapuava;Vazio
+965;58.900;Chevrolet;Onix;1.0 Lt 5p;60.576;2019;PR;Jardim Nossa Senhora de Fátima - Colombo;Vazio
+966;64.900;Hyundai;Hb20;1.0 Vision Flex 5p;61.967;2020;PR;Jardim Nossa Senhora de Fátima - Colombo;Vazio
+967;71.900;Honda;City;Sedan Ex 1.5 Flex 16v 4p Aut;81.600;2015;PR;Parolin - Curitiba;Vazio
+968;70.580;Chevrolet;Prisma;1.4 Lt 8v Flex Manual;24.079;2019;PR;Curitiba;Vazio
+969;78.900;Hyundai;Hb20;Hb20 Evolution 1.0 Flex 12v Mec;20.240;2021;PR;Curitiba;Vazio
+970;65.900;Fiat;Strada;Strada Ce Adventure 1.8;114.000;2016;PR;Nova Rússia - Ponta Grossa;Vazio
+971;64.990;Toyota;Etios;1.5 X Plus 16v 4p;53.474;2019;PR;Chopinzinho;Vazio
+972;63.900;Ford;Focus;2.0 Se Flex Powershift 5p;67.000;2016;PR;Centro - Londrina;Vazio
+973;61.490;Ford;Ka;Se Plus 1.5 12v Flex;65.004;2020;PR;Maringá;Vazio
+974;57.800;Chevrolet;Onix;1.4 Flex Ltz Manual Completo;51.000;2016;PR;Estrela - Ponta Grossa;Vazio
+975;60.800;Chevrolet;Onix;Chevrolet Onix 1.0 Flex Lt Manual Completo;18.000;2019;PR;Estrela - Ponta Grossa;Vazio
+976;71.900;Volkswagen;Saveiro;1.6 Robust Cab. Simples Total Flex 2p;35.412;2021;PR;Água Verde - Curitiba;Vazio
+977;56.900;Volkswagen;Up!;1.0 Tsi 5p;111.000;2016;PR;Jardim Nossa Senhora de Fátima - Colombo;Vazio
+978;64.800;Chevrolet;Onix;1.4 Flex Ltz Manual Completo;95.000;2018;PR;Estrela - Ponta Grossa;Vazio
+979;82.800;Volkswagen;Golf;1.4 Tsi Comfortline 16v Gasolina 4p Automático;74.000;2015;PR;Tarumã - Curitiba;Vazio
+980;71.800;Hyundai;Hb20x;1.6 Flex Style Manual Completo;19.000;2019;PR;Estrela - Ponta Grossa;Vazio
+981;79.900;Hyundai;Hb20s;1.6 Vision Flex Aut. 4p 6 Marchas;17.143;2021;PR;Rebouças - Curitiba;Vazio
+982;55.900;Volkswagen;Up!;Up Tsi 1.0 Turbo;97.000;2017;PR;Fanny - Curitiba;Vazio
+983;58.990;Hyundai;Tucson;2.0 Gls 4x2 Flex Aut. 5p;119.850;2015;PR;Chopinzinho;Vazio
+984;89.800;Volkswagen;Jetta;1.4 16v Tsi Comfortline Gasolina 4p Tiptronic;49.222;2017;PR;Seminário - Curitiba;Vazio
+985;69.800;Hyundai;Hb20x;1.6 Premium Flex Aut. 5p;59.103;2016;PR;Marechal Cândido Rondon;Vazio
+986;58.700;Hyundai;Hb20s;1.6 Comfort Plus Flex 4p;70.603;2015;PR;Marechal Cândido Rondon;Vazio
+987;57.900;Ford;Focus;Ford Focus 1.6;11.111;2015;PR;Santa Cândida - Curitiba;Vazio
+988;67.900;Volkswagen;Polo;1.0 Mpi Total Flex Manual;64.223;2020;PR;Parolin - Curitiba;Vazio
+989;73.900;Fiat;Strada;1.4 Hard Working Cab. Dupla Flex 3p;83.000;2020;PR;Rebouças - Curitiba;Vazio
+990;81.900;Kia;Soul;1.6 Flex Ex Automático Completo;75.600;2016;PR;Estrela - Ponta Grossa;Vazio
+991;59.900;Fiat;Strada;1.4 Mpi Hard Working Ce 8v Flex 2p Manual;150.727;2017;PR;Xaxim - Curitiba;Vazio
+992;63.900;Volkswagen;Voyage;1.6 16v Msi Aut. 4p;74.900;2020;PR;Rebouças - Curitiba;Vazio
+993;64.900;Fiat;Strada;Fiat Strada 1.4 Mpi Hard Working Cs 8v Flex 2p Manual;98.625;2020;PR;Jardim das Américas - Curitiba;Vazio
+994;57.900;Hyundai;Hb20;Comfort Plus;41.000;2018;PR;Boqueirão - Curitiba;Vazio
+995;82.900;Jeep;Renegade;1.8 Flex Longitude Automático Completo;44.300;2016;PR;Estrela - Ponta Grossa;Vazio
+996;87.900;Volkswagen;Jetta;2.0 Tsi Highline 211cv Gasolina 4p Tiptronic;84.000;2016;PR;Campina do Siqueira - Curitiba;Vazio
+997;60.290;Fiat;Argo;1.0 Firefly Flex Drive Manual;45.350;2020;PR;São Cristovão - Cascavel;Vazio
+998;56.900;Chevrolet;Prisma;1.0 Mpfi Joy 8v Flex 4p Manual;62.400;2019;PR;São Cristovão - Cascavel;Vazio
+999;69.490;Chevrolet;Onix;1.0 Flex Lt Manual;56.600;2020;PR;São Cristovão - Cascavel;Vazio
+1000;63.900;Volkswagen;Voyage;1.6 16v Msi Aut. 4p;43.000;2020;PR;Rebouças - Curitiba;Vazio
+1001;69.000;Nissan;Versa;1.6 16v Sv Aut. 4p;62.000;2020;PR;Curitiba;Vazio
+1002;69.900;Chevrolet;Onix;1.0 Lt 5p;44.840;2020;PR;Água Verde - Curitiba;Vazio
+1003;56.900;Renault;Sandero;1.6 16v Expression Sce 5p;56.900;2019;PR;Jardim Nossa Senhora de Fátima - Colombo;Vazio
+1004;56.900;Volkswagen;Voyage;1.6 Msi Total Flex 4p;47.234;2019;PR;Água Verde - Curitiba;Vazio
+1005;76.000;Chevrolet;Onix;1.0 Lt 5p;76.000;2017;PR;São Cristóvão - União da Vitória;Vazio
+1006;83.900;Ford;Ecosport;1.5 Tivct Flex Freestyle Manual;19.799;2020;PR;Curitiba;Vazio
+1007;84.900;Fiat;Fiorino;1.4 Mpi Furgão Hard Working 8v Flex 2p Manual;52.879;2021;PR;Londrina;Vazio
+1008;69.800;Citroën;Aircross;1.6 Feel 16v Flex 4p Automático;23.735;2017;PR;Seminário - Curitiba;Vazio
+1009;69.800;Volkswagen;Saveiro;1.6 Robust Cab. Simples Total Flex 2p;50.000;2020;PR;Jardim Real - Maringá;Vazio
+1010;66.900;Chevrolet;Prisma;1.4 Mpfi Ltz 8v Flex 4p Manual;49.814;2017;PR;Londrina;Vazio
+1011;56.900;Volkswagen;Fox;1.6 Connect Total Flex 5p;59.000;2018;PR;Jardim Nossa Senhora de Fátima - Colombo;Vazio
+1012;84.900;Jeep;Renegade;1.8 16v Flex Longitude 4p Automático;67.900;2016;PR;Vila Araponguinha - Arapongas;Vazio
+1013;66.900;Nissan;Versa;1.6 16v Sl Aut. 4p;52.000;2017;PR;Jardim Nossa Senhora de Fátima - Colombo;Vazio
+1014;88.900;Jeep;Renegade;1.8 Flex Aut. 5p;43.000;2019;PR;Jardim Real - Maringá;Vazio
+1015;63.500;Ford;Fiesta;1.6 16v Titanium Flex Powershift 5p;83.709;2016;PR;Marechal Cândido Rondon;Vazio
+1016;57.900;Volkswagen;Voyage;Volkswagen Voyage 1.6 Flex Msi Manual Completo;45.000;2019;PR;Estrela - Ponta Grossa;Vazio
+1017;67.900;Nissan;Versa;Nissan Versa 1.6 Sl 2018;47.000;2018;PR;Nova Rússia - Ponta Grossa;Vazio
+1018;68.000;Chevrolet;Onix;1.4 Mpfi Ltz 8v Flex 4p Manual;72.000;2019;PR;Centro - Apucarana;Vazio
+1019;55.900;Volkswagen;Saveiro;Saveiro Robust;126.411;2018;PR;Jardim das Américas - Curitiba;Vazio
+1020;84.800;Volkswagen;Saveiro;Volkswagen Saveiro 1.6 Flex Msi Robust Cab. Dupla Manual;66.100;2021;PR;Estrela - Ponta Grossa;Vazio
+1021;56.510;Hyundai;Hb20;1.0 Unique 12v Flex 4p Manual;50.289;2019;PR;Rodocentro - Londrina;Localiza Seminovos
+1022;89.900;Nissan;Kicks;Nissan Kicks Direct 1.6;13.756;2020;PR;Santa Cândida - Curitiba;Vazio
+1023;61.900;Fiat;Strada;Strada Hard Working;133.000;2019;PR;Jardim das Américas - Curitiba;Vazio
+1024;87.900;Nissan;Versa;Nissan Versa Sense 2021 / Apenas 700 Km!;700;2021;PR;Nova Rússia - Ponta Grossa;Vazio
+1025;55.990;Renault;Logan;1.0 12v Sce Flex Expression Manual;58.200;2020;PR;São Cristovão - Cascavel;Vazio
+1026;56.900;Chevrolet;Prisma;1.0 Mpfi Joy 8v Flex 4p Manual;44.700;2019;PR;São Cristovão - Cascavel;Vazio
+1027;68.000;Ford;Focus;Ford Focus Fastback Se/se Plus 2.0 Flex Aut.;72.603;2018;PR;Centro - Ponta Grossa;Vazio
+1028;64.900;Chevrolet;Cruze;1.8 Lt Ecotec 6 Aut. 4p;77.038;2015;PR;Vila Larsen - Londrina;Vazio
+1029;65.900;Ford;Focus;Sedan Focus 2.0 Se Fastback 16v Flex 4p Powershift;74.888;2016;PR;Seminário - Curitiba;Vazio
+1030;58.900;Volkswagen;Fox;1.6 Connect Total Flex 5p;59.000;2018;PR;Jardim Nossa Senhora de Fátima - Colombo;Vazio
+1031;78.900;Volkswagen;Polo;1.0 Tsi Comfortline 200 Aut. 5p;59.000;2018;PR;Centro - Londrina;Vazio
+1032;62.900;Hyundai;Hb20;Hb20 1.0mt Comfort Plus;47.347;2019;PR;Seminário - Curitiba;Vazio
+1033;66.900;Nissan;Versa;1.0;2.972;2021;PR;Seminário - Curitiba;Vazio
+1034;84.900;Toyota;Yaris;1.5 16v Flex Sedan Xl Plus Aut;27.992;2019;PR;Seminário - Curitiba;Vazio
+1035;63.900;Chevrolet;Cobalt;Elite 1.8 8v Econo. Flex 4p Aut;59.893;2017;PR;Seminário - Curitiba;Vazio
+1036;61.900;Ford;Fiesta;Sedan Fiesta 1.6 Se Hatch 16v Flex 4p Manual;44.911;2019;PR;Seminário - Curitiba;Vazio
+1037;69.900;Chery;Arrizo;5 1.5 Rx Turbo Flex 4p;19.000;2020;PR;Vila Larsen - Londrina;Vazio
+1038;84.900;Jeep;Renegade;Longitude 1.8 Flex;59.840;2016;PR;Toledo;Vazio
+1039;84.700;Honda;Civic;Lxr;56.910;2016;PR;Água Verde - Curitiba;Vazio
+1040;66.900;Fiat;Strada;1.4 Mpi Working Cs 8v Flex 2p Manual;58.329;2019;PR;Londrina;Vazio
+1041;89.900;Toyota;Yaris;1.3 Xl Plus Aut;31.431;2020;PR;Seminário - Curitiba;Vazio
+1042;62.800;Fiat;Strada;1.4 Mpi Hard Working Cs 8v Flex 2p Manual;75.000;2019;PR;Tarumã - Curitiba;Vazio
+1043;83.900;Fiat;Fiorino;1.4 Mpi Furgão Hard Working 8v Flex 2p Manual;55.557;2020;PR;Londrina;Vazio
+1044;63.800;Chevrolet;Onix;1.0 Mpfi Joy 8v Flex 4p Manual;40.737;2020;PR;Parque São Paulo - Cascavel;Vazio
+1045;72.590;Hyundai;Hb20s;1.6 Comfort Plus 16v Flex 4p Automático;57.343;2019;PR;Oficinas - Ponta Grossa;Vazio
+1046;69.900;Nissan;Versa;Versa Unique 1.6 2018 / Apenas 61.000 Km!;61.000;2018;PR;Nova Rússia - Ponta Grossa;Vazio
+1047;64.900;Hyundai;Hb20;Hb20 1.0 12v 4p Flex Sense;26.600;2020;PR;Parolin - Curitiba;Vazio
+1048;59.800;Fiat;Strada;1.4 Mpi Hard Working Cs 8v Flex 2p Manual;97.000;2018;PR;Tarumã - Curitiba;Vazio
+1049;70.690;Toyota;Etios;1.5 X Plus Sedan 16v Flex 4p Automático;56.600;2020;PR;Oficinas - Ponta Grossa;Vazio
+1050;79.900;Hyundai;Hb20;1.6 Premium 16v Flex 4p Automático;58.307;2018;PR;Londrina;Vazio
+1051;70.900;Hyundai;Hb20;1.6 Premium 16v Flex 4p Automático;84.612;2017;PR;Londrina;Vazio
+1052;62.900;Hyundai;Hb20;1.0 Unique 12v Flex 4p Manual;65.336;2019;PR;Londrina;Vazio
+1053;84.000;Volkswagen;Saveiro;1.6 16v Cross Cab. Estendida Total Flex 2p-;115.079;2017;PR;Marechal Cândido Rondon;Vazio
+1054;65.900;Volkswagen;Saveiro;1.6 Robust Cab. Simples Total Flex 2p;16.500;2021;PR;Rebouças - Curitiba;Vazio
+1055;89.900;Audi;A3;Sedan 1.4 Tfsi Attraction S-tronic 4p;93.000;2015;PR;Curitiba;Vazio
+1056;55.990;Renault;Sandero;1.6 16v Sce Flex Expression Manual;61.188;2019;PR;Londrina;Vazio
+1057;68.500;Hyundai;Hb20;1.6 Comfort Plus 16v Flex 4p Manual;45.390;2019;PR;São Mateus do Sul;Vazio
+1058;64.800;Toyota;Etios;1.3 X 16v Flex 4p Automático;147.075;2020;PR;Parque São Paulo - Cascavel;Vazio
+1059;82.900;Chevrolet;Spin;1.8 Ltz 8v Flex 4p Manual;93.507;2019;PR;Londrina;Vazio
+1060;64.570;Renault;Sandero;1.6 16v Sce Flex Stepway Zen Manual;50.015;2020;PR;Rodocentro - Londrina;Localiza Seminovos
+1061;82.900;Ford;Ecosport;1.5 Ti-vct Flex Se Automático;50.272;2020;PR;Rodocentro - Londrina;Localiza Seminovos
+1062;79.990;Chevrolet;Spin;1.8 Lt 8v Flex 4p Automático;120.208;2020;PR;Londrina;Vazio
+1063;71.890;Hyundai;Hb20s;1.6 Comfort Plus 16v Flex 4p Automático;50.203;2019;PR;São Cristovão - Cascavel;Vazio
+1064;55.900;Fiat;Argo;Drive 1.0 6v Flex;73.000;2020;PR;Maringá;Vazio
+1065;57.990;Hyundai;Hb20;1.0 Unique 12v Flex 4p Manual;51.115;2019;PR;Londrina;Vazio
+1066;66.990;Hyundai;Hb20;1.6 Comfort Plus 16v Flex 4p Manual;52.285;2019;PR;Londrina;Vazio
+1067;61.900;Fiat;Argo;1.0 Firefly Flex Drive Manual;55.276;2020;PR;Londrina;Vazio
+1068;57.900;Volkswagen;Gol;1.0 12v Mpi Totalflex 4p Manual;67.228;2021;PR;Londrina;Vazio
+1069;60.000;Peugeot;2008;1.6 16v Allure Business Flex Aut. 5p;20.000;2017;PR;Parque Presidente II - Foz do Iguaçu;Vazio
+1070;71.900;Effa;V21;Pick-up V21 Pick Up Cs 1.3 16v 2p;3.513;2021;PR;Novo Mundo - Curitiba;Vazio
+1071;55.000;Fiat;Strada;1.4 Mpi Working Cs 8v Flex 2p Manual;110.900;2016;PR;Jardim Carolina - Maringá;Vazio
+1072;62.900;Volkswagen;Saveiro;1.6 Robust Cab. Simples Total Flex 2p;79.000;2019;PR;Curitiba;Vazio
+1073;69.900;Fiat;Strada;1.4 Mpi Working Cs 8v Flex 2p Manual;54.647;2020;PR;Londrina;Vazio
+1074;84.900;Hyundai;Creta;1.6 Attitude Flex Aut. (pcd) 5p;84.900;2019;PR;Vila Larsen - Londrina;Vazio
+1075;68.900;Peugeot;2008;1.6 16v Flex Allure 4p Manual;49.000;2019;PR;Jardim Real - Maringá;Vazio
+1076;74.900;Ford;Ecosport;1.6 Se 16v Flex 4p Powershift;22.000;2017;PR;Jardim Alvorada - Maringá;Vazio
+1077;73.900;Nissan;Versa;1.6 16v Flexstart Sl 4p Xtronic;42.000;2019;PR;Jardim Real - Maringá;Vazio
+1078;58.900;Fiat;Strada;1.4 Mpi Hard Working Cs 8v Flex 2p Manual;104.000;2018;PR;Jardim Real - Maringá;Vazio
+1079;86.000;Fiat;Strada;1.4 Fire Flex Endurance Cs Manual;19.500;2021;PR;Centro - Apucarana;Vazio
+1080;61.000;Fiat;Strada;Fiat Strada Working 1.4 Mpi Fire 8v;14.000;2019;PR;Centro - Ponta Grossa;Vazio
+1081;70.650;Toyota;Etios;1.5 X Plus 16v Flex 4p Automático;57.352;2020;PR;Rodocentro - Londrina;Localiza Seminovos
+1082;59.990;Hyundai;Hb20s;1.6 Comfort Plus 16v Flex 4p Manual;44.207;2017;PR;Rodocentro - Londrina;Localiza Seminovos
+1083;59.490;Renault;Duster;2.0 Dynamique 4x2 16v Flex 4p Manual;76.055;2016;PR;Rodocentro - Londrina;Localiza Seminovos
+1084;73.900;Volkswagen;Saveiro;1.6 Msi Robust Cd 8v Flex 2p Manual;107.171;2019;PR;Londrina;Vazio
+1085;74.990;Renault;Duster;2.0 16v Hi-flex Dynamique Automático;78.000;2018;PR;São Cristovão - Cascavel;Vazio
+1086;65.900;Fiat;Strada;1.4 Mpi Hard Working Cs 8v Flex 2p Manual;69.000;2020;PR;São Cristovão - Cascavel;Vazio
+1087;83.890;Fiat;Doblo;1.8 Mpi Essence 7l 16v Flex 4p Manual;75.000;2020;PR;São Cristovão - Cascavel;Vazio
+1088;59.900;Chevrolet;Onix;1.0 Mpfi Lt 8v Flex 4p Manual;51.283;2019;PR;Jardim das Américas - Curitiba;Localiza Seminovos
+1089;73.900;Renault;Duster;2.0 16v Hi-flex Dynamique Automático;78.896;2018;PR;Jardim das Américas - Curitiba;Localiza Seminovos
+1090;67.750;Chevrolet;Prisma;1.4 Mpfi Lt 8v Flex 4p Manual;52.446;2019;PR;Rodocentro - Londrina;Localiza Seminovos
+1091;84.930;Renault;Duster;1.6 16v Sce Flex Dynamique X-tronic;50.499;2020;PR;Rodocentro - Londrina;Localiza Seminovos
+1092;59.180;Ford;Ka;1.5 Ti-vct Flex Se Sedan Manual;54.634;2020;PR;Rodocentro - Londrina;Localiza Seminovos
+1093;57.050;Chevrolet;Onix;1.0 Mpfi Joy 8v Flex 4p Manual;69.350;2020;PR;Rodocentro - Londrina;Localiza Seminovos
+1094;65.900;Ford;Focus;2.0 Se Flex Powershift 5p;73.000;2016;PR;Curitiba;Vazio
+1095;84.490;Renault;Duster;1.6 16v Sce Flex Dynamique X-tronic;50.209;2020;PR;Jardim das Américas - Curitiba;Localiza Seminovos
+1096;56.900;Chevrolet;Prisma;1.0 Mpfi Joy 8v Flex 4p Manual;53.000;2019;PR;São Cristovão - Cascavel;Vazio
+1097;69.800;Volkswagen;Saveiro;1.6 Robust Cab. Dupla Total Flex 2p;100.000;2018;PR;Tarumã - Curitiba;Vazio
+1098;60.080;Chevrolet;Onix;1.0 Mpfi Lt 8v Flex 4p Manual;46.488;2019;PR;Rodocentro - Londrina;Localiza Seminovos
+1099;60.900;Volkswagen;Gol;1.6 Msi Totalflex 4p Manual;50.781;2021;PR;Rodocentro - Londrina;Localiza Seminovos
+1100;65.260;Renault;Sandero;1.6 16v Sce Flex Stepway Zen Manual;60.089;2020;PR;Rodocentro - Londrina;Localiza Seminovos
+1101;59.490;Renault;Logan;1.0 12v Sce Flex Zen Manual;64.000;2021;PR;São Cristovão - Cascavel;Vazio
+1102;67.690;Chevrolet;Prisma;1.4 Mpfi Lt 8v Flex 4p Manual;54.000;2019;PR;São Cristovão - Cascavel;Vazio
+1103;88.690;Renault;Captur;2.0 16v Hi-flex Intense Automático;50.000;2020;PR;São Cristovão - Cascavel;Vazio
+1104;63.900;Honda;Fit;1.5 Dx 16v Flex 4p Automático;123.526;2015;PR;Londrina;Vazio
+1105;88.990;Chevrolet;Spin;1.8 Activ7 8v Flex 4p Automático;50.000;2020;PR;São Cristovão - Cascavel;Vazio
+1106;77.900;Renault;Sandero;Sandero Rs 2.0 / Financio Aceito Troca!;32.000;2020;PR;Nova Rússia - Ponta Grossa;Vazio
+1107;59.990;Chevrolet;Onix;1.0 Mpfi Lt 8v Flex 4p Manual;62.000;2019;PR;São Cristovão - Cascavel;Vazio
+1108;89.990;Chevrolet;Spin;1.8 Activ7 8v Flex 4p Automático;51.152;2020;PR;Jardim das Américas - Curitiba;Localiza Seminovos
+1109;80.480;Citroën;C4;Cactus 1.6 Vti 120 Flex Feel Eat6;51.000;2020;PR;São Cristovão - Cascavel;Vazio
+1110;77.990;Fiat;Fiorino;1.4 Mpi Furgão Hard Working 8v Flex 2p Manual;50.000;2020;PR;São Cristovão - Cascavel;Vazio
+1111;76.990;Chevrolet;Cobalt;1.8 Mpfi Ltz 8v Flex 4p Automático;50.000;2020;PR;São Cristovão - Cascavel;Vazio
+1112;65.790;Renault;Sandero;1.6 16v Sce Flex Stepway Zen Manual;55.000;2020;PR;São Cristovão - Cascavel;Vazio
+1113;67.690;Chevrolet;Prisma;1.4 Mpfi Lt 8v Flex 4p Manual;54.000;2019;PR;São Cristovão - Cascavel;Vazio
+1114;60.290;Fiat;Argo;1.0 Firefly Flex Drive Manual;50.000;2020;PR;São Cristovão - Cascavel;Vazio
+1115;56.000;Ford;Focus;1.6 S 16v Flex 4p Manual;94.806;2015;PR;Cianorte;Vazio
+1116;57.900;Fiat;Argo;1.0 Firefly Flex Drive Manual;69.000;2020;PR;São Cristovão - Cascavel;Vazio
+1117;59.490;Volkswagen;Voyage;1.6 Msi Totalflex 4p Manual;48.600;2020;PR;São Cristovão - Cascavel;Vazio
+1118;60.290;Fiat;Argo;1.0 Firefly Flex Drive Manual;60.090;2020;PR;São Cristovão - Cascavel;Vazio
+1119;58.290;Ford;Ka;1.5 Ti-vct Flex Se Manual;50.227;2020;PR;São Cristovão - Cascavel;Vazio
+1120;59.290;Ford;Ka;1.5 Ti-vct Flex Se Manual;51.052;2020;PR;Jardim das Américas - Curitiba;Localiza Seminovos
+1121;55.900;Volkswagen;Gol;1.6 Msi Totalflex 4p Manual;50.030;2020;PR;Jardim das Américas - Curitiba;Localiza Seminovos
+1122;55.900;Fiat;Strada;1.4 Hard Working Flex 2p;7.579;2020;PR;Rebouças - Curitiba;Vazio
+1123;84.900;Renault;Duster;1.6 16v Expression Sce 5p;41.000;2020;PR;Jardim Nossa Senhora de Fátima - Colombo;Vazio
+1124;82.900;Jeep;Renegade;Longitude 1.8 Flex Automatico;31.791;2016;PR;Centro - Londrina;Vazio
+1125;68.500;Chevrolet;Spin;1.8 Activ 8v Flex 4p Aut;90.379;2018;PR;Centro - Londrina;Vazio
+1126;75.000;Volkswagen;Saveiro;1.6 Robust Cab. Dupla Total Flex 2p;98.000;2021;PR;Bairro Alto - Curitiba;Vazio
+1127;73.800;Fiat;Strada;1.8 16v Adventure Cab. Dupla Flex 3p;113.512;2016;PR;Marechal Cândido Rondon;Vazio
+1128;75.800;Honda;Fit;1.5 Lx Flex Aut. 5p;64.000;2017;PR;Tarumã - Curitiba;Vazio
+1129;82.500;Hyundai;Elantra;2.0 16v Flex Aut. 4p;79.000;2017;PR;Tarumã - Curitiba;Vazio
+1130;61.900;Chevrolet;Montana;Montana Ls 1.4 2019 / Financio E Aceito Troca!;47.000;2019;PR;Nova Rússia - Ponta Grossa;Vazio
+1131;83.900;Volkswagen;Saveiro;Saveiro Cross 2017 Em Ótimo Estado / Financio Aceito Troca!;78.000;2017;PR;Nova Rússia - Ponta Grossa;Vazio
+1132;76.990;Volkswagen;Polo;1.0 Comfortline;31.030;2018;PR;Alvorada do Sul;Vazio
+1133;72.900;Ford;Focus;Se At 2.0hc;32.665;2018;PR;Siqueira Campos;Vazio
+1134;89.900;Toyota;Corolla;Xei 2.0l Ffv Cvt;99.897;2016;PR;Vila Esperança - Maringá;Vazio
+1135;87.900;Citroën;C4;Cactus Feel 1.6 Aut;8.400;2020;PR;Hauer - Curitiba;Vazio
+1136;83.900;Renault;Captur;1.6 16v Sce Flex Zen Manual;54.981;2018;PR;Curitiba;Vazio
+1137;63.900;Honda;Fit;Lx Cvt;121.433;2015;PR;Rebouças - Curitiba;Vazio
+1138;69.900;Renault;Fluence;Fluence 2.0 Dynamique Plus 16v Flex 4p Automático;61.717;2018;PR;Curitiba;Vazio
+1139;62.900;Volkswagen;Voyage;Mb5 _4p_;18.000;2020;PR;Portão - Curitiba;Vazio
+1140;78.900;Hyundai;I30;1.8;92.199;2015;PR;Boa Vista - Curitiba;Vazio
+1141;76.900;Volkswagen;Polo;Af;57.947;2020;PR;Seminário - Curitiba;Vazio
+1142;83.100;Hyundai;Hb20x;Hb20x Vision 1.6 Mt;14.503;2021;PR;Curitiba;Vazio
+1143;59.900;Hyundai;Hb20s;Hb20s 1.0 Unique;85.799;2019;PR;Curitiba;Vazio
+1144;76.800;Fiat;Argo;Trekking 1.3;10.900;2020;PR;Centro - Toledo;Vazio
+1145;79.900;Citroën;C4;Cactus Feel 1.6 Mec;43.000;2019;PR;Centro - São José dos Pinhais;Vazio
+1146;66.900;Ford;Focus;Sedan Focus Se 1.6 Hc;111.601;2017;PR;Xaxim - Curitiba;Vazio
+1147;85.900;Ford;Ecosport;Titnat 2.0;43.213;2019;PR;Xaxim - Curitiba;Vazio
+1148;82.900;Toyota;Yaris;Sd Xls15 At;84.000;2019;PR;Xaxim - Curitiba;Vazio
+1149;62.900;Fiat;Argo;Drive 1.3 Gsr 8v Flex;54.000;2018;PR;Cajurú - Curitiba;Vazio
+1150;62.900;Renault;Sandero;Stepway Sandero 1.6 16v Sce Flex Stepway 4p Manual;43.000;2020;PR;Ponta Grossa;Vazio
+1151;84.900;Volkswagen;Polo;Comfort 200 Tsi 1.0 Flex 12v Aut;23.583;2019;PR;Jardim das Américas - Curitiba;Vazio
+1152;63.900;Peugeot;3008;Griffe 1.6 Turbo;95.292;2015;PR;Parolin - Curitiba;Vazio
+1153;65.900;Fiat;Strada;Adventure Cd;136.600;2016;PR;Sítio Cercado - Curitiba;Vazio
+1154;84.900;Honda;Civic;Lxr;102.000;2016;PR;Maringá;Vazio
+1155;86.800;Jeep;Renegade;1.8 16v Flex Sport 4p Manual;18.123;2018;PR;Portão - Curitiba;Vazio
+1156;62.900;Fiat;Argo;Precision 1.8 Flex Manual;51.189;2018;PR;Santa Felicidade - Curitiba;Vazio
+1157;57.900;Peugeot;308;Griffe Thp 1.6;68.412;2015;PR;Santa Felicidade - Curitiba;Vazio
+1158;67.900;Hyundai;Hb20;Hb20 1.6 Confort Plus Aut;21.760;2019;PR;Curitiba;Vazio
+1159;77.800;Fiat;Argo;Trekking 1.3;25.400;2020;PR;Jardim Carvalho - Ponta Grossa;Vazio
+1160;85.900;Nissan;Kicks;Kicks 1.6 16v Flex Sv 4p Xtronic;99.000;2018;PR;Curitiba;Vazio
+1161;78.900;Renault;Duster;Oroch Oroch 16 4x2;62.637;2018;PR;Capão da Imbuia - Curitiba;Vazio
+1162;82.900;Peugeot;2008;Allure Pack 1.6 Flex 16v Aut;25.000;2020;PR;Hauer - Curitiba;Vazio
+1163;64.900;Ford;Focus;Titanium 2.0 16v;75.000;2015;PR;Hauer - Curitiba;Vazio
+1164;86.990;Fiat;Strada;Adv. Locker Cd 1.8 8 V;51.000;2019;PR;Hauer - Curitiba;Vazio
+1165;58.990;Jac;T5;1.5 16v Jetflex 4p Manual;83.660;2017;PR;Hauer - Curitiba;Vazio
+1166;72.900;Hyundai;Hb20x;Hb20 X 1.6 16v Style Automatico;54.000;2017;PR;Capão Raso - Curitiba;Vazio
+1167;75.900;Chevrolet;Onix;Hatch Lt 1.0 12v Tb Flex;55.017;2020;PR;Prado Velho - Curitiba;Vazio
+1168;84.900;Nissan;Sentra;2.0 Sv Cvt;65.515;2019;PR;Parolin - Curitiba;Vazio
+1169;62.900;Ford;Ecosport;Titanium Plus Powershift 2.0 16v Flex Aut/seq.;83.500;2015;PR;Capão Raso - Curitiba;Vazio
+1170;62.900;Volkswagen;Saveiro;Cd Hl Mb;108.507;2015;PR;Centro - Campo Largo;Vazio
+1171;55.000;Renault;Kwid;Outsider _4p_;24.300;2020;PR;Centro - Campo Largo;Vazio
+1172;56.000;Renault;Kangoo;Express Kgoo Express16;57.000;2017;PR;Centro - Campo Largo;Vazio
+1173;75.900;Volkswagen;Virtus;Mf;39.684;2020;PR;Centro - Campo Largo;Vazio
+1174;55.900;Renault;Kwid;1.0 12v Sce Zen Manual;2.414;2022;PR;Curitiba;Vazio
+1175;71.900;Renault;Sandero;16gtline;12.361;2022;PR;Capão da Imbuia - Curitiba;Vazio
+1176;89.890;Hyundai;Elantra;Gls 2.0 16v Flex Aut.;48.650;2017;PR;Rebouças - Curitiba;Vazio
+1177;84.990;Volkswagen;Saveiro;Cross 1.6 T.flex 16v Cd;74.650;2017;PR;Rebouças - Curitiba;Vazio
+1178;89.990;Kia;Sportage;4x2-at Lx 2.0 16v 4p;68.650;2015;PR;Rebouças - Curitiba;Vazio
+1179;56.990;Chevrolet;Onix;1.4 Mt Ltz;89.650;2017;PR;Rebouças - Curitiba;Vazio
+1180;69.990;Honda;Fit;Lx 1.5 Flexone Aut;29.650;2017;PR;Rebouças - Curitiba;Vazio
+1181;89.990;Volvo;Xc60;Xc 60 Comfort Fwd 2.0 T5 Turbo Aut.;113.650;2015;PR;Rebouças - Curitiba;Vazio
+1182;69.900;Mitsubishi;Lancer;Gt 2.0 Aut;65.228;2016;PR;Orleans - Curitiba;Vazio
+1183;61.900;Fiat;Fiorino;1.4 Mpi Furgão 8v Flex 2p Manual;122.767;2016;PR;Orleans - Curitiba;Vazio
+1184;89.900;Chevrolet;S-10;2.5 Lt 4x2 Cd 16v Flex 4p Manual;309.242;2015;PR;Orleans - Curitiba;Vazio
+1185;79.900;Renault;Duster;Oroch Oroch Dyn 16 Sce;48.036;2018;PR;Orleans - Curitiba;Vazio
+1186;64.900;Volkswagen;Saveiro;1.6 Cs Robust 8v Flex 2p Manual;80.869;2020;PR;Orleans - Curitiba;Vazio
+1187;75.900;Renault;Captur;1.6 16v Sce Flex Zen Manual;84.149;2018;PR;Orleans - Curitiba;Vazio
+1188;73.900;Chevrolet;Onix;Sedan Plus Lt 1.0 12v Manual;47.495;2020;PR;Orleans - Curitiba;Vazio
+1189;69.900;Peugeot;2008;Style 1.6 Flex 16v 5p Aut;28.615;2019;PR;Orleans - Curitiba;Vazio
+1190;59.900;Chevrolet;Onix;1.4 Mpfi Ltz 8v Flex 4p Mec;53.970;2018;PR;Orleans - Curitiba;Vazio
+1191;58.990;Volkswagen;Up!;Move 1.0 Tsi Total Flex 12v 5p;99.650;2018;PR;Rebouças - Curitiba;Vazio
+1192;59.900;Renault;Sandero;Sport Rs 2.0 Flex 16v 5p;59.787;2017;PR;Rebouças - Curitiba;Vazio
+1193;72.900;Fiat;Argo;1.8 E. Torq Flex Precision At6;23.000;2018;PR;Xaxim - Curitiba;Vazio
+1194;82.900;Volkswagen;Golf;Comfortline Ac;74.519;2015;PR;Boa Vista - Curitiba;Vazio
+1195;73.900;Chevrolet;Prisma;1.4 Mpfi Advantage 8v Flex 4p Aut;36.872;2019;PR;Boa Vista - Curitiba;Vazio
+1196;89.900;Toyota;Yaris;1.5 16v Flex Xl Plus Connect Multidrive;8.483;2022;PR;Cidade Jardim - São José dos Pinhais;Vazio
+1197;84.900;Ford;Fusion;Fusion;60.000;2016;PR;Centro - São José dos Pinhais;Vazio
+1198;89.900;Chevrolet;Cruze;1.4 Turbo Lt 16v Flex 4p Aut;60.227;2017;PR;São José dos Pinhais;Vazio
+1199;63.900;Fiat;Doblo;Cargo 1.4;74.326;2016;PR;Capão da Imbuia - Curitiba;Vazio
+1200;74.900;Chevrolet;Onix;1.4at Act;47.000;2017;PR;Conradinho - Guarapuava;Vazio
+1201;76.900;Volkswagen;Golf;Comfortline Mc;35.669;2015;PR;Seminário - Curitiba;Vazio
+1202;84.900;Toyota;Yaris;Hb Xl Plus At;12.352;2020;PR;Seminário - Curitiba;Vazio
+1203;63.900;Fiat;Argo;Drive 1.0 _4p_;29.900;2020;PR;Portão - Curitiba;Vazio
+1204;74.900;Nissan;Versa;1.6 Sl Cvt 16v 4p Automatico;24.000;2019;PR;Centro - Londrina;Vazio
+1205;81.900;Volkswagen;Golf;Golf;118.000;2015;PR;Centro - Londrina;Vazio
+1206;55.850;Fiat;Argo;1.0 Firefly Flex Drive Manual;64.649;2020;PR;São José dos Pinhais;Vazio
+1207;69.900;Chevrolet;Cruze;1.8 Lt 16v Flex 4p Automático;112.779;2015;PR;São José dos Pinhais;Vazio
+1208;75.900;Jeep;Renegade;Sport 1.8 Flex Aut;100.100;2016;PR;São José dos Pinhais;Vazio
+1209;56.900;Ford;Focus;Sedan Focus 1.6 Flex Ha;86.605;2015;PR;São José dos Pinhais;Vazio
+1210;68.900;Hyundai;I30;I30 1.8 Mpi 16v Gasolina 4p Automatico;97.729;2015;PR;São José dos Pinhais;Vazio
+1211;70.900;Volkswagen;Saveiro;Robust 1.6 Total Flex Cd;92.565;2019;PR;São José dos Pinhais;Vazio
+1212;55.900;Hyundai;Hb20s;Hb20s Comfort Plus 1.6 16v Flex Mec.;84.000;2015;PR;Ponta Grossa;Vazio
+1213;89.900;Volkswagen;Saveiro;Cross Ce 1.6 16v Total Flex Mec.;97.500;2017;PR;Capão Raso - Curitiba;Vazio
+1214;56.990;Renault;Sandero;Life 1.0 Manual;21.000;2021;PR;Capão Raso - Curitiba;Vazio
+1215;89.990;Toyota;Yaris;X-way 1.5 Flex 16v 5p Aut.;71.500;2019;PR;Capão Raso - Curitiba;Vazio
+1216;69.900;Hyundai;Hb20s;Hb20s Confort 1.6 Flex 16v Aut.;103.570;2018;PR;Capão Raso - Curitiba;Vazio
+1217;73.900;Fiat;Argo;Hgt 1.8 At6;60.876;2018;PR;Seminário - Curitiba;Vazio
+1218;79.900;Hyundai;Hb20;Hb20 1.6 R Spec 16v Flex 4p Automatico;37.965;2019;PR;Seminário - Curitiba;Vazio
+1219;79.900;Renault;Sandero;Rlin10mt;11.000;2022;PR;Centro - São José dos Pinhais;Vazio
+1220;79.800;Hyundai;Ix35;Ix35 Automático Flex;89.279;2016;PR;Boa Vista - Curitiba;Vazio
+1221;61.900;Volkswagen;Up!;Up High Tsi Mb;53.714;2017;PR;Rebouças - Curitiba;Vazio
+1222;82.900;Honda;Fit;Ex Cvt;49.756;2017;PR;Rebouças - Curitiba;Vazio
+1223;83.900;Renault;Captur;Life 16a;83.000;2018;PR;Xaxim - Curitiba;Vazio
+1224;63.900;Fiat;Grand;Siena Siena 1.0;7.900;2021;PR;Xaxim - Curitiba;Vazio
+1225;56.900;Renault;Kangoo;Express 1.6;89.500;2015;PR;Centro - São José dos Pinhais;Vazio
+1226;65.900;Peugeot;2008;Allure 1.6 Automatico;20.000;2017;PR;Xaxim - Curitiba;Vazio
+1227;84.100;Hyundai;Hb20x;Hb20x 1.6 A Premium;44.319;2019;PR;Curitiba;Vazio
+1228;75.780;Hyundai;Hb20s;Hb20s Evolution 1.0 Mt;3.428;2021;PR;Curitiba;Vazio
+1229;89.900;Mercedes-benz;Classe;B B200 1.6 Sport Turbo Gasolina 4p Aut;66.390;2015;PR;Seminário - Curitiba;Vazio
+1230;82.900;Hyundai;Hb20s;Hb20s 1.6a Prem;19.000;2019;PR;Arapoti;Vazio
+1231;59.900;Hyundai;Hb20s;Hb20s 1.6a Comf;110.438;2016;PR;Seminário - Curitiba;Vazio
+1232;59.900;Peugeot;208;Allure 1.6 Flex 16v Automatico;34.558;2017;PR;Jardim das Américas - Curitiba;Vazio
+1233;73.900;Chevrolet;Prisma;1.4 Lt;59.978;2019;PR;Fazendinha - Curitiba;Vazio
+1234;89.900;Honda;City;1.5 Lx 16v Flex 4p Aut;30.232;2019;PR;Fazendinha - Curitiba;Vazio
+1235;64.900;Chevrolet;Montana;1.4 Ls 8v Flex 2p Manual;56.477;2019;PR;Fazendinha - Curitiba;Vazio
+1236;78.900;Fiat;Argo;Hgt Automatico;73.756;2018;PR;Fazendinha - Curitiba;Vazio
+1237;68.900;Hyundai;Tucson;2.0 16v Aut;117.547;2017;PR;Fazendinha - Curitiba;Vazio
+1238;69.900;Renault;Sandero;Rs Racing Spirit Flex 2.0 16v 5p;58.751;2018;PR;Fazendinha - Curitiba;Vazio
+1239;75.800;Chevrolet;Tracker;Chev Ltz At;115.000;2015;PR;Jardim Carvalho - Ponta Grossa;Vazio
+1240;77.900;Hyundai;Tucson;Glsb;39.735;2018;PR;Jardim Carvalho - Ponta Grossa;Vazio
+1241;55.500;Chevrolet;Onix;Lt 1.0 Mecanico _4p_;110.120;2019;PR;Jardim Carvalho - Ponta Grossa;Vazio
+1242;72.900;Hyundai;Hb20x;Hb20x 1.6a Style;95.979;2018;PR;Jardim Carvalho - Ponta Grossa;Vazio
+1243;67.900;Volkswagen;Polo;1.6 Msi Flex 16v 5p;54.300;2018;PR;Capão Raso - Curitiba;Vazio
+1244;84.900;Jeep;Renegade;Lngtd At;61.509;2016;PR;Campo Largo;Vazio
+1245;76.900;Renault;Duster;Oroch 1. 6 Express Manual;87.000;2019;PR;Ponta Grossa;Vazio
+1246;83.900;Jeep;Renegade;1.8 16v Flex Sport 4p Automático;37.000;2016;PR;Ponta Grossa;Vazio
+1247;71.900;Fiat;Strada;Adventure Cd;70.000;2015;PR;Ponta Grossa;Vazio
+1248;70.900;Chevrolet;Onix;1.0 Mt Lt;54.783;2020;PR;Santa Felicidade - Curitiba;Vazio
+1249;58.900;Fiat;Argo;Drive 1.0 6v Flex;55.689;2020;PR;Santa Felicidade - Curitiba;Vazio
+1250;79.900;Volkswagen;Golf;Golf;99.000;2015;PR;Centro - Londrina;Vazio
+1251;89.900;Renault;Sandero;Sport Rs 2.0 Flex 16v 5p;25.714;2021;PR;Fazendinha - Curitiba;Vazio
+1252;70.900;Volkswagen;Polo;1.6 Msi;16.668;2018;PR;São José dos Pinhais;Vazio
+1253;74.900;Ford;Focus;Sedan Focus Se At 2.0sc;37.681;2018;PR;Capão da Imbuia - Curitiba;Vazio
+1254;59.900;Ford;Focus;1.6 Flex 5p;42.707;2015;PR;Campo Largo;Vazio
+1255;59.900;Renault;Sandero;Zen 1.0 Manual;94.598;2021;PR;Curitiba;Vazio
+1256;68.900;Ford;Ka;Se Plus 1.5 12v At;10.531;2020;PR;Tarumã - Curitiba;Vazio
+1257;70.900;Ford;Ecosport;Fsl At 1.6b;73.700;2017;PR;Capão Raso - Curitiba;Vazio
+1258;82.500;Jeep;Renegade;Lngtd At;124.583;2016;PR;Campo Largo;Vazio
+1259;62.900;Fiat;Argo;Drive 1.0 _4p_;50.795;2020;PR;Boa Vista - Curitiba;Vazio
+1260;63.900;Volkswagen;Cross;Up Up Cross Tsi 1.0;125.000;2018;PR;Centro - Londrina;Vazio
+1261;72.900;Renault;Sandero;Gt Line/rlin Flex 1.0 12v 5p;8.385;2022;PR;Santa Felicidade - Curitiba;Vazio
+1262;64.900;Ford;Fiesta;1.6 Sel Hatch Style 16v Flex 4p Manual;40.412;2018;PR;Seminário - Curitiba;Vazio
+1263;77.900;Volkswagen;Polo;Cl Ad;32.000;2018;PR;Capão Raso - Curitiba;Vazio
+1264;85.900;Nissan;Kicks;Sv Cvt 1.6 16v Flex 5p Aut;114.000;2017;PR;Capão Raso - Curitiba;Vazio
+1265;83.900;Ford;Ecosport;1.5 Se Flex Aut. (direct) 5p;5.680;2020;PR;Vila Santo Antônio - Maringá;Vazio
+1266;72.900;Ford;Focus;Sedan Focus Se At 2.0 Sc;88.500;2018;PR;Capão Raso - Curitiba;Vazio
+1267;79.900;Renault;Duster;16 E Cvt;52.500;2019;PR;Capão Raso - Curitiba;Vazio
+1268;68.900;Hyundai;Hb20s;1.0 Comfort Plus Flex 4p;33.274;2019;PR;Vila Santo Antônio - Maringá;Vazio
+1269;76.900;Jeep;Renegade;1.8 Sport Flex Aut. 5p;54.000;2016;PR;Vila Santo Antônio - Maringá;Vazio
+1270;68.900;Fiat;Argo;Drive _4p_;9.209;2020;PR;Seminário - Curitiba;Vazio
+1271;88.800;Nissan;Kicks;Sv Cvt 1.6 16v Flex 5p Aut;74.000;2017;PR;Centro - Toledo;Vazio
+1272;78.900;Volkswagen;Polo;1.6 Msi Total Flex 16v 5p Aut;23.002;2020;PR;Jardim das Américas - Curitiba;Vazio
+1273;70.900;Volkswagen;Virtus;1.6 Msi Flex 16v 5p Mec;44.560;2019;PR;Rebouças - Curitiba;Vazio
+1274;73.900;Volkswagen;Saveiro;1.6 16v Cross Cab. Dupla Total Flex 2p;45.000;2015;PR;Jardim Carvalho - Ponta Grossa;Vazio
+1275;79.900;Volkswagen;Virtus;1.6 Msi;18.232;2020;PR;São José dos Pinhais;Vazio
+1276;84.900;Renault;Outros;Modelos (renault) Oroch 16 Exp42;26.450;2021;PR;Boa Vista - Curitiba;Vazio
+1277;89.900;Chevrolet;Onix;Hatch Premier Turbo;44.066;2020;PR;Seminário - Curitiba;Vazio
+1278;87.900;Chevrolet;Onix;Hatch Lt 1.0 12v Tb Flex Aut;8.111;2021;PR;Curitiba;Vazio
+1279;74.900;Volkswagen;Virtus;Mf;54.170;2019;PR;Jardim das Américas - Curitiba;Vazio
+1280;79.900;Volkswagen;Polo;1.6 Msi Total Flex 16v 5p Aut;37.837;2020;PR;Jardim das Américas - Curitiba;Vazio
+1281;75.900;Nissan;March;1.6 Sl 16v Flex 4p Xtronic;3.584;2020;PR;Jardim das Américas - Curitiba;Vazio
+1282;85.900;Chevrolet;Onix;Plus 10mt Lt2;1.570;2022;PR;Jardim das Américas - Curitiba;Vazio
+1283;85.900;Chevrolet;Onix;Ltz 1.0 Turbo;31.952;2020;PR;São José dos Pinhais;Vazio
+1284;63.900;Hyundai;Hb20;Hb20 1.0 Comfort;25.700;2019;PR;Capão Raso - Curitiba;Vazio
+1285;69.900;Hyundai;Hb20s;Hb20 1.0 12v 4p Flex Vision;702;2022;PR;Parolin - Curitiba;Vazio
+1286;87.900;Chevrolet;Onix;Hatch 1.0 12v Tb Flex Aut;2.300;2021;PR;Cidade Jardim - São José dos Pinhais;Vazio
+1287;58.900;Ford;Ka;Se 1.0 Ha C;49.000;2020;PR;Centro - São José dos Pinhais;Vazio
+1288;65.900;Ford;Focus;Sedan Titanium 2.0 Powershift Aut.;75.000;2016;PR;Xaxim - Curitiba;Vazio
+1289;82.000;Volkswagen;Jetta;Cl Ab;164.000;2016;PR;Boa Vista - Curitiba;Vazio
+1290;89.900;Renault;Sandero;Stepway Iconic Flex 1.6 16v Aut.;13.181;2022;PR;Jardim das Américas - Curitiba;Vazio
+1291;79.900;Renault;Captur;Zen 16a;48.000;2018;PR;Xaxim - Curitiba;Vazio
+1292;89.900;Toyota;Corolla;Gli18 Cvt;57.751;2017;PR;Jardim das Américas - Curitiba;Vazio
+1293;74.900;Nissan;Versa;V-drive 16 Mt _2p;2.007;2021;PR;Capão da Imbuia - Curitiba;Vazio
+1294;77.900;Jeep;Renegade;Lngtd At;115.000;2016;PR;Hauer - Curitiba;Vazio
+1295;63.900;Ford;Focus;Sedan Focus Fastback Se/se Plus 2.0 Flex Aut;71.443;2016;PR;Tarumã - Curitiba;Vazio
+1296;88.900;Chevrolet;Onix;Premier Turbo At 1.0;21.273;2020;PR;Curitiba;Vazio
+1297;59.900;Renault;Kwid;Outsider 1.0;40.309;2020;PR;Fazendinha - Curitiba;Vazio
+1298;63.500;Fiat;Argo;1.0 Firefly Flex Drive Manual;41.500;2020;PR;Centro - Toledo;Vazio
+1299;59.900;Hyundai;Hb20;Hb20 1.0m Sense;33.000;2020;PR;Capão Raso - Curitiba;Vazio
+1300;56.900;Ford;Ka;Se 1.0 Ha C;24.000;2020;PR;Capão Raso - Curitiba;Vazio
+1301;78.900;Renault;Duster;1.6 Dynamique 4x2 16v Flex 4p Manual;37.879;2019;PR;Tarumã - Curitiba;Vazio
+1302;89.900;Hyundai;Ix35;Ix35 B;102.487;2016;PR;Jardim das Américas - Curitiba;Vazio
+1303;68.900;Fiat;Argo;1.0;7.847;2021;PR;Fazendinha - Curitiba;Vazio
+1304;74.900;Chevrolet;Onix;1.4 Mt Active;14.793;2019;PR;Jardim das Américas - Curitiba;Vazio
+1305;60.900;Renault;Kwid;Outsider _4p_;11.700;2021;PR;Siqueira Campos;Vazio
+1306;59.900;Ford;Fiesta;Sel 1.6 16v Flex Mec. 5p;42.000;2017;PR;Rebouças - Curitiba;Vazio
+1307;66.900;Fiat;Fiorino;1.4 Flex;40.000;2017;PR;Centro - São José dos Pinhais;Vazio
+1308;70.900;Nissan;Versa;16uniquecvt;115.000;2018;PR;Curitiba;Vazio
+1309;59.900;Renault;Duster;20 D 4x2;101.000;2015;PR;Curitiba;Vazio
+1310;59.990;Volkswagen;Gol;1.6 Msi (flex);37.548;2019;PR;São José dos Pinhais;Vazio
+1311;79.800;Fiat;Argo;Trekking 1.3;2.139;2022;PR;Região do Lago - Cascavel;Vazio
+1312;79.000;Citroën;C4;Lounge S 1.6 Turbo Flex Aut;53.980;2018;PR;Boa Vista - Curitiba;Vazio
+1313;58.800;Volkswagen;Saveiro;Nova Rb Mbvs;67.740;2018;PR;Região do Lago - Cascavel;Vazio
+1314;83.900;Renault;Captur;Zen 1.6 Cvt Automatica;46.000;2018;PR;Centro - Londrina;Vazio
+1315;77.900;Renault;Duster;Oroch Oroch 1.6 Dynamique 4x2;87.000;2017;PR;Centro - Londrina;Vazio
+1316;81.900;Renault;Captur;1.6 16v Sce Flex Zen Manual;30.020;2019;PR;Campo Largo;Vazio
+1317;81.900;Volkswagen;Polo;Cl Ad;48.390;2019;PR;Jardim das Américas - Curitiba;Vazio
+1318;66.900;Volkswagen;Voyage;1.6 Msi Flex 8v 4p;30.810;2021;PR;Jardim das Américas - Curitiba;Vazio
+1319;60.900;Nissan;March;1.0 Sv;25.000;2020;PR;Centro - Toledo;Vazio
+1320;59.900;Renault;Kwid;Outsider 1.0 Flex 12v 5p Mec;14.099;2021;PR;Arapoti;Vazio
+1321;89.900;Renault;Sandero;Stepway Stepway Iconic Flex 1.6 16v Aut;5.013;2022;PR;Fazendinha - Curitiba;Vazio
+1322;76.888;Volkswagen;Golf;1.4 Tsi Comfortline 5p Automática;66.150;2015;PR;Centro - Arapongas;Vazio
+1323;77.900;Jeep;Renegade;Longitude 4x2 Automatico Flex;88.072;2016;PR;Hauer - Curitiba;Vazio
+1324;74.900;Volkswagen;Polo;1.6 Msi;47.483;2019;PR;São José dos Pinhais;Vazio
+1325;67.900;Toyota;Etios;Sedán Etios X Plus Sedan 1.5 Flex 16v 4p Mec.;52.800;2020;PR;Centro - Toledo;Vazio
+1326;86.900;Volkswagen;Tiguan;2.0 Tsi 16v 200cv Tiptronic 5p;101.800;2015;PR;Centro - Toledo;Vazio
+1327;58.800;Renault;Kwid;Outsider 1.0;13.217;2021;PR;Região do Lago - Cascavel;Vazio
+1328;63.900;Ford;Ecosport;Tit At 2.0;90.175;2015;PR;Siqueira Campos;Vazio
+1329;59.900;Nissan;March;1.0 Sv;24.000;2020;PR;Xaxim - Curitiba;Vazio
+1330;79.900;Renault;Duster;16 E Cvt;62.000;2018;PR;Centro - São José dos Pinhais;Vazio
+1331;79.900;Hyundai;Hb20s;Hb20s Vision 1.6 At;24.259;2020;PR;Jardim das Américas - Curitiba;Vazio
+1332;70.900;Chevrolet;Onix;1.4 Mt Active;43.026;2019;PR;Jardim das Américas - Curitiba;Vazio
+1333;62.500;Renault;Kwid;Outsider 1.0 Flex 12v 5p Mec;14.000;2022;PR;Xaxim - Curitiba;Vazio
+1334;86.500;Renault;Duster;Zen 1.6 Manual;20.000;2021;PR;Hauer - Curitiba;Vazio
+1335;89.900;Kia;Cerato;Ff Sx4 Atnb;31.247;2019;PR;Jardim das Américas - Curitiba;Vazio
+1336;88.900;Renault;Sandero;Stepway Stepway Iconic Flex 1.6 16v Aut;4.637;2022;PR;Santa Felicidade - Curitiba;Vazio
+1337;61.900;Jac;T5;1.5 16v Jetflex 4p Manual;67.429;2017;PR;Santa Felicidade - Curitiba;Vazio
+1338;79.900;Volkswagen;Polo;Af;46.000;2020;PR;Centro - São José dos Pinhais;Vazio
+1339;83.900;Chevrolet;Onix;Hatch Ltz 1.0 12v Tb Flex Aut;32.438;2020;PR;Tarumã - Curitiba;Vazio
+1340;89.900;Fiat;Fiorino;Endurance Furgão;27.897;2021;PR;Jardim das Américas - Curitiba;Vazio
+1341;71.900;Chevrolet;Onix;1.4 Mt Active;36.366;2019;PR;Tarumã - Curitiba;Vazio
+1342;67.900;Nissan;March;Sv 1.6 16v 5p;19.545;2020;PR;Jardim das Américas - Curitiba;Vazio
+1343;72.900;Volkswagen;Virtus;1.6 Msi Flex 16v 5p Mec;69.190;2019;PR;Campina Grande do Sul;Vazio
+1344;59.900;Suzuki;Grand;Vitara 2wd 4x2 2.0 16v 4p;102.000;2015;PR;Xaxim - Curitiba;Vazio
+1345;89.900;Renault;Sandero;Stepway Iconic Flex 1.6 16v Aut;4.800;2022;PR;Xaxim - Curitiba;Vazio
+1346;79.900;Jeep;Renegade;Lngtd At;108.257;2017;PR;Boa Vista - Curitiba;Vazio
+1347;63.900;Mitsubishi;Pajero;Tr4 Pajero Tr4 2.0 Flex 16v 4x2;91.000;2015;PR;Xaxim - Curitiba;Vazio
+1348;76.900;Kia;Cerato;Ff Sx4 Atnb;61.000;2017;PR;Maringá;Vazio
+1349;83.900;Toyota;Yaris;Sd Xlplusat;38.746;2019;PR;Jardim das Américas - Curitiba;Vazio
+1350;73.890;Volkswagen;Polo;Af;35.500;2020;PR;Bacacheri - Curitiba;Vazio
+1351;69.900;Renault;Logan;Zen 1.6;44.815;2020;PR;Jardim das Américas - Curitiba;Vazio
+1352;63.900;Hyundai;Hb20s;Hb20s 1.0 M Comfort;60.201;2019;PR;Curitiba;Vazio
+1353;58.900;Ford;Fiesta;1.6 Sel;59.392;2017;PR;São José dos Pinhais;Vazio
+1354;66.900;Hyundai;Hb20;Hb20 Comfort 1.6 Flex 16v Aut;64.966;2018;PR;Jardim das Américas - Curitiba;Vazio
+1355;65.900;Fiat;Argo;Drive 1.0;29.000;2020;PR;Centro - São José dos Pinhais;Vazio
+1356;67.900;Citroën;C4;Lounge 1.6 Thp Origine;49.000;2018;PR;Xaxim - Curitiba;Vazio
+1357;66.000;Volkswagen;Polo;Mca;82.253;2020;PR;Região do Lago - Cascavel;Vazio
+1358;64.000;Chevrolet;Cobalt;1.8 Ltz Aut. 4p;99.900;2018;PR;Vila Nova - Pitanga;Vazio
+1359;68.900;Fiat;Argo;1.3 Firefly Flex Drive Gsr;27.824;2020;PR;Curitiba;Vazio
+1360;89.900;Hyundai;New;Beetle Hb20 1.0at Tgdi Sport;5.072;2022;PR;Jardim das Américas - Curitiba;Vazio
+1361;74.900;Volkswagen;Polo;Mf;44.468;2019;PR;Jardim das Américas - Curitiba;Vazio
+1362;69.900;Ford;Ecosport;Freestyle 1.6;52.719;2016;PR;Jardim das Américas - Curitiba;Vazio
+1363;79.900;Volkswagen;Voyage;1.6l Mb5;2.575;2022;PR;Jardim das Américas - Curitiba;Vazio
+1364;57.900;Volkswagen;Gol;1.0 Flex 12v 5p;39.926;2021;PR;Santa Felicidade - Curitiba;Vazio
+1365;57.900;Citroën;C4;Lounge 1.6 Tendance 16v Turbo Flex 4p Automatico;86.394;2015;PR;Xaxim - Curitiba;Vazio
+1366;72.900;Renault;Duster;1.6 Dynamique 4x2 16v Flex 4p Manual;91.938;2018;PR;Campo Largo;Vazio
+1367;66.000;Fiat;Palio;Adventure Weekend Adventure 1.8;63.603;2019;PR;Região do Lago - Cascavel;Vazio
+1368;87.900;Volkswagen;Polo;Hl Ad;65.000;2019;PR;Portão - Curitiba;Vazio
+1369;84.900;Mitsubishi;Asx;Asx 2.0;49.000;2017;PR;Vila Izabel - Curitiba;Vazio
+1370;89.990;Hyundai;Ix35;Ix35 2.0 16v Flex 4p Automatico;80.187;2017;PR;Curitiba;Vazio
+1371;63.000;Honda;Fit;Lx-mt 1.4 8v;95.310;2015;PR;Região do Lago - Cascavel;Vazio
+1372;56.900;Hyundai;Hb20s;Hb20s 1.6m Comf;888;2015;PR;Maringá;Vazio
+1373;89.900;Chevrolet;Onix;Plus Premier Turbo;45.492;2020;PR;Santa Felicidade - Curitiba;Vazio
+1374;69.990;Hyundai;I30;I30 1.8;84.000;2015;PR;Hauer - Curitiba;Vazio
+1375;59.900;Volkswagen;Up!;Up Cross Mdv;106.000;2018;PR;Centro - Ponta Grossa;Vazio
+1376;56.900;Hyundai;Tucson;2.0 16v Flex Aut;52.162;2015;PR;Uberaba - Curitiba;Vazio
+1377;55.900;Volkswagen;Gol;(novo) 1.0 Trend;41.300;2021;PR;Capão Raso - Curitiba;Vazio
+1378;65.900;Toyota;Etios;Hb Xplus Mt;30.000;2020;PR;Vila Izabel - Curitiba;Vazio
+1379;63.000;Fiat;Cronos;1.3 Drive Flex 4p;63.000;2019;PR;São Cristovão - Pato Branco;Vazio
+1380;59.900;Ford;Fiesta;1.6 Se Hatch 16v Flex 4p Manual;58.000;2019;PR;Xaxim - Curitiba;Vazio
+1381;90.000;Jeep;Renegade;Limited At;36.300;2017;PR;Jardim Carvalho - Ponta Grossa;Vazio
+1382;56.300;Hyundai;Hb20;Hb20 1.6a Comf;94.716;2015;PR;Jardim Carvalho - Ponta Grossa;Vazio
+1383;65.500;Ford;Focus;Se 1.6 Hc;108.800;2016;PR;Jardim Carvalho - Ponta Grossa;Vazio
+1384;56.900;Chevrolet;Onix;1.0 Joy 8v Flex 4p Manual;55.000;2019;PR;Fanny - Curitiba;Vazio
+1385;78.900;Volkswagen;Polo;1.6 Msi Total Flex 16v 5p Aut;56.000;2020;PR;Campina Grande do Sul;Vazio
+1386;63.990;Volkswagen;Saveiro;Cd Cross Ma;150.000;2015;PR;Hauer - Curitiba;Vazio
+1387;60.900;Jac;T40;1.5 Jet Flex;63.000;2018;PR;Hauer - Curitiba;Vazio
+1388;55.800;Ford;Ka;Sel 1.5 Sd B;79.000;2018;PR;Jardim Carvalho - Ponta Grossa;Vazio
+1389;55.800;Renault;Sandero;Gt Line/rlin Flex 1.0 12v 5p;39.000;2020;PR;Jardim Carvalho - Ponta Grossa;Vazio
+1390;77.000;Ford;Focus;Sedan Focus 2.0 Se Plus 16v Flex 4p Powershift;30.000;2018;PR;Boa Vista - Curitiba;Vazio
+1391;88.000;Jeep;Renegade;Sport At;51.335;2018;PR;Jardim Carvalho - Ponta Grossa;Vazio
+1392;86.900;Chevrolet;Onix;Plus Lt Turbo;23.187;2021;PR;Centro - Campo Largo;Vazio
+1393;78.900;Chery;Tiggo;2 Look 1.5 16v Flex Aut. 5p;33.000;2020;PR;Xaxim - Curitiba;Vazio
+1394;74.900;Fiat;Cronos;Precision 1.8 16v Flex Aut;35.000;2019;PR;Sítio Cercado - Curitiba;Vazio
+1395;58.900;Volkswagen;Voyage;1.6 Msi Flex 8v 4p;54.346;2019;PR;Campina Grande do Sul;Vazio
+1396;73.500;Renault;Duster;Oroch Oroch 16 4x2;137.275;2018;PR;Jardim Carvalho - Ponta Grossa;Vazio
+1397;63.900;Hyundai;Hb20;Hb20 Unique 1.0 Flex 12v Mec;39.397;2019;PR;Curitiba;Vazio
+1398;77.999;Renault;Sandero;1.6 16v Sce Flex Intense X-tronic;16.841;2020;PR;Jardim Social - Curitiba;Vazio
+1399;75.900;Chevrolet;Tracker;Chev Ltz At;173.400;2015;PR;Wenceslau Braz;Vazio
+1400;57.900;Citroën;C4;Lounge 1.6 Thp Tendance Flex Aut. 4p;85.000;2016;PR;Jardim Carvalho - Ponta Grossa;Vazio
+1401;84.800;Renault;Duster;Expression Cvt;74.220;2020;PR;Jardim Carvalho - Ponta Grossa;Vazio
+1402;87.500;Hyundai;Ix35;Ix35 B;65.970;2015;PR;Jardim Carvalho - Ponta Grossa;Vazio
+1403;69.500;Toyota;Etios;Sedán Etios Sd Xplus At;37.780;2019;PR;Jardim Carvalho - Ponta Grossa;Vazio
+1404;85.800;Toyota;Corolla;2.0 Vvt-ie Xei Direct Shift Flex;193.827;2016;PR;Jardim Carvalho - Ponta Grossa;Vazio
+1405;55.000;Hyundai;Hb20s;Hb20s 1.6m Prem;99.500;2015;PR;Jardim Carvalho - Ponta Grossa;Vazio
+1406;73.500;Mitsubishi;Pajero;Tr4 Pajero Tr4 Flex Hp;117.400;2015;PR;Jardim Carvalho - Ponta Grossa;Vazio
+1407;89.800;Jeep;Renegade;Sport At;58.900;2019;PR;Jardim Carvalho - Ponta Grossa;Vazio
+1408;73.500;Fiat;Cronos;Drive;34.560;2020;PR;Jardim Carvalho - Ponta Grossa;Vazio
+1409;69.000;Hyundai;Hb20x;Hb20x Style _4p_;52.491;2017;PR;Jardim Carvalho - Ponta Grossa;Vazio
+1410;74.900;Chevrolet;Onix;1.4at Adv;20.000;2019;PR;Pacaembu - Cascavel;Vazio
+1411;67.700;Hyundai;Hb20s;Hb 20s 1.6 Comfort Plus 16v;120.991;2019;PR;Sítio Cercado - Curitiba;Vazio
+1412;57.000;Volkswagen;Spacefox;Novo Cl Sa;65.300;2016;PR;Boa Vista - Curitiba;Vazio
+1413;64.900;Volkswagen;Voyage;1.6l Mb5;74.000;2020;PR;Capão Raso - Curitiba;Vazio
+1414;56.000;Volkswagen;Saveiro;Nova Rb Mbvs;93.750;2018;PR;Jardim Carvalho - Ponta Grossa;Vazio
+1415;87.999;Toyota;Yaris;1.5 16v Flex Sedan Xl Multidrive;32.629;2020;PR;Jardim Social - Curitiba;Vazio
+1416;89.990;Toyota;Yaris;1.5 Xl Plus Connect 16v Cvt 5p;16.819;2020;PR;Tarumã - Curitiba;Vazio
+1417;61.900;Chevrolet;Montana;Ls1;89.745;2018;PR;Orleans - Curitiba;Vazio
+1418;74.900;Volkswagen;Virtus;1.6 Msi Flex 16v 5p Mec;28.300;2019;PR;Xaxim - Curitiba;Vazio
+1419;89.900;Renault;Sandero;Stepway Stepway Iconic Flex 1.6 16v Aut;9.700;2022;PR;Xaxim - Curitiba;Vazio
+1420;79.999;Fiat;Cronos;1.3 Firefly Flex Drive Manual;13.825;2021;PR;Jardim Social - Curitiba;Vazio
+1421;66.990;Fiat;Argo;1.3 Drive Flex 5p;62.361;2018;PR;Tarumã - Curitiba;Vazio
+1422;55.900;Ford;Ka;+ Sedan 1.0 Se Flex 4p;57.421;2020;PR;Santa Felicidade - Curitiba;Vazio
+1423;87.990;Hyundai;Hb20x;Hb20x Evolution 1.6 At;20.000;2020;PR;Bacacheri - Curitiba;Vazio
+1424;89.900;Renault;Sandero;Stepway Stepway Iconic Flex 1.6 16v Aut;4.300;2022;PR;Xaxim - Curitiba;Vazio
+1425;59.900;Renault;Kwid;Outsider 1.0 Flex 12v 5p Mec;16.000;2021;PR;Xaxim - Curitiba;Vazio
+1426;62.999;Ford;Ecosport;2.0 Se 16v Flex 4p Automático;151.830;2015;PR;Jardim Social - Curitiba;Vazio
+1427;59.900;Fiat;Argo;Drive 1.0;56.979;2020;PR;Campina Grande do Sul;Vazio
+1428;89.900;Renault;Sandero;Stepway Iconic Flex 1.6 16v Aut;4.200;2022;PR;Xaxim - Curitiba;Vazio
+1429;79.800;Mitsubishi;Lancer;2.0 Cvt;46.500;2019;PR;Hauer - Curitiba;Vazio
+1430;67.900;Ford;Focus;Sedan Focus Se At 2.0sc;82.000;2017;PR;Hauer - Curitiba;Vazio
+1431;76.900;Renault;Duster;Dynamique 2.0 16v Aut;40.000;2018;PR;Hauer - Curitiba;Vazio
+1432;66.890;Fiat;Argo;Drive 1.0 _4p_;73.310;2021;PR;Bacacheri - Curitiba;Vazio
+1433;76.890;Renault;Sandero;Stepway 1.6 Hi-flex;55.610;2020;PR;Bacacheri - Curitiba;Vazio
+1434;79.900;Volkswagen;Polo;1.6 Msi;26.815;2021;PR;São José dos Pinhais;Vazio
+1435;75.900;Hyundai;Hb20;Hb20 Evolution 1.0 Mt;15.000;2021;PR;Centro - São José dos Pinhais;Vazio
+1436;78.999;Volkswagen;Polo;1.6 Msi Total Flex Automático;49.632;2020;PR;Jardim Social - Curitiba;Vazio
+1437;79.999;Jeep;Renegade;1.8 16v Flex 4p Manual;56.284;2017;PR;Jardim Social - Curitiba;Vazio
+1438;80.000;Peugeot;2008;1.6 16v Griffe Flex Aut. 5p;54.500;2019;PR;São Lourenço - Curitiba;Vazio
+1439;75.999;Volkswagen;Polo;1.6 Msi Total Flex Manual;43.441;2020;PR;Jardim Social - Curitiba;Vazio
+1440;84.800;Ford;Ecosport;1.5 Ti-vct Flex Freestyle Automático;47.000;2019;PR;Tarumã - Curitiba;Vazio
+1441;67.500;Renault;Fluence;Fluence Pri20a;82.000;2017;PR;Boa Vista - Curitiba;Vazio
+1442;64.800;Toyota;Etios;1.5 X Plus Sedan 16v Flex 4p Automático;54.000;2019;PR;Tarumã - Curitiba;Vazio
+1443;77.999;Renault;Duster;1.6 16v Sce Flex Dynamique Manual;88.133;2019;PR;Jardim Social - Curitiba;Vazio
+1444;75.800;Volkswagen;Jetta;2.0 Tsi Highline Dsg;62.107;2016;PR;Arapongas;Vazio
+1445;72.360;Volkswagen;Gol;1.0;528;2022;PR;Wenceslau Braz;Vazio
+1446;88.000;Fiat;Strada;Freedom 13cs;109.375;2021;PR;Jardim Carvalho - Ponta Grossa;Vazio
+1447;64.990;Peugeot;Partner;Furgão Partner Furgao 1.6 3p;105.000;2019;PR;Hauer - Curitiba;Vazio
+1448;64.900;Volkswagen;Voyage;1.6 Msi Total Flex 4p;12.800;2021;PR;Rebouças - Curitiba;Vazio
+1449;67.900;Honda;Fit;Exl Cvt;85.866;2015;PR;Novo Mundo - Curitiba;Vazio
+1450;89.900;Ford;Ecosport;2.0 16v Titanium Flex Aut. 5p;75.000;2019;PR;Vila Nova - Pitanga;Vazio
+1451;88.000;Ford;Ecosport;1.5 Se Flex Aut. 5p 6 Marchas;11.000;2021;PR;Vila Nova - Pitanga;Vazio
+1452;78.900;Volkswagen;Virtus;1.6 Msi Automatico;94.034;2019;PR;Sítio Cercado - Curitiba;Vazio
+1453;85.900;Jeep;Renegade;Longitude 1.8 Flex Automatico;40.000;2017;PR;Sítio Cercado - Curitiba;Vazio
+1454;62.900;Hyundai;Hb20s;Hb20s Unique _4p_;32.744;2019;PR;Wenceslau Braz;Vazio
+1455;69.900;Volkswagen;Saveiro;Nova Tl Mbvs;60.432;2020;PR;Jardim Carvalho - Ponta Grossa;Vazio
+1456;59.900;Chevrolet;Onix;1.4mt Ltz;109.617;2017;PR;Jardim Carvalho - Ponta Grossa;Vazio
+1457;89.900;Citroën;C4;Cactus Feel 1.6 Aut;11.471;2020;PR;Centro - Campo Largo;Vazio
+1458;57.999;Fiat;Palio;1.4 Mpi Attractive Weekend 16v Flex 4p Manual;28.244;2018;PR;Jardim Social - Curitiba;Vazio
+1459;71.900;Honda;Fit;Ex 1.5 16v Flex Aut.;106.000;2016;PR;Maringá;Vazio
+1460;61.000;Fiat;Argo;Drive 1.0;62.800;2020;PR;Capão Raso - Curitiba;Vazio
+1461;58.900;Volkswagen;Saveiro;Nova Rb Mbvs;70.158;2018;PR;Boa Vista - Curitiba;Vazio
+1462;83.900;Ford;Fusion;2.5 Flex Aut. 4p;82.015;2015;PR;São Cristóvão - União da Vitória;Vazio
+1463;79.800;Volkswagen;Saveiro;1.6 Robust Cab. Simples Total Flex 2p;7.777;2021;PR;Jardim Real - Maringá;Vazio
+1464;59.900;Renault;Sandero;Zen 1.0 Manual;59.424;2021;PR;Fanny - Curitiba;Vazio
+1465;72.900;Volkswagen;Polo;Mf;25.770;2019;PR;Boa Vista - Curitiba;Vazio
+1466;84.900;Chevrolet;Onix;Hatch Ltz 1.0 12v Tb Flex Aut;33.000;2020;PR;Xaxim - Curitiba;Vazio
+1467;59.990;Renault;Kwid;1.0 12v Zen Sce 5p 5 Marchas;1.590;2022;PR;Tarumã - Curitiba;Vazio
+1468;84.900;Volkswagen;Polo;Comfort 200 Tsi 1.0 Flex 12v Aut;39.050;2020;PR;Ponta Grossa;Vazio
+1469;56.690;Renault;Logan;Life;55.000;2021;PR;Bacacheri - Curitiba;Vazio
+1470;86.890;Volkswagen;Virtus;Cl Ad;50.000;2020;PR;Bacacheri - Curitiba;Vazio
+1471;69.900;Fiat;Fiorino;Hd Wk E;89.676;2017;PR;Orleans - Curitiba;Vazio
+1472;66.500;Ford;Fiesta;16tit At;62.000;2017;PR;Siqueira Campos;Vazio
+1473;77.900;Fiat;Cronos;Drive 1.3;33.912;2020;PR;Curitiba;Hyundai Veiculos
+1474;67.000;Fiat;Strada;1.4 Hard Working Cab. Dupla Flex 3p;71.000;2016;PR;Vila Nova - Pitanga;Vazio
+1475;84.900;Renault;Duster;1.6 Dynamique 4x2 16v Flex 4p Manual;41.000;2020;PR;Xaxim - Curitiba;Vazio
+1476;65.999;Hyundai;Hb20;1.0 Comfort 12v Flex 4p Manual;39.937;2019;PR;Jardim Social - Curitiba;Vazio
+1477;63.900;Chevrolet;Montana;Ls2;72.343;2019;PR;Conradinho - Guarapuava;Vazio
+1478;68.800;Ford;Focus;2.0 Se 16v Flex 4p Powershift;43.000;2017;PR;Tarumã - Curitiba;Vazio
+1479;59.900;Renault;Kangoo;Express 1.6 16v Basico;116.000;2018;PR;Xaxim - Curitiba;Vazio
+1480;71.900;Nissan;March;16sv Cvt;24.000;2020;PR;Xaxim - Curitiba;Vazio
+1481;62.900;Renault;Kangoo;Express 1.6 16v Basico;81.000;2018;PR;Xaxim - Curitiba;Vazio
+1482;59.900;Fiat;Palio;Weekend Palio Weekend Adventure;112.000;2018;PR;Centro - Ponta Grossa;Vazio
+1483;59.800;Renault;Sandero;1.6 16v Sce Flex Zen Manual;16.000;2020;PR;Tarumã - Curitiba;Vazio
+1484;81.800;Jeep;Renegade;1.8 Longitude (aut);27.129;2018;PR;Arapongas;Vazio
+1485;69.900;Hyundai;Ix35;2.0l 16v Gls (flex) (aut);46.427;2015;PR;Arapongas;Vazio
+1486;59.900;Peugeot;308;1.6 Griffe Thp 16v Gasolina 4p Automatico;67.000;2015;PR;Parolin - Curitiba;Vazio
+1487;86.900;Ford;Fusion;2.5 16v 175cv Aut;43.700;2016;PR;Parolin - Curitiba;Vazio
+1488;89.900;Chevrolet;Cruze;Sedan Ltz 1.4 16v Turbo Flex 4p Aut;99.000;2017;PR;Ponta Grossa;Vazio
+1489;58.900;Renault;Fluence;Dynamique Plus 2.0 16v Flex Aut.;96.000;2016;PR;Campina Grande do Sul;Vazio
+1490;89.900;Renault;Captur;Intense;78.405;2019;PR;Centro - Campo Largo;Vazio
+1491;83.900;Renault;Captur;Renault Captur 1.6 Flex Intense Automática Completa;65.900;2018;PR;Estrela - Ponta Grossa;Vazio
+1492;65.000;Chevrolet;Tracker;1.8 Mpfi Ltz 4x2 16v Flex 4p Aut;65.000;2015;PR;Santa Cândida - Curitiba;Vazio
+1493;81.900;Chevrolet;S-10;2.2 S;169.018;2015;PR;Sítio Cercado - Curitiba;Vazio
+1494;75.900;Renault;Duster;Oroch Oroch 16 Exp42;96.000;2017;PR;Campina Grande do Sul;Vazio
+1495;84.500;Jeep;Renegade;Longitude 1.8 Flex Automatico;78.744;2017;PR;Boa Vista - Curitiba;Vazio
+1496;64.900;Volkswagen;Jetta;Cl Ac;99.999;2015;PR;Centro - Londrina;Vazio
+1497;59.900;Ford;Ka;Se 1.0 Ha C;27.700;2021;PR;Pacaembu - Cascavel;Vazio
+1498;74.900;Toyota;Etios;1.5 Platinum Sedan 16v Flex 4p Aut;25.791;2018;PR;Xaxim - Curitiba;Vazio
+1499;79.900;Volkswagen;Virtus;1.6 Msi Flex 16v 5p Mec;27.000;2020;PR;Prudentópolis;Vazio
+1500;71.900;Volkswagen;Saveiro;Nova Tl Mbvs;82.800;2020;PR;Capão Raso - Curitiba;Vazio
+1501;59.900;Volkswagen;Up!;1.0 Tsi High 5p;60.000;2017;PR;Pinheirinho - Curitiba;Vazio
+1502;66.900;Renault;Kangoo;Express 1.6 16v Basico;74.000;2018;PR;Curitiba;Vazio
+1503;58.900;Ford;Ka;Se 1.0 Sd C;44.000;2020;PR;Curitiba;Vazio
+1504;59.900;Fiat;Mobi;Like;6.539;2021;PR;Curitiba;Vazio
+1505;72.900;Hyundai;I30;I30 1.8;96.000;2015;PR;Curitiba;Vazio
+1506;69.900;Volkswagen;Voyage;Mb5 _4p_;87.000;2020;PR;Curitiba;Vazio
+1507;80.890;Volkswagen;Polo;1.6 Msi Flex 16v 5p;10.840;2020;PR;Bacacheri - Curitiba;Vazio
+1508;82.900;Fiat;Cronos;Drive 1.3;7.257;2021;PR;Maringá;Vazio
+1509;84.990;Renault;Duster;16 E Cvt;43.500;2020;PR;Bacacheri - Curitiba;Vazio
+1510;81.900;Renault;Captur;Zen 1.6 16v 5p Mec;54.129;2018;PR;Siqueira Campos;Vazio
+1511;56.900;Volkswagen;Gol;1.0 Flex 12v 5p;51.634;2021;PR;Santa Felicidade - Curitiba;Vazio
+1512;66.900;Volkswagen;Saveiro;1.6 16v Cross Cab. Estendida Total Flex 2p;150.000;2015;PR;Pinheirinho - Curitiba;Vazio
+1513;62.900;Hyundai;Hb20s;Hb20s 1.6m Comf;42.000;2018;PR;Boa Vista - Curitiba;Vazio
+1514;79.900;Jeep;Renegade;Renegade Lngtd At;53.000;2016;PR;Boa Vista - Curitiba;Vazio
+1515;85.900;Fiat;Toro;Toro Freedom 1.8 16v E.torq Opening Edition;58.000;2017;PR;Boa Vista - Curitiba;Vazio
+1516;69.500;Honda;City;City Sedan Lx-at 1.5 16v;47.000;2017;PR;Boa Vista - Curitiba;Vazio
+1517;55.900;Hyundai;Hb20;Hb20 1.0m Comfor;40.000;2019;PR;Boa Vista - Curitiba;Vazio
+1518;89.900;Honda;Hr-v;Fit Ex 1.5 16v Flex Aut.;18.725;2018;PR;Rodocentro - Londrina;Vazio
+1519;86.900;Honda;City;Dx 1.5 16v Flex Mec.;3.918;2021;PR;Rodocentro - Londrina;Vazio
+1520;60.900;Ford;Ka;1.5 Sel 16v Flex 5p;6.500;2018;PR;Parolin - Curitiba;Vazio
+1521;57.900;Volkswagen;Spacefox;Tl Mbv;82.000;2019;PR;Sítio Cercado - Curitiba;Vazio
+1522;65.900;Honda;Fit;Lx Cvt Automatico _4p_;80.545;2015;PR;Centro - Campo Largo;Vazio
+1523;66.900;Renault;Duster;20 D 4x2a;89.806;2016;PR;Wenceslau Braz;Vazio
+1524;67.999;Renault;Kangoo;1.6 Express 16v Flex 3p Manual;41.415;2018;PR;Jardim Social - Curitiba;Vazio
+1525;75.900;Jeep;Renegade;Sport Mt;88.000;2016;PR;Centro - Londrina;Vazio
+1526;88.900;Hyundai;Ix35;Ix35 B;71.700;2017;PR;Centro - Londrina;Vazio
+1527;61.900;Hyundai;Hb20;Hb20 1.6a 1.6 A;47.000;2017;PR;Centro - Londrina;Vazio
+1528;79.500;Honda;City;Dx 1.5 16v Flex Aut;56.998;2017;PR;Rodocentro - Londrina;Vazio
+1529;78.900;Jeep;Renegade;Sport 1.8 Flex Aut;90.280;2016;PR;Santa Felicidade - Curitiba;Vazio
+1530;66.900;Fiat;Doblo;Essence 7l E;72.927;2018;PR;Centro - Londrina;Vazio
+1531;56.900;Nissan;Versa;16sv Cvt;85.245;2018;PR;Centro - Londrina;Vazio
+1532;84.900;Renault;Captur;Life 16a;71.000;2019;PR;Centro - Londrina;Vazio
+1533;72.900;Ford;Ecosport;Fsl At1.6b;60.847;2017;PR;Centro - Londrina;Vazio
+1534;89.900;Hyundai;Creta;20a Presti;61.940;2017;PR;Centro - Londrina;Vazio
+1535;78.900;Hyundai;Hb20s;Hb20s Evolution;4.500;2022;PR;Centro - Londrina;Vazio
+1536;73.900;Honda;City;Lx Cvt;96.000;2017;PR;Centro - Londrina;Vazio
+1537;66.900;Hyundai;Hb20;Hb20 Vision;12.258;2022;PR;Centro - Londrina;Vazio
+1538;82.900;Jeep;Renegade;Lngtd At;67.000;2016;PR;Centro - Londrina;Vazio
+1539;56.900;Fiat;Strada;Adventure Cd;34.500;2015;PR;Centro - Londrina;Vazio
+1540;68.900;Renault;Duster;20 D 4x2a;99.999;2017;PR;Centro - Londrina;Vazio
+1541;61.900;Toyota;Etios;Sedán Etios Sd Plt15 At;83.769;2019;PR;Centro - Londrina;Vazio
+1542;59.900;Nissan;Versa;16 S;99.999;2019;PR;Centro - Londrina;Vazio
+1543;64.500;Renault;Kwid;Outsider 1.0 Flex 12v 5p Mec;11.690;2022;PR;Wenceslau Braz;Vazio
+1544;79.900;Volkswagen;Saveiro;1.6 Trendline Mbvs;27.400;2021;PR;Capão Raso - Curitiba;Vazio
+1545;89.900;Hyundai;Hb20;Hb20 Evolution 1.0 Turbo At;23.500;2021;PR;Capão Raso - Curitiba;Vazio
+1546;79.900;Fiat;Argo;Trekking 1.3;24.000;2020;PR;Estradinha - Paranaguá;Vazio
+1547;61.900;Fiat;Argo;1.0 Firefly Flex Manual;33.100;2019;PR;Estradinha - Paranaguá;Vazio
+1548;72.900;Fiat;Fiorino;Hd Wk E;71.206;2018;PR;Orleans - Curitiba;Vazio
+1549;74.900;Fiat;Cronos;Drive;32.000;2020;PR;Siqueira Campos;Vazio
+1550;74.900;Volkswagen;Golf;1.6;60.579;2016;PR;Maringá;Vazio
+1551;73.900;Renault;Sandero;Intense 1.6 Cvt X-tronic;47.500;2020;PR;Estradinha - Paranaguá;Vazio
+1552;76.900;Fiat;Argo;Trekking 1.3;9.800;2020;PR;Rodocentro - Londrina;Vazio
+1553;84.900;Honda;Fit;Lx 1.5 Flexone Aut;33.170;2020;PR;Rodocentro - Londrina;Vazio
+1554;89.900;Citroën;C4;Cactus Live 1.6 16v Flex Aut;8.600;2021;PR;Rodocentro - Londrina;Vazio
+1555;74.900;Renault;Captur;1.6 16v Sce Flex Zen X-tronic;95.000;2018;PR;Rodocentro - Londrina;Vazio
+1556;69.900;Volkswagen;Cross;Up Up Cross 1.0 Tsi Total Flex 12v 5p;104.467;2019;PR;Ponta Grossa;Vazio
+1557;68.900;Volkswagen;Saveiro;Cd Hl Mb;135.000;2015;PR;Curitiba;Vazio
+1558;63.900;Volkswagen;Polo;1.0 Mpi Total Flex Manual;56.150;2019;PR;Estradinha - Paranaguá;Vazio
+1559;76.900;Volkswagen;Virtus;1.6 Msi Flex 16v 5p Mec;45.000;2020;PR;Estradinha - Paranaguá;Vazio
+1560;56.900;Fiat;Argo;1.0 Firefly Flex Manual;63.000;2019;PR;Maringá;Vazio
+1561;75.990;Suzuki;Swift;1.6 Sport 5p;56.935;2015;PR;Tarumã - Curitiba;Vazio
+1562;64.900;Fiat;Strada;Hd Wk Cc E;115.775;2020;PR;Jardim Carvalho - Ponta Grossa;Vazio
+1563;77.900;Fiat;Argo;Trekking 1.3;13.000;2020;PR;Estradinha - Paranaguá;Vazio
+1564;84.900;Mitsubishi;Lancer;2.0 160cv;30.000;2019;PR;Campo Largo;Vazio
+1565;79.900;Volkswagen;Saveiro;1.6 16v Cross Cab. Estendida Total Flex 2p-;106.000;2017;PR;Pinheirinho - Curitiba;Vazio
+1566;61.500;Fiat;Strada;1.4 Hard Working Flex 2p;83.000;2019;PR;Vila Nova - Pitanga;Vazio
+1567;56.900;Hyundai;Hb20;Hb20 1.6a Comf;72.367;2015;PR;Seminário - Curitiba;Vazio
+1568;70.900;Renault;Sandero;Rlin10mt;12.341;2021;PR;Arapoti;Vazio
+1569;66.900;Volkswagen;Voyage;1.6 Msi Total Flex 4p;53.000;2021;PR;Vila Nova - Pitanga;Vazio
+1570;86.500;Renault;Duster;16 E Cvt;85.530;2020;PR;Wenceslau Braz;Vazio
+1571;81.900;Toyota;Corolla;Gli18 Cvt;77.555;2016;PR;Boa Vista - Curitiba;Vazio
+1572;68.900;Volkswagen;Polo;1.6 Msi Flex 16v 5p;66.000;2019;PR;Estradinha - Paranaguá;Vazio
+1573;84.900;Renault;Duster;Expression 1.6 16v;42.753;2020;PR;Wenceslau Braz;Vazio
+1574;73.900;Hyundai;Hb20s;Hb20s 1.6a Comf;67.326;2018;PR;Wenceslau Braz;Vazio
+1575;79.900;Mitsubishi;L200;2.4 Triton Hls Cab. Dupla Flex 4p;100.000;2015;PR;Pinheirinho - Curitiba;Vazio
+1576;61.900;Hyundai;Hb20;1.0 Vision Flex 5p;66.058;2020;PR;Capão Raso - Curitiba;Vazio
+1577;85.900;Nissan;Kicks;1.6 16v Sv Aut. 5p;44.300;2018;PR;Capão Raso - Curitiba;Vazio
+1578;89.900;Nissan;Kicks;1.6 16v Sl Aut. 5p;27.844;2018;PR;Capão Raso - Curitiba;Vazio
+1579;65.900;Ford;Ecosport;1.6 16v Se Flex 5p;64.487;2017;PR;Capão Raso - Curitiba;Vazio
+1580;86.900;Fiat;Toro;1.8 16v Freedom Flex 4x2 Aut. 4p;55.384;2018;PR;Capão Raso - Curitiba;Vazio
+1581;73.900;Renault;Duster;Oroch Oroch 16 4x2;77.000;2019;PR;Hauer - Curitiba;Vazio
+1582;69.900;Volkswagen;Saveiro;1.6 16v Cross Cab. Estendida Total Flex 2p;137.000;2015;PR;Pinheirinho - Curitiba;Vazio
+1583;82.500;Chevrolet;Cruze;1.8 Ltz Ecotec 6 Aut. 4p;76.000;2016;PR;Tarumã - Curitiba;Vazio
+1584;89.900;Chevrolet;Tracker;Lt 1.4 L Turbo Ecotech 16v Flex 4x2 Aut;65.283;2017;PR;Campina do Siqueira - Curitiba;Vazio
+1585;88.990;Chevrolet;Onix;Plus 1.0tat Lt1;19.000;2021;PR;Centro - Londrina;Vazio
+1586;74.900;Hyundai;Hb20r;Hb20 1.6 R Spec 16v Flex 4p Automatico;130.000;2019;PR;Sítio Cercado - Curitiba;Vazio
+1587;62.900;Hyundai;Hb20;Hb20 1.6 Comfort Plus Mec;62.373;2018;PR;Seminário - Curitiba;Vazio
+1588;55.990;Chevrolet;Onix;Joy Black;99.999;2021;PR;Centro - Londrina;Vazio
+1589;62.990;Toyota;Etios;Sedán Etios Sd Xplus At;99.999;2019;PR;Centro - Londrina;Vazio
+1590;55.900;Toyota;Etios;Hb Xs 15 Mt;99.999;2018;PR;Centro - Londrina;Vazio
+1591;61.220;Hyundai;Hb20x;Hb20x 1.6 M Style;63.827;2016;PR;Curitiba;Vazio
+1592;61.900;Kia;Cerato;Ff Sx3 Atnb;99.999;2015;PR;Centro - Londrina;Vazio
+1593;57.900;Chevrolet;Onix;1.0mt Lt;34.500;2019;PR;Centro - Londrina;Vazio
+1594;60.990;Honda;Civic;Lxs At;99.999;2016;PR;Centro - Londrina;Vazio
+1595;57.900;Renault;Sandero;St16rsce;37.000;2019;PR;Centro - Londrina;Vazio
+1596;68.990;Chevrolet;Onix;1.4at Act;28.000;2019;PR;Centro - Londrina;Vazio
+1597;81.900;Ford;Ecosport;1.5 Tivct Flex Freestyle Manual;16.800;2020;PR;Estradinha - Paranaguá;Vazio
+1598;58.900;Fiat;Strada;Hd Wk Cc E;79.341;2018;PR;Arapoti;Vazio
+1599;82.900;Volkswagen;Virtus;1.6 Total Flex Manual;54.760;2020;PR;Estradinha - Paranaguá;Vazio
+1600;74.900;Volkswagen;Virtus;1.6 Total Flex Manual;24.800;2018;PR;Estradinha - Paranaguá;Vazio
+1601;61.900;Volkswagen;Voyage;1.6 8v Flex 4p Manual;42.700;2019;PR;Estradinha - Paranaguá;Vazio
+1602;55.900;Peugeot;Partner;Furgão Partner Furgao 1.6 16v 5p;44.900;2018;PR;Xaxim - Curitiba;Vazio
+1603;68.900;Fiat;Argo;Drive 1.0 _4p_;13.000;2021;PR;Curitiba;Vazio
+1604;62.900;Volkswagen;Voyage;1.6 Msi Flex 8v 4p;32.169;2020;PR;Ponta Grossa;Vazio
+1605;65.900;Mitsubishi;Pajero;Tr4 Pajero Tr4 2.0 4x2 16v 140cv Flex 4p Manual;72.100;2015;PR;Ponta Grossa;Vazio
+1606;59.900;Nissan;Versa;1.6 16v Sv Aut. 4p;117.000;2017;PR;Pinheirinho - Curitiba;Vazio
+1607;68.900;Volkswagen;Gol;1.0;10.600;2022;PR;Estradinha - Paranaguá;Vazio
+1608;56.990;Chevrolet;Onix;1.0 Ls 5p;11.736;2016;PR;Tarumã - Curitiba;Vazio
+1609;81.900;Toyota;Yaris;1.5 16v Flex Sedan Xl Plus Aut;48.861;2019;PR;Curitiba;Vazio
+1610;62.900;Ford;Fiesta;Hatch Titanium 1.6 16v Flex Aut.;26.840;2017;PR;Maringá;Vazio
+1611;60.900;Ford;Fiesta;Sedan Fiesta Sel 1.6 16v Flex Mec. 5p;42.573;2018;PR;Maringá;Vazio
+1612;56.990;Fiat;Argo;1.0;43.000;2019;PR;Prudentópolis;Vazio
+1613;76.900;Volkswagen;Polo;1.6 Msi Flex 16v 5p;23.950;2020;PR;Estradinha - Paranaguá;Vazio
+1614;58.900;Renault;Sandero;Gt Line 1.6 16v;63.381;2019;PR;Campina Grande do Sul;Vazio
+1615;72.900;Mitsubishi;Lancer;2.0 Cvt;105.531;2018;PR;Prado Velho - Curitiba;Vazio
+1616;55.900;Chevrolet;Joy;1.0 5p;29.500;2020;PR;Rebouças - Curitiba;Vazio
+1617;71.900;Mitsubishi;Pajero;Tr4 Pajero Tr4 4x4 2.0 16v Aut.;134.745;2015;PR;Curitiba;Vazio
+1618;72.500;Fiat;Fiorino;Hard Working 1.4 Flex 8v 2p;65.000;2019;PR;Região do Lago - Cascavel;Vazio
+1619;89.900;Honda;Fit;1.5 Ex Flex Aut. 5p;10.137;2020;PR;Capão Raso - Curitiba;Vazio
+1620;57.900;Volkswagen;Fox;Run 1.6 Flex 8v 5p;79.950;2017;PR;Estradinha - Paranaguá;Vazio
+1621;74.900;Volkswagen;Saveiro;1.6 16v Cross Cab. Estendida Total Flex 2p;108.000;2016;PR;Pinheirinho - Curitiba;Vazio
+1622;63.000;Volkswagen;Crossfox;1.6 Msi 16v Total Flex;69.500;2017;PR;Santa Cândida - Curitiba;Vazio
+1623;58.990;Fiat;Mobi;Like;3.000;2021;PR;Centro - Londrina;Vazio
+1624;63.900;Volkswagen;Fox;1.6 Msi Total Flex Connect 4p Manual;27.122;2018;PR;Maringá;Vazio
+1625;75.990;Chevrolet;Cobalt;1.8 Ltz Aut. 4p;58.000;2020;PR;Cascavel Velho - Cascavel;Vazio
+1626;79.900;Volkswagen;Golf;Comfortline 1.6 Msi Flex. Mec.;42.641;2016;PR;Maringá;Vazio
+1627;61.900;Nissan;Versa;1.0 12v Flexstart 4p Mec.;59.000;2020;PR;Pacaembu - Cascavel;Vazio
+1628;70.900;Peugeot;2008;Allure 1.6 Automatico;57.989;2018;PR;Maringá;Vazio
+1629;80.900;Jeep;Renegade;Longitude 1.8 Flex Automatico;59.000;2016;PR;Portão - Curitiba;Vazio
+1630;56.900;Volkswagen;Fox;Msi Highline 1.6 16v Total Flex 4p;74.900;2018;PR;Portão - Curitiba;Vazio
+1631;57.900;Volkswagen;Voyage;1.6 Msi Flex 8v 4p;46.000;2019;PR;Xaxim - Curitiba;Vazio
+1632;55.900;Volkswagen;Gol;Gol;50.800;2019;PR;Estradinha - Paranaguá;Vazio
+1633;63.900;Volkswagen;Spacefox;Tl Mbv;446.000;2018;PR;Curitiba;Vazio
+1634;61.900;Renault;Sandero;Stepway Sandero Step Easy-r 1.6;22.493;2019;PR;Ponta Grossa;Vazio
+1635;83.900;Hyundai;Hb20;Hb20 Evolution 1.0 Flex 12v Aut;34.543;2020;PR;Maringá;Vazio
+1636;77.900;Volkswagen;Saveiro;Nova Tl Mbvs;39.110;2020;PR;Boa Vista - Curitiba;Vazio
+1637;88.500;Nissan;Kicks;1.6 16v Sl Aut. 5p;90.000;2017;PR;Tarumã - Curitiba;Vazio
+1638;84.900;Renault;Captur;1.6 16v Sce Flex Zen X-tronic;32.816;2018;PR;Maringá;Vazio
+1639;64.900;Renault;Kangoo;Express 1.6;51.000;2018;PR;Portão - Curitiba;Vazio
+1640;63.900;Hyundai;Hb20;Hb20 1.0m Comfor;14.000;2019;PR;Portuguesa - Londrina;Vazio
+1641;65.900;Fiat;Fiorino;1.4 Flex;92.000;2018;PR;Novo Mundo - Curitiba;Vazio
+1642;57.900;Volkswagen;Up!;1.0 Run I-motion 5p;50.000;2017;PR;Capão Raso - Curitiba;Vazio
+1643;78.900;Citroën;C4;Lounge 1.6 Thp Flex Feel Bva;33.000;2019;PR;Rodocentro - Londrina;Vazio
+1644;63.990;Volkswagen;Voyage;1.0 12v Mpi Totalflex 4p Manual;51.783;2021;PR;Guarapuava;Vazio
+1645;89.990;Fiat;Doblo;1.8 Mpi Essence 7l 16v Flex 4p Manual;45.149;2021;PR;Guarapuava;Vazio
+1646;89.990;Fiat;Doblo;1.8 Mpi Essence 7l 16v Flex 4p Manual;61.015;2021;PR;Guarapuava;Vazio
+1647;63.990;Hyundai;Hb20;Hb20 1.0 Mt Vision;20.000;2020;PR;Centro - Londrina;Vazio
+1648;70.000;Chevrolet;S-10;Cd Lt 2.5 Flex;150.000;2015;PR;Foz do Iguaçu;Vazio
+1649;75.990;Fiat;Fiorino;Hd Wk E;61.000;2020;PR;Centro - Londrina;Vazio
+1650;56.900;Renault;Kangoo;Express Kgoo Express16;124.000;2016;PR;Novo Mundo - Curitiba;Vazio
+1651;85.900;Renault;Captur;Captur Intense 1.6 Cvt 2018 / Financio Aceito Troca!;63.000;2018;PR;Nova Rússia - Ponta Grossa;Vazio
+1652;65.900;Fiat;Fiorino;1.4 Flex;82.000;2018;PR;Novo Mundo - Curitiba;Vazio
+1653;71.900;Fiat;Punto;Turbo T-jet;6.000;2015;PR;Novo Mundo - Curitiba;Vazio
+1654;62.800;Fiat;Grand;Siena 1.0 Flex 4p 5 Marchas;18.000;2021;PR;Tarumã - Curitiba;Vazio
+1655;71.000;Hyundai;Tucson;Glsb;53.000;2017;PR;Portuguesa - Londrina;Vazio
+1656;59.900;Volkswagen;Saveiro;1.6 Robust Cab. Simples Total Flex 2p;16.500;2021;PR;Rebouças - Curitiba;Vazio
+1657;59.900;Volkswagen;Spacefox;Tl Mbv;92.400;2019;PR;Santa Cândida - Curitiba;Vazio
+1658;81.490;Renault;Duster;1.6 16v Sce Flex Expression X-tronic;43.606;2020;PR;Guarapuava;Vazio
+1659;76.990;Renault;Duster;1.6 16v Sce Flex Expression Manual;45.610;2020;PR;Guarapuava;Vazio
+1660;61.900;Renault;Kangoo;Express Kgoo Express16;141.000;2018;PR;Novo Mundo - Curitiba;Vazio
+1661;76.800;Chevrolet;Cruze;1.8 Lt Ecotec 6 Aut. 4p;41.000;2016;PR;Tarumã - Curitiba;Vazio
+1662;56.900;Fiat;Fiorino;1.4 Flex;78.000;2016;PR;Novo Mundo - Curitiba;Vazio
+1663;69.900;Volkswagen;Polo;1.6 Msi Flex 16v 5p;32.000;2020;PR;Centro - Londrina;Vazio
+1664;71.500;Hyundai;Hb20;1.6 Comfort Plus Flex Aut. 5p;42.000;2019;PR;Tarumã - Curitiba;Vazio
+1665;63.990;Volkswagen;Voyage;1.0 12v Mpi Totalflex 4p Manual;50.180;2021;PR;Pato Branco;Vazio
+1666;80.990;Renault;Duster;1.6 16v Sce Flex Expression X-tronic;66.275;2020;PR;Pato Branco;Vazio
+1667;57.990;Ford;Ka;1.0 Ti-vct Flex Se Sedan Manual;70.125;2020;PR;Pato Branco;Vazio
+1668;55.990;Volkswagen;Gol;1.0 12v Mpi Totalflex 4p Manual;62.711;2021;PR;Pato Branco;Vazio
+1669;59.490;Volkswagen;Gol;1.6 Msi Totalflex 4p Manual;42.497;2021;PR;Pato Branco;Vazio
+1670;70.990;Volkswagen;Polo;1.6 Msi Total Flex Manual;45.851;2020;PR;Guarapuava;Vazio
+1671;64.990;Nissan;Versa;1.6 16v Flexstart Sv 4p Xtronic;76.739;2019;PR;Guarapuava;Vazio
+1672;65.490;Volkswagen;Voyage;1.6 Msi Totalflex 4p Manual;39.690;2021;PR;Guarapuava;Vazio
+1673;61.990;Volkswagen;Voyage;1.6 Msi Totalflex 4p Manual;80.086;2021;PR;Guarapuava;Vazio
+1674;65.490;Volkswagen;Voyage;1.6 Msi Totalflex 4p Manual;35.908;2021;PR;Guarapuava;Vazio
+1675;67.490;Ford;Ka;1.5 Ti-vct Flex Se Plus Sedan Automático;47.367;2020;PR;Guarapuava;Vazio
+1676;65.490;Volkswagen;Voyage;1.6 Msi Totalflex 4p Manual;32.965;2021;PR;Guarapuava;Vazio
+1677;65.490;Volkswagen;Voyage;1.6 Msi Totalflex 4p Manual;36.092;2021;PR;Guarapuava;Vazio
+1678;63.990;Volkswagen;Voyage;1.0 12v Mpi Totalflex 4p Manual;52.557;2021;PR;Guarapuava;Vazio
+1679;65.490;Volkswagen;Voyage;1.6 Msi Totalflex 4p Manual;32.720;2021;PR;Guarapuava;Vazio
+1680;65.990;Fiat;Argo;1.0 Firefly Flex Drive Manual;60.930;2021;PR;Guarapuava;Vazio
+1681;80.490;Volkswagen;Voyage;1.6 Msi Totalflex 4p Manual;36.295;2022;PR;Guarapuava;Vazio
+1682;67.990;Volkswagen;Voyage;1.6 16v Msi Totalflex 4p Automático;16.715;2019;PR;Guarapuava;Vazio
+1683;70.990;Volkswagen;Polo;1.6 Msi Total Flex Manual;41.644;2020;PR;Guarapuava;Vazio
+1684;59.490;Volkswagen;Gol;1.6 Msi Totalflex 4p Manual;67.063;2021;PR;Guarapuava;Vazio
+1685;79.990;Volkswagen;Virtus;1.6 Msi Total Flex Manual;67.066;2021;PR;Guarapuava;Vazio
+1686;68.990;Renault;Logan;1.6 16v Sce Flex Zen Manual;40.388;2021;PR;Guarapuava;Vazio
+1687;63.990;Volkswagen;Voyage;1.0 12v Mpi Totalflex 4p Manual;66.386;2021;PR;Guarapuava;Vazio
+1688;82.990;Renault;Duster;2.0 16v Hi-flex Dynamique 4wd Manual;75.816;2019;PR;Guarapuava;Vazio
+1689;67.990;Volkswagen;Voyage;1.6 16v Msi Totalflex 4p Automático;67.744;2020;PR;Guarapuava;Vazio
+1690;62.990;Ford;Ka;1.5 Ti-vct Flex Se Sedan Manual;45.038;2021;PR;Guarapuava;Vazio
+1691;63.990;Volkswagen;Voyage;1.0 12v Mpi Totalflex 4p Manual;53.445;2021;PR;Guarapuava;Vazio
+1692;61.990;Volkswagen;Gol;1.6 Msi Totalflex 4p Manual;25.197;2021;PR;Guarapuava;Vazio
+1693;88.490;Volkswagen;Virtus;1.0 200 Tsi Comfortline Automático;49.582;2020;PR;Guarapuava;Vazio
+1694;58.900;Ford;Fiesta;New Hatch Se 1.6 16v;67.249;2019;PR;Centro - Londrina;Vazio
+1695;87.900;Honda;Wr-v;Wr-v Ex Cvt;52.127;2018;PR;Centro - Londrina;Vazio
+1696;59.990;Fiat;Strada;Hd Wk Cc E;68.000;2019;PR;Centro - Londrina;Vazio
+1697;69.900;Fiat;Fiorino;Hd Wk E;170.000;2018;PR;Novo Mundo - Curitiba;Vazio
+1698;90.000;Hyundai;Ix35;2.0 2wd Flex Aut. 5p;150.000;2019;PR;Parque Presidente II - Foz do Iguaçu;Vazio
+1699;89.900;Mitsubishi;Asx;2.0 4x2 At;68.000;2017;PR;Nova Rússia - Ponta Grossa;Vazio
+1700;89.990;Ford;Fusion;2.0 Sel 16v Gasolina 4p Automático;93.308;2017;PR;Curitiba;Vazio
+1701;65.900;Ford;Focus;2.0 16v/se/se Plus Flex 5p Aut.;69.381;2017;PR;Curitiba;Vazio
+1702;67.900;Ford;Ecosport;Se;51.673;2017;PR;Boqueirão - Curitiba;Vazio
+1703;59.999;Peugeot;2008;2008 Griffe 1.6 Flex 16v Aut;71.284;2016;PR;Curitiba;Vazio
+1704;67.900;Fiat;Cronos;1.3 8v Flex;45.923;2019;PR;Bacacheri - Curitiba;Vazio
+1705;77.900;Jeep;Renegade;Renegade Sport 1.8 4x2 Flex 16v Mec. Ipva Quitado!;93.083;2018;PR;Bacacheri - Curitiba;Vazio
+1706;55.900;Fiat;Argo;1.0 6v Flex.;53.562;2019;PR;Bacacheri - Curitiba;Vazio
+1707;85.900;Fiat;Argo;Hgt 1.8 16v Flex Aut;42.708;2020;PR;Bacacheri - Curitiba;Vazio
+1708;77.990;Renault;Duster;Duster 1.6 16v Sce Flex Dynamique Manual;62.919;2019;PR;Bacacheri - Curitiba;Vazio
+1709;82.900;Jeep;Renegade;Renegade Sport 1.8 4x2 Flex 16v Aut;85.211;2017;PR;Curitiba;Vazio
+1710;57.900;Fiat;Strada;Fiat Strada Working Hard 1.4 Fire Flex 8v Cs;74.381;2019;PR;Bacacheri - Curitiba;Vazio
+1711;55.900;Ford;Ka;Ford Ka + Ka+sedan 1.0 Se/se Plus Tivct Flex 4p;56.974;2019;PR;Bacacheri - Curitiba;Vazio
+1712;61.900;Fiat;Argo;Drive 1.3 8v Flex;55.750;2018;PR;Bacacheri - Curitiba;Vazio
+1713;71.900;Hyundai;Hb20;Comfort Plus 1.0 Tb Flex 12v Mec;10.604;2019;PR;Bacacheri - Curitiba;Vazio
+1714;82.999;Chevrolet;Spin;Premier 1.8 8v Econo.flex 5p Aut.;94.009;2020;PR;Curitiba;Vazio
+1715;79.900;Chery;Arrizo;5 5 Rxt 1.5 16v Turbo Flex Aut.;23.059;2020;PR;Curitiba;Vazio
+1716;85.900;Nissan;Kicks;S 1.6 16v Flex 5p Aut.;76.093;2018;PR;Curitiba;Vazio
+1717;77.900;Volkswagen;Virtus;1.6 Msi Flex 16v 5p Mec.;55.231;2019;PR;Curitiba;Vazio
+1718;84.900;Fiat;Strada;1.4 Mpi Freedom Cd 8v Flex 3p Manual;73.786;2019;PR;São Mateus do Sul;Vazio
+1719;77.900;Kia;Optima;Optima 2.0 16v 165cv Aut;98.511;2015;PR;Curitiba;Vazio
+1720;89.900;Toyota;Yaris;Toyota Yaris Xl Sedan 1.5 Flex 16v 4p Aut.;18.420;2020;PR;Parolin - Curitiba;Vazio
+1721;79.900;Fiat;Cronos;Fiat Cronos Precision 1.8 16v Flex Aut.;11.412;2020;PR;Parolin - Curitiba;Vazio
+1722;61.900;Fiat;Argo;Fiat Argo Drive 1.3 8v Flex;55.750;2018;PR;Parolin - Curitiba;Vazio
+1723;60.900;Chevrolet;Onix;Chevrolet Onix Hatch Lt 1.4 8v Flexpower 5p;48.474;2019;PR;Parolin - Curitiba;Vazio
+1724;56.900;Fiat;Argo;Fiat Argo Drive 1.0 6v Flex;67.521;2018;PR;Parolin - Curitiba;Vazio
+1725;89.900;Peugeot;2008;Allure 1.6 Flex 16v 5p Aut.;11.730;2021;PR;Curitiba;Vazio
+1726;56.900;Renault;Sandero;Renault Sandero Rs 2.0;80.816;2016;PR;Nova Rússia - Ponta Grossa;Vazio
+1727;78.900;Peugeot;408;Griffe 1.6 16v At;29.000;2018;PR;Água Verde - Curitiba;Vazio
+1728;71.900;Hyundai;Hb20;Hyundai Hb20 Comfort Plus 1.0 Tb Flex 12v Mec.;10.604;2019;PR;Parolin - Curitiba;Vazio
+1729;60.900;Fiat;Argo;Fiat Argo 1.0 6v Flex.;35.708;2020;PR;Parolin - Curitiba;Vazio
+1730;82.900;Fiat;Cronos;Fiat Cronos Precision 1.8 16v Flex Aut.;15.693;2020;PR;Parolin - Curitiba;Vazio
+1731;63.900;Ford;Fiesta;Ford Fiesta 16se;48.154;2019;PR;Parolin - Curitiba;Vazio
+1732;55.900;Fiat;Uno;Fiat Uno Attractive 1.0 Fire Flex 8v 5p;96.556;2021;PR;Parolin - Curitiba;Vazio
+1733;76.900;Hyundai;Hb20;Hyundai Hb20 Evolution 1.0 Flex 12v Mec.;24.759;2021;PR;Parolin - Curitiba;Vazio
+1734;59.900;Fiat;Argo;Fiat Argo Drive 1.0 6v Flex;62.457;2019;PR;Parolin - Curitiba;Vazio
+1735;67.900;Fiat;Cronos;Fiat Cronos 1.3 8v Flex;45.923;2019;PR;Parolin - Curitiba;Vazio
+1736;85.900;Fiat;Argo;Fiat Argo Hgt 1.8 16v Flex Aut.;42.708;2020;PR;Parolin - Curitiba;Vazio
+1737;60.900;Fiat;Argo;Fiat Argo Drive 1.0 6v Flex;11.643;2020;PR;Parolin - Curitiba;Vazio
+1738;58.900;Fiat;Argo;Fiat Argo Drive 1.0 6v Flex;39.988;2019;PR;Parolin - Curitiba;Vazio
+1739;82.900;Jeep;Renegade;Jeep Renegade 1.8 At;73.970;2018;PR;Parolin - Curitiba;Vazio
+1740;73.900;Fiat;Cronos;Fiat Cronos Drive 1.3 8v Flex;21.318;2020;PR;Parolin - Curitiba;Vazio
+1741;89.900;Fiat;Cronos;Fiat Cronos Hgt 1.8 16v Flex Aut.;31.718;2020;PR;Parolin - Curitiba;Vazio
+1742;70.900;Hyundai;Hb20s;Hyundai Hb20s 1.6m Comf;35.706;2019;PR;Parolin - Curitiba;Vazio
+1743;78.600;Renault;Duster;Renault Duster Dynamique 1.6 Flex Mec.;62.919;2019;PR;Parolin - Curitiba;Vazio
+1744;73.990;Fiat;Cronos;Fiat Cronos Drive 1.3 8v Flex;18.083;2020;PR;Parolin - Curitiba;Vazio
+1745;69.890;Chevrolet;Prisma;Chevrolet Prisma Sed. Lt 1.4 8v Flexpower 4p Aut.;53.664;2019;PR;Parolin - Curitiba;Vazio
+1746;71.500;Fiat;Cronos;Fiat Cronos Drive 1.3 8v Flex;40.966;2020;PR;Parolin - Curitiba;Vazio
+1747;80.890;Peugeot;2008;Peugeot 2008 Allure 1.6 Flex 16v 5p Aut.;25.522;2020;PR;Parolin - Curitiba;Vazio
+1748;81.900;Chevrolet;Onix;1.0 Turbo Lt 12v Flex Manual;14.000;2021;PR;Nova Rússia - Ponta Grossa;Vazio
+1749;82.970;Peugeot;2008;Allure 1.6 Flex 16v 5p Aut.;31.216;2020;PR;Cidade Industrial - Curitiba;Vazio
+1750;84.900;Kia;Soul;Soul 1.6 Flex 16v Automático Ipva 2022 Pago;28.000;2016;PR;Nova Rússia - Ponta Grossa;Vazio
+1751;61.900;Ford;Ka;Modelo Top Linha Do Ford Ka;33.201;2019;PR;Boqueirão - Curitiba;Vazio
+1752;58.900;Hyundai;Hb20;Hb20 Sense 1.0 Flex 12v Mec;67.652;2020;PR;Mossunguê - Curitiba;Vazio
+1753;89.900;Peugeot;208;208 Active 1.6 Flex 16v Aut;8.264;2021;PR;Mossunguê - Curitiba;Vazio
+1754;73.900;Hyundai;Hb20s;Hb20s Vision 1.6 Flex 16v Mec;49.385;2020;PR;Mossunguê - Curitiba;Vazio
+1755;78.900;Volkswagen;Virtus;Virtus 1.6 Msi Flex Mec;16.859;2021;PR;Mossunguê - Curitiba;Vazio
+1756;81.990;Volkswagen;Tiguan;Tiguan 2.0 Tsi 16v 200cv Tiptronic;113.771;2015;PR;Curitiba;Vazio
+1757;87.900;Renault;Sandero;Sandero 2.0 Rs 16v Flex Mecanico;19.000;2021;PR;Nova Rússia - Ponta Grossa;Vazio
+1758;87.970;Renault;Captur;1.6 16v Sce Flex Life X-tronic;27.169;2020;PR;Curitiba;Vazio
+1759;57.900;Fiat;Argo;Fiat Argo 1.0 6v Flex;37.654;2019;PR;Bacacheri - Curitiba;Vazio
+1760;81.900;Renault;Duster;Oroch Renault Duster Oroch Express 1.6;35.200;2020;PR;Nova Rússia - Ponta Grossa;Vazio
+1761;59.900;Fiat;Mobi;Trekking 1.0;7.895;2021;PR;Nova Rússia - Ponta Grossa;Vazio
+1762;89.900;Renault;Duster;Oroch Oroch 1.6 Flex 4x2 Manual;55.000;2021;PR;Nova Rússia - Ponta Grossa;Vazio
+1763;73.900;Fiat;Cronos;Fiat Cronos Drive 1.3 8v Flex;40.966;2020;PR;Bacacheri - Curitiba;Vazio
+1764;77.900;Fiat;Argo;1.3 Firefly Flex Trekking Manual;34.156;2020;PR;São Mateus do Sul;Vazio
+1765;72.990;Nissan;Kicks;Sv 1.6 16v Cvt;67.639;2017;PR;Guarapuava;Vazio
+1766;85.900;Ford;Ecosport;2.0 Titanium 16v Flex 4p Automático;64.987;2018;PR;Três Marias - São José dos Pinhais;Vazio
+1767;87.900;Chevrolet;Onix;1.0 Turbo Flex Lt Automático;8.111;2021;PR;Três Marias - São José dos Pinhais;Vazio
+1768;84.800;Ford;Ecosport;1.5 Ti-vct Flex Se Automático;24.000;2020;PR;Tarumã - Curitiba;Vazio
+1769;72.999;Fiat;Doblo;1.8 Mpi Essence 16v Flex 4p Manual;63.911;2018;PR;Jardim Social - Curitiba;Vazio
+1770;84.900;Audi;A3;1.4 Tfsi Attraction 16v Gasolina 4p S-tronic;101.973;2015;PR;Lindóia - Curitiba;Vazio
+1771;61.900;Fiat;Strada;1.4 Mpi Hard Working Cs 8v Flex 2p Manual;111.873;2020;PR;Jardim das Américas - Curitiba;Vazio
+1772;63.900;Fiat;Strada;1.4 Mpi Hard Working Ce 8v Flex 2p Manual;120.067;2019;PR;Jardim das Américas - Curitiba;Vazio
+1773;59.900;Fiat;Doblo;1.4 Mpi Cargo Flex 2p Manual;82.786;2016;PR;Jardim das Américas - Curitiba;Vazio
+1774;64.900;Renault;Kwid;Kwid Outsider 1.0 Flex 12v 5p Mec.;6.142;2022;PR;Curitiba;Vazio
+1775;78.950;Renault;Duster;1.6 Dynamique 4x2 16v Flex 4p Manual;106.923;2018;PR;Xaxim - Curitiba;Vazio
+1776;89.900;Fiat;Strada;Strada 1.8 Aventure 16v Flex Manual;58.000;2019;PR;Nova Rússia - Ponta Grossa;Vazio
+1777;63.400;Fiat;Fiorino;1.4 Mpi Furgão 8v Flex 2p Manual;134.769;2018;PR;Xaxim - Curitiba;Vazio
+1778;58.400;Fiat;Fiorino;1.4 Mpi Furgão 8v Flex 2p Manual;122.864;2016;PR;Xaxim - Curitiba;Vazio
+1779;74.800;Toyota;Yaris;1.3 16v Flex Xl Manual;54.000;2020;PR;Tarumã - Curitiba;Vazio
+1780;81.800;Volkswagen;Polo;1.0 200 Tsi Comfortline Automático;52.000;2020;PR;Tarumã - Curitiba;Vazio
+1781;88.800;Toyota;Yaris;1.5 16v Flex Sedan Xl Live Multidrive;40.000;2020;PR;Tarumã - Curitiba;Vazio
+1782;69.800;Hyundai;Hb20;1.0 Comfort 12v Flex 4p Manual;15.000;2019;PR;Tarumã - Curitiba;Vazio
+1783;74.800;Volkswagen;Polo;1.6 Msi Total Flex Manual;54.000;2020;PR;Tarumã - Curitiba;Vazio
+1784;62.800;Volkswagen;Gol;1.6 Msi Totalflex 4p Manual;37.000;2021;PR;Tarumã - Curitiba;Vazio
+1785;89.900;Renault;Duster;Dynamique 1.6 Cvt (automático);40.900;2020;PR;Curitiba;Vazio
+1786;89.900;Renault;Duster;Dynamique 1.6 Cvt (automático);40.900;2020;PR;Curitiba;Vazio
+1787;89.900;Renault;Duster;Dynamique 1.6 Cvt (automático);40.900;2020;PR;Curitiba;Vazio
+1788;69.800;Volkswagen;Polo;1.6 Msi Total Flex Manual;39.000;2018;PR;Tarumã - Curitiba;Vazio
+1789;79.800;Fiat;Cronos;1.8 E.torq Flex Drive At6;23.000;2020;PR;Tarumã - Curitiba;Vazio
+1790;69.900;Renault;Fluence;Dynamique;41.000;2018;PR;Novo Mundo - Curitiba;Vazio
+1791;82.990;Renault;Duster;1.6 16v Sce Flex Dynamique X-tronic;42.367;2019;PR;Lindóia - Curitiba;Vazio
+1792;82.900;Volkswagen;Polo;1.0 200 Tsi Comfortline Automático;22.900;2020;PR;Portão - Curitiba;Vazio
+1793;90.000;Chevrolet;Onix;Plus Premier 1.0 Tb 12v Flex;5.000;2020;PR;Curitiba;Vazio
+1794;59.900;Chevrolet;Prisma;1.0 Mpfi Joy 8v Flex 4p Manual;46.200;2019;PR;Centro - Telêmaco Borba;Vazio
+1795;57.900;Fiat;Argo;1.0 Firefly Flex Drive Manual;57.173;2019;PR;São Mateus do Sul;Vazio
+1796;83.900;Renault;Duster;Renault Duster 1.6 Flex Gopro Automática Completa;59.000;2020;PR;Estrela - Ponta Grossa;Vazio
+1797;72.900;Renault;Logan;1.6 16v Sce Flex Zen X-tronic;18.027;2020;PR;São Mateus do Sul;Vazio
+1798;59.800;Fiat;Argo;1.0 Firefly Flex Manual;31.000;2020;PR;Tarumã - Curitiba;Vazio
+1799;83.900;Renault;Sandero;2.0 16v Hi-flex Rs Racing Spirit Manual;12.437;2021;PR;Novo Mundo - Curitiba;Vazio
+1800;69.900;Renault;Sandero;Rs Sport2.0 Rs Sport;25.189;2019;PR;Marechal Cândido Rondon;Vazio
+1801;61.900;Fiat;Strada;1.4 Mpi Hard Working Cs 8v Flex 2p Manual;98.625;2020;PR;Jardim das Américas - Curitiba;Vazio
+1802;61.900;Peugeot;Partner;1.6 16v Flex 4p Manual;129.989;2019;PR;Jardim das Américas - Curitiba;Vazio
+1803;58.900;Fiat;Fiat;Argo 1.0 Argo 1.0;69.300;2019;PR;Jardim Nossa Senhora de Fátima - Colombo;Vazio
+1804;61.900;Fiat;Argo;Argo Drive 1.0;42.000;2020;PR;Jardim Nossa Senhora de Fátima - Colombo;Vazio
+1805;69.900;Chevrolet;Spin;1.8 Ltz 8v Flex 4p Manual;173.844;2017;PR;Batel - Curitiba;Vazio
+1806;85.700;Volkswagen;Polo;Hatch Comfort. 200 Tsi 1.0 Flex 12v Aut.;33.500;2018;PR;Água Verde - Curitiba;Vazio
+1807;63.990;Volkswagen;Voyage;1.0 12v Flex;56.435;2021;PR;Maringá;Vazio
+1808;74.990;Volkswagen;Virtus;1.6 16v Flex;63.015;2020;PR;Maringá;Vazio
+1809;55.990;Volkswagen;Gol;1.0 12v Flex;60.725;2021;PR;Maringá;Vazio
+1810;55.990;Volkswagen;Gol;1.0 12v Flex;59.945;2021;PR;Maringá;Vazio
+1811;55.990;Volkswagen;Gol;1.0 12v Flex;56.465;2021;PR;Maringá;Vazio
+1812;55.490;Renault;Sandero;Life 1.0 12v Flex;70.906;2021;PR;Maringá;Vazio
+1813;65.800;Chevrolet;Onix;1.0 Black Edition Manual Completo;39.000;2021;PR;Estrela - Ponta Grossa;Vazio
+1814;79.900;Chevrolet;Onix;1.0 Turbo Flex Ltz Manual;37.500;2020;PR;Jardim Alvorada - Maringá;Vazio
+1815;62.900;Renault;Kwid;1.0 Flex Outsider Manual Completo;9.500;2022;PR;Estrela - Ponta Grossa;Vazio
+1816;63.900;Renault;Kwid;1.0 Flex Outsider Manual Completo;1.600;2022;PR;Estrela - Ponta Grossa;Vazio
+1817;89.800;Hyundai;Hb20;1.0 Flex Tgdi Sport Automático Completo;11.100;2021;PR;Estrela - Ponta Grossa;Vazio
+1818;55.900;Renault;Kangoo;Renault Kangoo 1.6 Express 16v Flex 4p Manual;131.705;2017;PR;Jardim das Américas - Curitiba;Vazio
+1819;55.900;Renault;Kangoo;Express Renault Kangoo 1.6 Express 16v Flex 4p Manual;139.301;2017;PR;Jardim das Américas - Curitiba;Vazio
+1820;89.900;Honda;Hr-v;Honda Hr-v 1.8 Flex Automática Completa;105.147;2016;PR;Estrela - Ponta Grossa;Vazio
+1821;65.500;Fiat;Argo;1.0 Flex 6v Manual Completo;10.800;2021;PR;Estrela - Ponta Grossa;Vazio
+1822;65.900;Peugeot;Partner;Partner Furgão;129.989;2019;PR;Jardim das Américas - Curitiba;Vazio
+1823;66.800;Chevrolet;Onix;1.0 Flex Joy Black Manual Completo;8.000;2021;PR;Estrela - Ponta Grossa;Vazio
+1824;70.120;Fiat;Strada;1.4 Mpi Hard Working Cs 8v Flex 2p Manual;54.603;2020;PR;Oficinas - Ponta Grossa;Vazio
+1825;83.900;Volkswagen;Virtus;1.6 Msi Total Flex Manual;59.632;2021;PR;Londrina;Vazio
+1826;60.900;Chevrolet;Spin;1.8 Ltz 8v Flex 4p Automático;66.600;2015;PR;Vila Araponguinha - Arapongas;Vazio
+1827;59.900;Fiat;Strada;1.4 Mpi Hard Working Cs 8v Flex 2p Manual;133.285;2019;PR;Jardim das Américas - Curitiba;Vazio
+1828;88.900;Hyundai;Hb20;1.0 Tgdi Flex Sport Automático;17.800;2021;PR;Centro - Apucarana;Vazio
+1829;88.900;Jeep;Renegade;1.8 16v Flex Sport 4p Manual;31.000;2019;PR;Jardim das Américas - Curitiba;Vazio
+1830;89.800;Jeep;Renegade;Jeep Renegade 1.8 Flex Sport Automático Completo;40.000;2019;PR;Estrela - Ponta Grossa;Vazio
+1831;82.900;Chevrolet;Onix;1.0 Turbo Flex Ltz Manual;42.101;2020;PR;Londrina;Vazio
+1832;75.900;Chevrolet;Onix;1.0 Flex Manual;780;2022;PR;Londrina;Vazio
+1833;61.900;Volkswagen;Fox;1.6 Msi Total Flex Connect 4p Manual;30.500;2019;PR;Centro - Apucarana;Vazio
+1834;78.900;Ford;Ecosport;1.5 Ti-vct Flex Freestyle Automático;55.300;2018;PR;Centro - Apucarana;Vazio
+1835;57.000;Ford;Focus;1.6 S 16v Flex 4p Manual;93.100;2015;PR;Centro - Apucarana;Vazio
+1836;59.900;Peugeot;208;1.2 Active 12v Flex 4p Manual;47.965;2020;PR;Londrina;Vazio
+1837;74.900;Hyundai;Hb20s;1.0 12v Flex Evolution Manual;52.367;2020;PR;Londrina;Vazio
+1838;85.900;Hyundai;Hb20;1.0 Tgdi Flex Evolution Automático;52.517;2020;PR;Londrina;Vazio
+1839;56.900;Fiat;Mobi;1.0 Evo Flex Like. Manual;6.500;2021;PR;Centro - Apucarana;Vazio
+1840;84.800;Renault;Duster;1.6 16v Sce Flex Authentique X-tronic;45.000;2020;PR;Tarumã - Curitiba;Vazio
+1841;82.900;Volkswagen;Polo;Volkswagen Polo 1.0 Flex 200tsi Automático Completo;69.700;2019;PR;Estrela - Ponta Grossa;Vazio
+1842;66.900;Chevrolet;Onix;Lt 1.0;51.489;2020;PR;Vila Larsen - Londrina;Vazio
+1843;85.490;Chevrolet;Onix;1.0 Turbo Flex Plus Ltz Automático;51.700;2020;PR;São Cristovão - Cascavel;Vazio
+1844;63.490;Volkswagen;Polo;1.0 Mpi Total Flex Manual;61.477;2020;PR;São Cristovão - Cascavel;Vazio
+1845;73.900;Fiat;Fiorino;Furgao Fiat Fiorino 1.4 Mpi Furgão Hard Working 8v Flex 2p Manual;80.745;2019;PR;Jardim das Américas - Curitiba;Vazio
+1846;63.000;Chevrolet;Onix;1.0 Mpfi Joy 8v Flex 4p Manual;61.024;2020;PR;Batel - Curitiba;Vazio
+1847;73.900;Fiat;Doblo;1.8 Mpi Essence 7l 16v Flex 4p Manual;123.000;2020;PR;Batel - Curitiba;Vazio
+1848;68.900;Ford;Ecosport;2.0 Titanium 16v Flex 4p Powershift;84.573;2016;PR;Londrina;Vazio
+1849;78.900;Hyundai;Hb20s;1.0 Flex Evolution Manual Completo;17.500;2021;PR;Estrela - Ponta Grossa;Vazio
+1850;86.900;Volkswagen;Virtus;1.6 Msi Total Flex Automático;51.085;2020;PR;Londrina;Vazio
+1851;60.900;Hyundai;Hb20;1.0 12v Flex Sense Manual;50.587;2020;PR;Londrina;Vazio
+1852;63.900;Fiat;Argo;1.0 Firefly Flex Drive Manual;52.567;2020;PR;Londrina;Vazio
+1853;57.900;Fiat;Uno;1.0 Fire Flex Attractive Manual;56.770;2021;PR;Londrina;Vazio
+1854;57.900;Fiat;Uno;1.0 Fire Flex Attractive Manual;50.387;2021;PR;Londrina;Vazio
+1855;76.900;Fiat;Argo;1.3 Firefly Flex Trekking Manual;19.356;2020;PR;Londrina;Vazio
+1856;82.900;Chevrolet;Onix;1.0 Turbo Flex Lt Manual;17.032;2020;PR;Londrina;Vazio
+1857;89.490;Volkswagen;Virtus;1.0 200 Tsi Comfortline Automático;55.711;2021;PR;Oficinas - Ponta Grossa;Vazio
+1858;59.900;Chevrolet;Joy;1.0 Spe4 Flex Manual;61.928;2020;PR;Londrina;Vazio
+1859;58.900;Chevrolet;Joy;1.0 Spe4 Flex Manual;79.866;2020;PR;Londrina;Vazio
+1860;69.900;Volkswagen;Voyage;1.6 16v Msi Totalflex 4p Automático;85.493;2019;PR;Londrina;Vazio
+1861;55.990;Hyundai;Hb20;Hb20 1.0m;53.000;2019;PR;Prudentópolis;Vazio
+1862;73.900;Volkswagen;Saveiro;1.6 Msi Trendline Cs 8v Flex 2p Manual;49.199;2020;PR;Londrina;Vazio
+1863;66.900;Fiat;Argo;Fiat Argo 1.0 2021 / Apenas 11.000 Km!;11.000;2021;PR;Nova Rússia - Ponta Grossa;Vazio
+1864;86.900;Peugeot;2008;1.6 16v Flex Allure 4p Automático;22.540;2020;PR;Londrina;Vazio
+1865;63.900;Fiat;Argo;1.0 Firefly Flex Drive Manual;40.132;2020;PR;Londrina;Vazio
+1866;55.000;Volkswagen;Gol;1.6l Mb5;38.000;2019;PR;Jardim Carolina - Maringá;Vazio
+1867;72.800;Volkswagen;Saveiro;1.6 Msi Robust Cs 8v Flex 2p Manual;19.615;2021;PR;Parque São Paulo - Cascavel;Vazio
+1868;76.800;Renault;Duster;1.6 16v Sce Flex Expression Manual;49.290;2019;PR;Parque São Paulo - Cascavel;Vazio
+1869;81.800;Renault;Duster;Oroch 2.0 16v Hi-flex Dynamique Automático;59.499;2017;PR;Parque São Paulo - Cascavel;Vazio
+1870;57.800;Volkswagen;Gol;1.6 Msi Totalflex Trendline 4p Manual;56.795;2020;PR;Parque São Paulo - Cascavel;Vazio
+1871;59.990;Hyundai;Hb20;1.0 Comfort 12v Flex 4p Manual;105.397;2019;PR;Londrina;Vazio
+1872;66.800;Chevrolet;Montana;Chevrolet Montana 1.4 Flex Ls Manual Completa;45.000;2020;PR;Estrela - Ponta Grossa;Vazio
+1873;82.900;Hyundai;Hb20;1.6 16v Flex Vision Automático;52.663;2020;PR;Londrina;Vazio
+1874;73.860;Volkswagen;Virtus;1.6 Msi Total Flex Manual;50.832;2020;PR;Rodocentro - Londrina;Localiza Seminovos
+1875;81.270;Renault;Duster;1.6 16v Sce Flex Expression X-tronic;51.788;2020;PR;Rodocentro - Londrina;Localiza Seminovos
+1876;62.840;Volkswagen;Voyage;1.6 Msi Totalflex 4p Manual;57.137;2021;PR;Oficinas - Ponta Grossa;Vazio
+1877;89.900;Volkswagen;Virtus;1.0 200 Tsi Comfortline Automático;48.450;2019;PR;Batel - Curitiba;Vazio
+1878;86.900;Volkswagen;Saveiro;1.6 Flex Cab. Dupla Cross Connect Manual Completa;62.500;2017;PR;Estrela - Ponta Grossa;Vazio
+1879;72.900;Hyundai;Hb20s;1.6 Comfort Plus 16v Flex 4p Automático;55.000;2019;PR;Jardim Real - Maringá;Vazio
+1880;59.900;Nissan;Sentra;2.0 Sl 16v Flex 4p Automático;105.000;2015;PR;Jardim Real - Maringá;Vazio
+1881;67.830;Renault;Sandero;1.6 16v Sce Flex Stepway Zen Manual;55.951;2020;PR;Oficinas - Ponta Grossa;Vazio
+1882;70.900;Renault;Sandero;1.6 16v Sce Flex Zen X-tronic;55.648;2020;PR;Londrina;Vazio
+1883;60.900;Hyundai;Hb20;1.0 12v Flex Sense Manual;64.000;2020;PR;Londrina;Vazio
+1884;74.000;Renault;Oroch;Express 1.6 Flex 16v;139.313;2019;PR;Centro - Ponta Grossa;Vazio
+1885;59.180;Volkswagen;Voyage;1.6 Msi Totalflex 4p Manual;36.683;2020;PR;Rodocentro - Londrina;Localiza Seminovos
+1886;59.180;Volkswagen;Voyage;1.6 Msi Totalflex 4p Manual;36.683;2020;PR;Rodocentro - Londrina;Localiza Seminovos
+1887;56.320;Ford;Ka;1.0 Ti-vct Flex Se Sedan Manual;47.411;2020;PR;Rodocentro - Londrina;Localiza Seminovos
+1888;55.990;Renault;Sandero;1.0 12v Sce Flex Life Manual;42.000;2021;PR;São Cristovão - Cascavel;Vazio
+1889;67.090;Volkswagen;Saveiro;1.6 Msi Trendline Cs 8v Flex 2p Manual;79.000;2020;PR;São Cristovão - Cascavel;Vazio
+1890;57.890;Citroën;C3;1.2 Pure Tech Flex Attraction Manual;59.000;2020;PR;São Cristovão - Cascavel;Vazio
+1891;62.990;Chevrolet;Montana;1.4 Mpfi Ls Cs 8v Flex 2p Manual;76.000;2020;PR;São Cristovão - Cascavel;Vazio
+1892;73.990;Renault;Logan;1.6 16v Sce Flex Iconic X-tronic;55.000;2020;PR;São Cristovão - Cascavel;Vazio
+1893;61.800;Ford;New;Fiesta Ford New Fiesta 1.6 Flex Sel Manual Completo;59.500;2019;PR;Estrela - Ponta Grossa;Vazio
+1894;56.900;Renault;Logan;1.0 12v Sce Flex Zen Manual;71.725;2020;PR;Jardim das Américas - Curitiba;Localiza Seminovos
+1895;62.540;Volkswagen;Polo;1.0 Mpi Total Flex Manual;64.611;2020;PR;Rodocentro - Londrina;Localiza Seminovos
+1896;60.960;Fiat;Argo;1.0 Firefly Flex Drive Manual;53.583;2020;PR;Rodocentro - Londrina;Localiza Seminovos
+1897;69.560;Chevrolet;Onix;1.0 Flex Lt Manual;51.001;2020;PR;Rodocentro - Londrina;Localiza Seminovos
+1898;62.990;Volkswagen;Voyage;1.6 Msi Totalflex 4p Manual;50.000;2021;PR;São Cristovão - Cascavel;Vazio
+1899;74.900;Volkswagen;Virtus;1.6 Msi Total Flex Manual;52.192;2020;PR;Jardim das Américas - Curitiba;Localiza Seminovos
+1900;79.900;Chevrolet;Onix;1.0 Turbo Flex Plus Lt Automático;50.607;2020;PR;Jardim das Américas - Curitiba;Localiza Seminovos
+1901;57.530;Citroën;C3;1.2 Pure Tech Flex Attraction Manual;59.662;2020;PR;Rodocentro - Londrina;Localiza Seminovos
+1902;59.270;Chevrolet;Joy;1.0 Spe4 Flex Manual;37.296;2020;PR;Rodocentro - Londrina;Localiza Seminovos
+1903;83.900;Jeep;Renegade;1.8 16v Flex 4p Automático;73.000;2018;PR;Jardim Real - Maringá;Vazio
+1904;63.490;Volkswagen;Polo;1.0 Mpi Total Flex Manual;51.000;2020;PR;São Cristovão - Cascavel;Vazio
+1905;85.490;Chevrolet;Onix;1.0 Turbo Flex Ltz Automático;53.131;2020;PR;São Cristovão - Cascavel;Vazio
+1906;65.800;Hyundai;Hb20s;Hb20s Comfort 1.0;38.247;2019;PR;Centro - Londrina;Vazio
+1907;57.900;Fiat;Strada;1.4 Mpi Hard Working Ce 8v Flex 2p Manual;116.000;2018;PR;Cornélio Procópio;Vazio
+1908;61.900;Peugeot;Partner;1.6 16v Flex 4p Manual;126.443;2019;PR;Jardim das Américas - Curitiba;Vazio
+1909;59.900;Volkswagen;Fox;1.6 Msi Total Flex Connect 4p Manual;42.361;2018;PR;Batel - Curitiba;Vazio
+1910;57.900;Chevrolet;Prisma;Prisma Joy 2019 / Apenas 24.000 Km!;24.000;2019;PR;Nova Rússia - Ponta Grossa;Vazio
+1911;55.900;Chevrolet;Montana;Ls2;120.000;2018;PR;Curitiba;Vazio
+1912;55.900;Fiat;Strada;Hd Wk Cc E;73.000;2018;PR;Novo Mundo - Curitiba;Vazio
+1913;57.900;Renault;Kangoo;Express Kgoo Express16;184.000;2017;PR;Novo Mundo - Curitiba;Vazio
+1914;62.990;Volkswagen;Polo;1.0 Mpi Total Flex Manual;55.671;2020;PR;Jardim das Américas - Curitiba;Localiza Seminovos
+1915;82.490;Volkswagen;Virtus;1.0 200 Tsi Comfortline Automático;51.299;2020;PR;Jardim das Américas - Curitiba;Localiza Seminovos
+1916;70.000;Audi;A3;Lm;11.111;2015;PR;Borda do Campo - Quatro Barras;Vazio
+1917;90.000;Ford;Fusion;2.0 Gtdi Titanium Awd Aut. 4p;80.000;2016;PR;Parque Presidente II - Foz do Iguaçu;Vazio
+1918;72.900;Volkswagen;Jetta;1.4 16v Tsi Trendline Gasolina 4p Manual;500.000;2016;PR;Jardim Carolina - Maringá;Vazio
+1919;69.900;Chevrolet;Prisma;1.4 Lt 8v Flex Manual;22.951;2019;PR;Jardim das Américas - Curitiba;Vazio
+1920;60.900;Ford;Focus;S 1.6;99.445;2015;PR;São José dos Pinhais;Vazio
+1921;62.900;Peugeot;2008;Allure 1.6 Automatico;62.376;2017;PR;Xaxim - Curitiba;Vazio
+1922;79.900;Jeep;Renegade;Longitude 1.8 Flex Automatico;38.027;2016;PR;Jardim das Américas - Curitiba;Vazio
+1923;74.900;Chevrolet;Onix;1.4 At Ltz;55.125;2019;PR;Jardim das Américas - Curitiba;Vazio
+1924;64.900;Ford;Focus;Titanium 2.0 At;108.806;2015;PR;São José dos Pinhais;Vazio
+1925;72.900;Fiat;Cronos;Drive 1.3 (flex);34.426;2019;PR;São José dos Pinhais;Vazio
+1926;89.900;Chevrolet;Spin;Ltz 7p;64.211;2019;PR;Jardim das Américas - Curitiba;Vazio
+1927;63.900;Ford;Ecosport;Titanium 2.0 16v Powershift (flex);87.320;2015;PR;São José dos Pinhais;Vazio
+1928;84.900;Renault;Captur;Inten 20a;80.000;2018;PR;Curitiba;Vazio
+1929;71.900;Mitsubishi;Lancer;2.0 Hle 16v Automatico;70.000;2017;PR;Xaxim - Curitiba;Vazio
+1930;62.900;Renault;Duster;Expression 1.6 16v (flex);51.294;2016;PR;São José dos Pinhais;Vazio
+1931;84.900;Ford;Ranger;Xls 2.5 16v 4x2 Cs;75.800;2015;PR;Xaxim - Curitiba;Vazio
+1932;76.900;Chevrolet;Tracker;Ltz At;87.691;2015;PR;Jardim das Américas - Curitiba;Vazio
+1933;74.900;Volkswagen;Polo;Polo 1.6 Msi 2020 / Apenas 24.000 Km Financio Aceito Troca!;24.000;2020;PR;Nova Rússia - Ponta Grossa;Vazio
+1934;85.900;Volkswagen;Golf;Variant Golf 1.4 Tsi Variant Comfortline 16v;91.000;2016;PR;Boa Vista - Curitiba;Vazio
+1935;55.000;Mitsubishi;Asx;2.0 2wd 5p;100.000;2015;PR;Parque Presidente II - Foz do Iguaçu;Vazio
+1936;66.900;Fiat;Strada;Hard Working Ce;63.000;2020;PR;Vila Santo Antônio - Maringá;Vazio
+1937;86.800;Hyundai;Ix35;2.0 Launching Edition 16v Flex 4p Automático;127.000;2016;PR;Tarumã - Curitiba;Vazio
+1938;60.000;Mitsubishi;Lancer;1.6 16v;80.000;2016;PR;Parque Presidente II - Foz do Iguaçu;Vazio
+1939;57.900;Fiat;Argo;Drive 1.0 _4p_;121.000;2020;PR;Boqueirão - Curitiba;Vazio
+1940;77.900;Peugeot;208;Like;4.000;2022;PR;Hauer - Curitiba;Vazio
+1941;82.990;Ford;Fusion;2.0 Titanium Fwd 16v Gasolina 4p Automático;89.665;2015;PR;Lindóia - Curitiba;Vazio
+1942;55.000;Honda;Fit;1.6 16v;10.000;2016;PR;Parque Presidente II - Foz do Iguaçu;Vazio
+1943;77.690;Volkswagen;Saveiro;1.6 Msi Trendline Cs 8v Flex 2p Manual;60.102;2021;PR;Oficinas - Ponta Grossa;Vazio
+1944;78.900;Hyundai;Hb20;1.6 Premium 16v Flex 4p Automático;41.166;2018;PR;Londrina;Vazio
+1945;85.900;Jeep;Renegade;1.8 Sport (auto);43.000;2018;PR;Curitiba;Vazio
+1946;85.900;Jeep;Renegade;1.8 Sport (auto);43.000;2018;PR;Curitiba;Vazio
+1947;55.900;Volkswagen;Voyage;Novo Hl Mbv;45.000;2018;PR;Xaxim - Curitiba;Vazio
+1948;77.900;Renault;Duster;Oroch Oroch 1.6 Dynamique 4x2;63.492;2017;PR;Jardim das Américas - Curitiba;Vazio
+1949;58.900;Nissan;March;1.6 Sl 16v Flex 4p Manual;65.262;2017;PR;Jardim das Américas - Curitiba;Vazio
+1950;69.900;Ford;Ecosport;Fsl At 1.6b;31.849;2016;PR;Jardim das Américas - Curitiba;Vazio
+1951;65.900;Ford;Focus;Titanium Plus 2.0 Flex 5p Aut;113.000;2015;PR;Xaxim - Curitiba;Vazio
+1952;59.900;Ford;Fiesta;Hatch Titanium 1.6 16v Flex Aut.;45.000;2016;PR;Xaxim - Curitiba;Vazio
+1953;67.900;Volkswagen;Gol;1.0l Mc4;27.279;2022;PR;Curitiba;Vazio
+1954;63.900;Ford;Ecosport;Titanium 1.6;53.246;2015;PR;Jardim das Américas - Curitiba;Vazio
+1955;84.900;Renault;Duster;20 D 4x2;22.339;2019;PR;Jardim das Américas - Curitiba;Vazio
+1956;77.900;Renault;Duster;Dynamique 4x4 2.0 16v;57.947;2019;PR;Jardim das Américas - Curitiba;Vazio
+1957;88.900;Nissan;Kicks;Sl 1.6 16v;91.000;2017;PR;Xaxim - Curitiba;Vazio
+1958;58.900;Ford;Focus;Sedan Focus 2.0 Se 16v Flex 4p Powershift;75.015;2015;PR;São José dos Pinhais;Vazio
+1959;72.900;Renault;Duster;Exp16 Sce;58.000;2019;PR;Portão - Curitiba;Vazio
+1960;67.900;Renault;Duster;Dynamique 2.0 16v Hi-flex Aut.;115.988;2016;PR;São José dos Pinhais;Vazio
+1961;57.900;Chevrolet;Prisma;1.4 Spe/4 Lt (aut);65.034;2015;PR;São José dos Pinhais;Vazio
+1962;60.900;Ford;Focus;S 1.6;99.445;2015;PR;São José dos Pinhais;Vazio
+1963;89.900;Kia;Sorento;Ex 4x2 2.4 16v Aut;80.000;2015;PR;Xaxim - Curitiba;Vazio
+1964;89.900;Chevrolet;Tracker;Ltz 1.4 Turbo 16v Flex 4x2 Aut.;103.023;2017;PR;Boa Vista - Curitiba;Vazio
+1965;77.900;Ford;Ecosport;1.5 Se Mec;57.785;2019;PR;Jardim das Américas - Curitiba;Vazio
+1966;85.900;Honda;Civic;Lxr 2.0 16v Flex Aut.;55.000;2016;PR;Xaxim - Curitiba;Vazio
+1967;75.900;Honda;Fit;Ex-cvt 1.5 16v 4p;35.000;2016;PR;Xaxim - Curitiba;Vazio
+1968;75.900;Honda;Fit;Ex-cvt 1.5 16v 4p;38.000;2016;PR;Xaxim - Curitiba;Vazio
+1969;55.900;Volkswagen;Gol;1.0;34.432;2019;PR;São José dos Pinhais;Vazio
+1970;69.900;Jac;T40;1.5 Jet Flex;59.136;2020;PR;Jardim das Américas - Curitiba;Vazio
+1971;69.900;Volkswagen;Polo;1.6 Msi;43.281;2018;PR;São José dos Pinhais;Vazio
+1972;74.900;Peugeot;2008;Allure 1.6 Automatico;26.000;2019;PR;Xaxim - Curitiba;Vazio
+1973;61.900;Volkswagen;Fox;Pepper 1.6 Msi;31.404;2017;PR;São José dos Pinhais;Vazio
+1974;64.900;Mitsubishi;Lancer;2.0 Cvt;93.671;2015;PR;São José dos Pinhais;Vazio
+1975;65.900;Fiat;Argo;Drive 1.0 (flex);50.688;2020;PR;São José dos Pinhais;Vazio
+1976;59.900;Jac;T40;1.5 Jetflex;50.000;2018;PR;Xaxim - Curitiba;Vazio
+1977;62.900;Volkswagen;Fox;Connect 1.6;47.664;2018;PR;São José dos Pinhais;Vazio
+1978;64.900;Chevrolet;Onix;1.0 Joy;57.994;2018;PR;São José dos Pinhais;Vazio
+1979;64.900;Hyundai;Tucson;2.0 Gls Flex 4p Aut;79.626;2015;PR;Jardim das Américas - Curitiba;Vazio
+1980;70.900;Renault;Duster;1.6 Dynamique 4x2 16v Flex 4p Manual;92.000;2017;PR;Xaxim - Curitiba;Vazio
+1981;86.900;Nissan;Sentra;2.0 S Cvt;25.260;2019;PR;Jardim das Américas - Curitiba;Vazio
+1982;89.900;Chevrolet;Cruze;Lt Hb At;53.733;2017;PR;Jardim das Américas - Curitiba;Vazio
+1983;55.900;Volkswagen;Gol;1.0;43.942;2019;PR;São José dos Pinhais;Vazio
+1984;89.900;Volkswagen;Polo;Comfortline 1.0 200 Tsi;11.406;2020;PR;São José dos Pinhais;Vazio
+1985;55.900;Fiat;Fiorino;1.4 Flex;152.000;2015;PR;Capão Raso - Curitiba;Vazio
+1986;59.900;Volkswagen;Gol;1.6;73.912;2020;PR;São José dos Pinhais;Vazio
+1987;85.900;Volkswagen;Virtus;1.6 Msi;36.287;2021;PR;São José dos Pinhais;Vazio
+1988;80.900;Jeep;Renegade;1.8 At;62.596;2018;PR;Jardim das Américas - Curitiba;Vazio
+1989;64.900;Fiat;Argo;Drive 1.0 (flex);51.844;2020;PR;São José dos Pinhais;Vazio
+1990;79.900;Volkswagen;Virtus;1.6 Msi (automático);18.232;2020;PR;São José dos Pinhais;Vazio
+1991;64.900;Fiat;Argo;Drive 1.0 (flex);51.844;2020;PR;São José dos Pinhais;Vazio
+1992;66.900;Volkswagen;Fox;Connect 1.6;18.867;2021;PR;São José dos Pinhais;Vazio
+1993;69.990;Volkswagen;Fox;Connect 1.6;5.184;2022;PR;São José dos Pinhais;Vazio
+1994;80.900;Jac;T40;1.6 Cvt;54.582;2020;PR;São José dos Pinhais;Vazio
+1995;68.900;Volkswagen;Voyage;1.6 Msi (automático);82.374;2019;PR;São José dos Pinhais;Vazio
+1996;80.900;Volkswagen;Virtus;1.6 Msi (automático);41.929;2019;PR;São José dos Pinhais;Vazio
+1997;57.900;Volkswagen;Saveiro;Cabine Simples St Mb;77.777;2015;PR;Curitiba;Vazio
+1998;77.900;Kia;Sorento;Sorento Ex2 2.4 16v;67.000;2015;PR;Capão Raso - Curitiba;Vazio
+1999;60.000;Chery;Tiggo;2 1.6 16v;10.000;2019;PR;Parque Presidente II - Foz do Iguaçu;Vazio
+2000;57.900;Chevrolet;Spin;1.8l Mt Lt;92.500;2017;PR;Capão Raso - Curitiba;Vazio
+2001;59.800;Volkswagen;Voyage;1.6 Msi Totalflex 4p Manual;24.000;2019;PR;Tarumã - Curitiba;Vazio
+2002;73.990;Citroën;C4;Lounge 1.6 Exclusive 16v Turbo Flex 4p Automático;72.324;2016;PR;Lindóia - Curitiba;Vazio
+2003;58.900;Chevrolet;Onix;Ltz 1.4 Mpfi 8v 4p Aut.;104.000;2015;PR;Maringá;Vazio
+2004;61.900;Fiat;Argo;1.0;56.000;2020;PR;Cajurú - Curitiba;Vazio
+2005;57.500;Hyundai;Hb20;Hb20 1.6a Comf;63.747;2015;PR;Wenceslau Braz;Vazio
+2006;59.900;Chevrolet;Montana;Ls 1.4 Mpfi 8v Econo.flex Mec.;106.562;2019;PR;Santa Felicidade - Curitiba;Vazio
+2007;67.900;Fiat;Strada;Hard Working Cabine Simples Cc E;66.314;2020;PR;Santa Felicidade - Curitiba;Vazio
+2008;68.900;Ford;Ecosport;Se 1.6b;62.885;2017;PR;Wenceslau Braz;Vazio
+2009;81.990;Jeep;Renegade;Lngtd At;75.000;2016;PR;Centro - Londrina;Vazio
+2010;83.900;Renault;Captur;1.6 16v Sce Flex Zen Manual;54.981;2018;PR;Três Marias - São José dos Pinhais;Vazio
+2011;67.900;Volkswagen;Gol;1.0 12v Mpi Totalflex 4p Manual;27.273;2022;PR;Três Marias - São José dos Pinhais;Vazio
+2012;84.900;Fiat;Fiorino;1.4 Mpi Furgão Hard Working 8v Flex 2p Manual;11.090;2021;PR;Londrina;Vazio
+2013;70.900;Chevrolet;Onix;1.4 Mpfi Lt 8v Flex 4p Automático;18.628;2018;PR;Londrina;Vazio
+2014;64.000;Nissan;Sentra;2.0 Sl 16v Flex 4p Automático;95.941;2015;PR;Londrina;Vazio
+2015;79.900;Nissan;Kicks;Nissan Kicks Manual;49.886;2018;PR;Nova Rússia - Ponta Grossa;Vazio
