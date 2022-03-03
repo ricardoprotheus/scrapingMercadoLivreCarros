@@ -1,4 +1,8 @@
 # Scraping Python do Site Mercado Livre
+**O que falta fazer**
+* Criar funções para automatizar tudo
+* Concatenar arquivo csv, através do python
+* Organizar o código
 
 **Objetivos:**
  * Desenvolver um Scraping em pyhton, de algumas páginas do site mercado livre.
